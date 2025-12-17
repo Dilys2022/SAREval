@@ -1,4 +1,4 @@
-# SAREval: A Multi-Dimensional Benchmark for SAR Image Understanding VLMs
+<img width="8215" height="9813" alt="图1 SARBench-VLM数据集架构V2 0" src="https://github.com/user-attachments/assets/4a2cf033-3e04-4bfc-bd57-1a86ff001cad" /># SAREval: A Multi-Dimensional Benchmark for SAR Image Understanding VLMs
 
 <div align="center">
   <p>🔭 A Comprehensive Benchmark for Evaluating Vision-Language Models on Synthetic Aperture Radar (SAR) Imagery</p>
@@ -14,9 +14,6 @@ SAREval is the first dedicated benchmark for evaluating Visual Language Models (
 | Perception     | Image-level/Object-level/Pixel-level Tasks | 11,309 | Feature extraction, object localization |
 | Reasoning      | Geometric/Attribute/Imaging Parameter Tasks | 2,643 | Physical attribute derivation |
 | Robustness     | Speckle/Clutter Interference Tasks | 998 | Anti-interference evaluation |
-
-![Uploading 图1 SARBench-VLM数据集架构V2.0.png…]()
-
 
 ### Key Features
 - **20+ Diverse Tasks**: Covers core capabilities including perception (e.g., aircraft classification, ship detection), reasoning (e.g., imaging parameter estimation), and robustness (e.g., noise resistance).
