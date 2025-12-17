@@ -143,7 +143,7 @@ evalscope eval --config eval_config.yaml
 SAREval uses task-specific metrics for comprehensive assessment:
 - **Multiple-Choice**: Accuracy
 - **Visual Grounding**:  IoU@0.25, IoU@0.5  
-- **Description Tasks (e.g., scene captioning)**: BLEU, ROUGE-L, BERTScore，LLM-as-Judgement
+- **Description Tasks (e.g., scene captioning)**: BLEU, ROUGE-L, BERTScore，LLM-as-a-Judge
 
 
 ## 🎯 Contributing
