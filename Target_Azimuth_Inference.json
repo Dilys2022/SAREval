@@ -1,0 +1,2693 @@
+[
+  {
+    "image_path": "azimuth_images\\KU_HH_15_110_249295.png",
+    "ground_truth": "110°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "110°",
+      "120°",
+      "105°",
+      "70°"
+    ],
+    "options": "A. 110°   B. 105°   C. 120°   D. 70°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_110_249295.png",
+    "question_id": 0,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_115_680587.png",
+    "ground_truth": "115°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "115°",
+      "80°",
+      "120°",
+      "125°"
+    ],
+    "options": "A. 115°   B. 80°   C. 125°   D. 120°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_115_680587.png",
+    "question_id": 1,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_120_603786.png",
+    "ground_truth": "120°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "120°",
+      "130°",
+      "155°",
+      "125°"
+    ],
+    "options": "A. 130°   B. 125°   C. 120°   D. 155°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_120_603786.png",
+    "question_id": 2,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_140_80603.png",
+    "ground_truth": "140°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "140°",
+      "145°",
+      "170°",
+      "150°"
+    ],
+    "options": "A. 140°   B. 170°   C. 150°   D. 145°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_140_80603.png",
+    "question_id": 3,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_145_518065.png",
+    "ground_truth": "145°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "145°",
+      "200°",
+      "150°",
+      "135°"
+    ],
+    "options": "A. 145°   B. 150°   C. 135°   D. 200°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_145_518065.png",
+    "question_id": 4,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_150_307102.png",
+    "ground_truth": "150°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "150°",
+      "160°",
+      "195°",
+      "155°"
+    ],
+    "options": "A. 155°   B. 150°   C. 195°   D. 160°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_150_307102.png",
+    "question_id": 5,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_170_144529.png",
+    "ground_truth": "170°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "170°",
+      "175°",
+      "180°",
+      "215°"
+    ],
+    "options": "A. 215°   B. 180°   C. 175°   D. 170°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_170_144529.png",
+    "question_id": 6,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_175_481064.png",
+    "ground_truth": "175°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "175°",
+      "185°",
+      "115°",
+      "180°"
+    ],
+    "options": "A. 185°   B. 180°   C. 115°   D. 175°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_175_481064.png",
+    "question_id": 7,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_180_161830.png",
+    "ground_truth": "180°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "180°",
+      "185°",
+      "140°",
+      "190°"
+    ],
+    "options": "A. 140°   B. 180°   C. 190°   D. 185°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_180_161830.png",
+    "question_id": 8,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_200_708231.png",
+    "ground_truth": "200°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "200°",
+      "155°",
+      "205°",
+      "190°"
+    ],
+    "options": "A. 190°   B. 155°   C. 200°   D. 205°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_200_708231.png",
+    "question_id": 9,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_205_373936.png",
+    "ground_truth": "205°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "205°",
+      "210°",
+      "165°",
+      "215°"
+    ],
+    "options": "A. 165°   B. 205°   C. 210°   D. 215°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_205_373936.png",
+    "question_id": 10,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_210_794624.png",
+    "ground_truth": "210°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "210°",
+      "155°",
+      "220°",
+      "215°"
+    ],
+    "options": "A. 215°   B. 220°   C. 155°   D. 210°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_210_794624.png",
+    "question_id": 11,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_230_673212.png",
+    "ground_truth": "230°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "230°",
+      "240°",
+      "235°",
+      "285°"
+    ],
+    "options": "A. 285°   B. 235°   C. 240°   D. 230°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_230_673212.png",
+    "question_id": 12,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_235_659670.png",
+    "ground_truth": "235°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "235°",
+      "225°",
+      "185°",
+      "245°"
+    ],
+    "options": "A. 185°   B. 245°   C. 235°   D. 225°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_235_659670.png",
+    "question_id": 13,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_240_743951.png",
+    "ground_truth": "240°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "240°",
+      "210°",
+      "250°",
+      "230°"
+    ],
+    "options": "A. 230°   B. 210°   C. 250°   D. 240°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_240_743951.png",
+    "question_id": 14,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_260_977221.png",
+    "ground_truth": "260°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "260°",
+      "265°",
+      "220°",
+      "270°"
+    ],
+    "options": "A. 265°   B. 220°   C. 270°   D. 260°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_260_977221.png",
+    "question_id": 15,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_265_622921.png",
+    "ground_truth": "265°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "265°",
+      "275°",
+      "220°",
+      "270°"
+    ],
+    "options": "A. 270°   B. 220°   C. 265°   D. 275°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_265_622921.png",
+    "question_id": 16,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_270_713421.png",
+    "ground_truth": "270°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "270°",
+      "280°",
+      "235°",
+      "260°"
+    ],
+    "options": "A. 270°   B. 280°   C. 235°   D. 260°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_270_713421.png",
+    "question_id": 17,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_290_93029.png",
+    "ground_truth": "290°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "290°",
+      "240°",
+      "300°",
+      "295°"
+    ],
+    "options": "A. 300°   B. 290°   C. 295°   D. 240°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_290_93029.png",
+    "question_id": 18,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_295_929117.png",
+    "ground_truth": "295°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "295°",
+      "290°",
+      "260°",
+      "300°"
+    ],
+    "options": "A. 300°   B. 290°   C. 260°   D. 295°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_295_929117.png",
+    "question_id": 19,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_300_711288.png",
+    "ground_truth": "300°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "300°",
+      "265°",
+      "310°",
+      "295°"
+    ],
+    "options": "A. 300°   B. 310°   C. 265°   D. 295°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_300_711288.png",
+    "question_id": 20,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_320_86729.png",
+    "ground_truth": "320°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "320°",
+      "330°",
+      "325°",
+      "5°"
+    ],
+    "options": "A. 325°   B. 330°   C. 320°   D. 5°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_320_86729.png",
+    "question_id": 21,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_325_89112.png",
+    "ground_truth": "325°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "325°",
+      "330°",
+      "315°",
+      "295°"
+    ],
+    "options": "A. 315°   B. 295°   C. 325°   D. 330°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_325_89112.png",
+    "question_id": 22,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_330_868136.png",
+    "ground_truth": "330°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "330°",
+      "290°",
+      "340°",
+      "335°"
+    ],
+    "options": "A. 330°   B. 290°   C. 340°   D. 335°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_330_868136.png",
+    "question_id": 23,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_350_763112.png",
+    "ground_truth": "350°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "350°",
+      "0°",
+      "35°",
+      "355°"
+    ],
+    "options": "A. 355°   B. 350°   C. 0°   D. 35°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_350_763112.png",
+    "question_id": 24,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_355_590743.png",
+    "ground_truth": "355°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "355°",
+      "320°",
+      "345°",
+      "5°"
+    ],
+    "options": "A. 5°   B. 320°   C. 355°   D. 345°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_355_590743.png",
+    "question_id": 25,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_80_325790.png",
+    "ground_truth": "80°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "80°",
+      "120°",
+      "75°",
+      "85°"
+    ],
+    "options": "A. 80°   B. 75°   C. 120°   D. 85°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_80_325790.png",
+    "question_id": 26,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_85_763283.png",
+    "ground_truth": "85°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "85°",
+      "120°",
+      "90°",
+      "75°"
+    ],
+    "options": "A. 75°   B. 120°   C. 90°   D. 85°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_85_763283.png",
+    "question_id": 27,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_15_90_621958.png",
+    "ground_truth": "90°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "90°",
+      "35°",
+      "100°",
+      "95°"
+    ],
+    "options": "A. 35°   B. 90°   C. 95°   D. 100°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_15_90_621958.png",
+    "question_id": 28,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_110_107018.png",
+    "ground_truth": "110°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "110°",
+      "80°",
+      "105°",
+      "115°"
+    ],
+    "options": "A. 110°   B. 115°   C. 105°   D. 80°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_110_107018.png",
+    "question_id": 29,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_115_381307.png",
+    "ground_truth": "115°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "115°",
+      "120°",
+      "125°",
+      "160°"
+    ],
+    "options": "A. 125°   B. 120°   C. 160°   D. 115°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_115_381307.png",
+    "question_id": 30,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_120_981931.png",
+    "ground_truth": "120°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "120°",
+      "160°",
+      "115°",
+      "125°"
+    ],
+    "options": "A. 115°   B. 160°   C. 125°   D. 120°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_120_981931.png",
+    "question_id": 31,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_140_249208.png",
+    "ground_truth": "140°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "140°",
+      "145°",
+      "130°",
+      "95°"
+    ],
+    "options": "A. 140°   B. 145°   C. 130°   D. 95°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_140_249208.png",
+    "question_id": 32,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_145_97440.png",
+    "ground_truth": "145°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "145°",
+      "155°",
+      "85°",
+      "150°"
+    ],
+    "options": "A. 145°   B. 150°   C. 155°   D. 85°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_145_97440.png",
+    "question_id": 33,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_150_227354.png",
+    "ground_truth": "150°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "150°",
+      "200°",
+      "155°",
+      "160°"
+    ],
+    "options": "A. 155°   B. 200°   C. 160°   D. 150°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_150_227354.png",
+    "question_id": 34,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_170_881810.png",
+    "ground_truth": "170°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "170°",
+      "115°",
+      "180°",
+      "175°"
+    ],
+    "options": "A. 115°   B. 180°   C. 175°   D. 170°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_170_881810.png",
+    "question_id": 35,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_175_295503.png",
+    "ground_truth": "175°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "175°",
+      "180°",
+      "165°",
+      "215°"
+    ],
+    "options": "A. 165°   B. 180°   C. 215°   D. 175°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_175_295503.png",
+    "question_id": 36,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_180_711655.png",
+    "ground_truth": "180°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "180°",
+      "185°",
+      "220°",
+      "175°"
+    ],
+    "options": "A. 175°   B. 220°   C. 185°   D. 180°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_180_711655.png",
+    "question_id": 37,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_200_137306.png",
+    "ground_truth": "200°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "200°",
+      "210°",
+      "205°",
+      "165°"
+    ],
+    "options": "A. 165°   B. 200°   C. 210°   D. 205°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_200_137306.png",
+    "question_id": 38,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_205_329164.png",
+    "ground_truth": "205°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "205°",
+      "240°",
+      "210°",
+      "215°"
+    ],
+    "options": "A. 210°   B. 240°   C. 215°   D. 205°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_205_329164.png",
+    "question_id": 39,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_210_598504.png",
+    "ground_truth": "210°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "210°",
+      "155°",
+      "220°",
+      "215°"
+    ],
+    "options": "A. 155°   B. 220°   C. 215°   D. 210°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_210_598504.png",
+    "question_id": 40,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_230_240928.png",
+    "ground_truth": "230°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "230°",
+      "235°",
+      "220°",
+      "175°"
+    ],
+    "options": "A. 235°   B. 175°   C. 230°   D. 220°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_230_240928.png",
+    "question_id": 41,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_235_500677.png",
+    "ground_truth": "235°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "235°",
+      "240°",
+      "180°",
+      "245°"
+    ],
+    "options": "A. 240°   B. 235°   C. 180°   D. 245°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_235_500677.png",
+    "question_id": 42,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_240_303651.png",
+    "ground_truth": "240°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "240°",
+      "250°",
+      "300°",
+      "245°"
+    ],
+    "options": "A. 245°   B. 300°   C. 240°   D. 250°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_240_303651.png",
+    "question_id": 43,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_260_587846.png",
+    "ground_truth": "260°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "260°",
+      "250°",
+      "315°",
+      "270°"
+    ],
+    "options": "A. 270°   B. 260°   C. 250°   D. 315°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_260_587846.png",
+    "question_id": 44,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_265_412075.png",
+    "ground_truth": "265°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "265°",
+      "225°",
+      "275°",
+      "270°"
+    ],
+    "options": "A. 265°   B. 275°   C. 225°   D. 270°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_265_412075.png",
+    "question_id": 45,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_270_676591.png",
+    "ground_truth": "270°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "270°",
+      "280°",
+      "265°",
+      "235°"
+    ],
+    "options": "A. 280°   B. 270°   C. 265°   D. 235°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_270_676591.png",
+    "question_id": 46,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_290_755425.png",
+    "ground_truth": "290°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "290°",
+      "280°",
+      "320°",
+      "295°"
+    ],
+    "options": "A. 280°   B. 295°   C. 290°   D. 320°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_290_755425.png",
+    "question_id": 47,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_295_15113.png",
+    "ground_truth": "295°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "295°",
+      "245°",
+      "300°",
+      "285°"
+    ],
+    "options": "A. 285°   B. 300°   C. 295°   D. 245°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_295_15113.png",
+    "question_id": 48,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_300_471655.png",
+    "ground_truth": "300°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "300°",
+      "240°",
+      "290°",
+      "310°"
+    ],
+    "options": "A. 290°   B. 240°   C. 300°   D. 310°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_300_471655.png",
+    "question_id": 49,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_320_633613.png",
+    "ground_truth": "320°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "320°",
+      "330°",
+      "20°",
+      "310°"
+    ],
+    "options": "A. 310°   B. 20°   C. 330°   D. 320°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_320_633613.png",
+    "question_id": 50,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_325_867695.png",
+    "ground_truth": "325°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "325°",
+      "330°",
+      "285°",
+      "335°"
+    ],
+    "options": "A. 325°   B. 335°   C. 285°   D. 330°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_325_867695.png",
+    "question_id": 51,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_330_602927.png",
+    "ground_truth": "330°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "330°",
+      "325°",
+      "270°",
+      "335°"
+    ],
+    "options": "A. 325°   B. 335°   C. 270°   D. 330°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_330_602927.png",
+    "question_id": 52,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_350_55047.png",
+    "ground_truth": "350°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "350°",
+      "0°",
+      "25°",
+      "355°"
+    ],
+    "options": "A. 0°   B. 350°   C. 355°   D. 25°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_350_55047.png",
+    "question_id": 53,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_355_665905.png",
+    "ground_truth": "355°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "355°",
+      "315°",
+      "5°",
+      "350°"
+    ],
+    "options": "A. 355°   B. 350°   C. 315°   D. 5°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_355_665905.png",
+    "question_id": 54,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_80_768832.png",
+    "ground_truth": "80°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "80°",
+      "140°",
+      "85°",
+      "70°"
+    ],
+    "options": "A. 80°   B. 85°   C. 140°   D. 70°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_80_768832.png",
+    "question_id": 55,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_85_938930.png",
+    "ground_truth": "85°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "85°",
+      "80°",
+      "140°",
+      "95°"
+    ],
+    "options": "A. 140°   B. 80°   C. 95°   D. 85°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_85_938930.png",
+    "question_id": 56,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_30_90_994241.png",
+    "ground_truth": "90°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "90°",
+      "80°",
+      "100°",
+      "30°"
+    ],
+    "options": "A. 90°   B. 100°   C. 30°   D. 80°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_30_90_994241.png",
+    "question_id": 57,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_110_218875.png",
+    "ground_truth": "110°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "110°",
+      "120°",
+      "65°",
+      "115°"
+    ],
+    "options": "A. 65°   B. 120°   C. 115°   D. 110°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_110_218875.png",
+    "question_id": 58,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_115_411398.png",
+    "ground_truth": "115°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "115°",
+      "125°",
+      "85°",
+      "110°"
+    ],
+    "options": "A. 115°   B. 85°   C. 110°   D. 125°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_115_411398.png",
+    "question_id": 59,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_120_916617.png",
+    "ground_truth": "120°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "120°",
+      "90°",
+      "125°",
+      "130°"
+    ],
+    "options": "A. 130°   B. 125°   C. 120°   D. 90°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_120_916617.png",
+    "question_id": 60,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_140_643118.png",
+    "ground_truth": "140°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "140°",
+      "145°",
+      "180°",
+      "150°"
+    ],
+    "options": "A. 140°   B. 145°   C. 180°   D. 150°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_140_643118.png",
+    "question_id": 61,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_145_159750.png",
+    "ground_truth": "145°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "145°",
+      "155°",
+      "150°",
+      "95°"
+    ],
+    "options": "A. 150°   B. 95°   C. 155°   D. 145°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_145_159750.png",
+    "question_id": 62,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_150_331360.png",
+    "ground_truth": "150°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "150°",
+      "160°",
+      "155°",
+      "190°"
+    ],
+    "options": "A. 160°   B. 155°   C. 190°   D. 150°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_150_331360.png",
+    "question_id": 63,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_170_526666.png",
+    "ground_truth": "170°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "170°",
+      "135°",
+      "180°",
+      "175°"
+    ],
+    "options": "A. 135°   B. 175°   C. 170°   D. 180°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_170_526666.png",
+    "question_id": 64,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_175_986169.png",
+    "ground_truth": "175°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "175°",
+      "145°",
+      "180°",
+      "165°"
+    ],
+    "options": "A. 175°   B. 165°   C. 145°   D. 180°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_175_986169.png",
+    "question_id": 65,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_180_382170.png",
+    "ground_truth": "180°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "180°",
+      "185°",
+      "170°",
+      "215°"
+    ],
+    "options": "A. 185°   B. 180°   C. 170°   D. 215°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_180_382170.png",
+    "question_id": 66,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_200_444671.png",
+    "ground_truth": "200°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "200°",
+      "210°",
+      "190°",
+      "230°"
+    ],
+    "options": "A. 190°   B. 200°   C. 230°   D. 210°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_200_444671.png",
+    "question_id": 67,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_205_795355.png",
+    "ground_truth": "205°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "205°",
+      "200°",
+      "210°",
+      "235°"
+    ],
+    "options": "A. 200°   B. 205°   C. 210°   D. 235°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_205_795355.png",
+    "question_id": 68,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_210_634312.png",
+    "ground_truth": "210°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "210°",
+      "220°",
+      "245°",
+      "215°"
+    ],
+    "options": "A. 245°   B. 215°   C. 210°   D. 220°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_210_634312.png",
+    "question_id": 69,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_230_425132.png",
+    "ground_truth": "230°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "230°",
+      "240°",
+      "290°",
+      "220°"
+    ],
+    "options": "A. 240°   B. 220°   C. 290°   D. 230°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_230_425132.png",
+    "question_id": 70,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_235_883200.png",
+    "ground_truth": "235°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "235°",
+      "240°",
+      "245°",
+      "190°"
+    ],
+    "options": "A. 235°   B. 190°   C. 245°   D. 240°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_235_883200.png",
+    "question_id": 71,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_240_75075.png",
+    "ground_truth": "240°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "240°",
+      "245°",
+      "250°",
+      "205°"
+    ],
+    "options": "A. 205°   B. 245°   C. 240°   D. 250°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_240_75075.png",
+    "question_id": 72,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_260_31711.png",
+    "ground_truth": "260°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "260°",
+      "225°",
+      "250°",
+      "270°"
+    ],
+    "options": "A. 260°   B. 250°   C. 270°   D. 225°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_260_31711.png",
+    "question_id": 73,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_265_103579.png",
+    "ground_truth": "265°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "265°",
+      "260°",
+      "205°",
+      "270°"
+    ],
+    "options": "A. 270°   B. 260°   C. 265°   D. 205°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_265_103579.png",
+    "question_id": 74,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_270_786047.png",
+    "ground_truth": "270°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "270°",
+      "330°",
+      "275°",
+      "260°"
+    ],
+    "options": "A. 270°   B. 275°   C. 260°   D. 330°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_270_786047.png",
+    "question_id": 75,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_290_76358.png",
+    "ground_truth": "290°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "290°",
+      "240°",
+      "300°",
+      "295°"
+    ],
+    "options": "A. 240°   B. 300°   C. 290°   D. 295°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_290_76358.png",
+    "question_id": 76,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_295_730337.png",
+    "ground_truth": "295°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "295°",
+      "290°",
+      "300°",
+      "255°"
+    ],
+    "options": "A. 290°   B. 300°   C. 255°   D. 295°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_295_730337.png",
+    "question_id": 77,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_300_112798.png",
+    "ground_truth": "300°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "300°",
+      "310°",
+      "305°",
+      "350°"
+    ],
+    "options": "A. 300°   B. 305°   C. 310°   D. 350°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_300_112798.png",
+    "question_id": 78,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_320_957056.png",
+    "ground_truth": "320°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "320°",
+      "5°",
+      "330°",
+      "325°"
+    ],
+    "options": "A. 5°   B. 325°   C. 320°   D. 330°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_320_957056.png",
+    "question_id": 79,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_325_31560.png",
+    "ground_truth": "325°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "325°",
+      "10°",
+      "315°",
+      "335°"
+    ],
+    "options": "A. 315°   B. 10°   C. 335°   D. 325°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_325_31560.png",
+    "question_id": 80,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_330_705872.png",
+    "ground_truth": "330°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "330°",
+      "320°",
+      "340°",
+      "285°"
+    ],
+    "options": "A. 320°   B. 330°   C. 340°   D. 285°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_330_705872.png",
+    "question_id": 81,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_350_762324.png",
+    "ground_truth": "350°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "350°",
+      "0°",
+      "40°",
+      "355°"
+    ],
+    "options": "A. 40°   B. 350°   C. 0°   D. 355°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_350_762324.png",
+    "question_id": 82,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_355_892774.png",
+    "ground_truth": "355°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "355°",
+      "0°",
+      "5°",
+      "310°"
+    ],
+    "options": "A. 0°   B. 5°   C. 355°   D. 310°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_355_892774.png",
+    "question_id": 83,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_80_982425.png",
+    "ground_truth": "80°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "80°",
+      "90°",
+      "140°",
+      "85°"
+    ],
+    "options": "A. 140°   B. 85°   C. 80°   D. 90°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_80_982425.png",
+    "question_id": 84,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_85_5768.png",
+    "ground_truth": "85°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "85°",
+      "75°",
+      "125°",
+      "95°"
+    ],
+    "options": "A. 125°   B. 75°   C. 95°   D. 85°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_85_5768.png",
+    "question_id": 85,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_45_90_15572.png",
+    "ground_truth": "90°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "90°",
+      "120°",
+      "100°",
+      "95°"
+    ],
+    "options": "A. 120°   B. 100°   C. 95°   D. 90°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_45_90_15572.png",
+    "question_id": 86,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_100_315684.png",
+    "ground_truth": "100°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "100°",
+      "105°",
+      "45°",
+      "95°"
+    ],
+    "options": "A. 105°   B. 95°   C. 45°   D. 100°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_100_315684.png",
+    "question_id": 87,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_105_130188.png",
+    "ground_truth": "105°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "105°",
+      "145°",
+      "115°",
+      "100°"
+    ],
+    "options": "A. 115°   B. 145°   C. 100°   D. 105°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_105_130188.png",
+    "question_id": 88,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_125_244601.png",
+    "ground_truth": "125°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "125°",
+      "130°",
+      "155°",
+      "135°"
+    ],
+    "options": "A. 130°   B. 155°   C. 135°   D. 125°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_125_244601.png",
+    "question_id": 89,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_130_381058.png",
+    "ground_truth": "130°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "130°",
+      "175°",
+      "140°",
+      "135°"
+    ],
+    "options": "A. 175°   B. 135°   C. 130°   D. 140°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_130_381058.png",
+    "question_id": 90,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_135_411410.png",
+    "ground_truth": "135°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "135°",
+      "130°",
+      "140°",
+      "165°"
+    ],
+    "options": "A. 165°   B. 140°   C. 130°   D. 135°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_135_411410.png",
+    "question_id": 91,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_155_616404.png",
+    "ground_truth": "155°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "155°",
+      "160°",
+      "115°",
+      "150°"
+    ],
+    "options": "A. 115°   B. 160°   C. 155°   D. 150°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_155_616404.png",
+    "question_id": 92,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_160_555982.png",
+    "ground_truth": "160°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "160°",
+      "200°",
+      "170°",
+      "165°"
+    ],
+    "options": "A. 165°   B. 170°   C. 200°   D. 160°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_160_555982.png",
+    "question_id": 93,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_165_519451.png",
+    "ground_truth": "165°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "165°",
+      "120°",
+      "170°",
+      "175°"
+    ],
+    "options": "A. 165°   B. 175°   C. 170°   D. 120°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_165_519451.png",
+    "question_id": 94,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_185_277699.png",
+    "ground_truth": "185°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "185°",
+      "225°",
+      "195°",
+      "190°"
+    ],
+    "options": "A. 185°   B. 190°   C. 195°   D. 225°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_185_277699.png",
+    "question_id": 95,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_190_984559.png",
+    "ground_truth": "190°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "190°",
+      "200°",
+      "195°",
+      "150°"
+    ],
+    "options": "A. 190°   B. 195°   C. 150°   D. 200°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_190_984559.png",
+    "question_id": 96,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_195_184380.png",
+    "ground_truth": "195°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "195°",
+      "200°",
+      "185°",
+      "235°"
+    ],
+    "options": "A. 185°   B. 200°   C. 195°   D. 235°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_195_184380.png",
+    "question_id": 97,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_215_357317.png",
+    "ground_truth": "215°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "215°",
+      "225°",
+      "250°",
+      "220°"
+    ],
+    "options": "A. 250°   B. 215°   C. 220°   D. 225°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_215_357317.png",
+    "question_id": 98,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_220_529807.png",
+    "ground_truth": "220°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "220°",
+      "160°",
+      "225°",
+      "230°"
+    ],
+    "options": "A. 220°   B. 230°   C. 225°   D. 160°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_220_529807.png",
+    "question_id": 99,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_225_471460.png",
+    "ground_truth": "225°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "225°",
+      "220°",
+      "270°",
+      "230°"
+    ],
+    "options": "A. 225°   B. 220°   C. 230°   D. 270°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_225_471460.png",
+    "question_id": 100,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_245_151463.png",
+    "ground_truth": "245°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "245°",
+      "250°",
+      "275°",
+      "255°"
+    ],
+    "options": "A. 255°   B. 245°   C. 275°   D. 250°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_245_151463.png",
+    "question_id": 101,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_250_586658.png",
+    "ground_truth": "250°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "250°",
+      "195°",
+      "260°",
+      "245°"
+    ],
+    "options": "A. 250°   B. 195°   C. 245°   D. 260°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_250_586658.png",
+    "question_id": 102,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_255_737779.png",
+    "ground_truth": "255°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "255°",
+      "260°",
+      "245°",
+      "215°"
+    ],
+    "options": "A. 215°   B. 255°   C. 260°   D. 245°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_255_737779.png",
+    "question_id": 103,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_275_156797.png",
+    "ground_truth": "275°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "275°",
+      "280°",
+      "325°",
+      "270°"
+    ],
+    "options": "A. 270°   B. 280°   C. 325°   D. 275°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_275_156797.png",
+    "question_id": 104,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_280_444559.png",
+    "ground_truth": "280°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "280°",
+      "290°",
+      "285°",
+      "330°"
+    ],
+    "options": "A. 280°   B. 285°   C. 330°   D. 290°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_280_444559.png",
+    "question_id": 105,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_285_530862.png",
+    "ground_truth": "285°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "285°",
+      "290°",
+      "235°",
+      "295°"
+    ],
+    "options": "A. 290°   B. 235°   C. 295°   D. 285°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_285_530862.png",
+    "question_id": 106,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_305_321938.png",
+    "ground_truth": "305°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "305°",
+      "315°",
+      "355°",
+      "310°"
+    ],
+    "options": "A. 315°   B. 305°   C. 355°   D. 310°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_305_321938.png",
+    "question_id": 107,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_310_761446.png",
+    "ground_truth": "310°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "310°",
+      "320°",
+      "315°",
+      "350°"
+    ],
+    "options": "A. 350°   B. 315°   C. 320°   D. 310°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_310_761446.png",
+    "question_id": 108,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_315_328878.png",
+    "ground_truth": "315°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "315°",
+      "320°",
+      "345°",
+      "325°"
+    ],
+    "options": "A. 345°   B. 320°   C. 325°   D. 315°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_315_328878.png",
+    "question_id": 109,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_335_182350.png",
+    "ground_truth": "335°",
+    "ground_truth_option": "C",
+    "options_list": [
+      "335°",
+      "345°",
+      "25°",
+      "340°"
+    ],
+    "options": "A. 345°   B. 25°   C. 335°   D. 340°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_335_182350.png",
+    "question_id": 110,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_340_668686.png",
+    "ground_truth": "340°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "340°",
+      "345°",
+      "350°",
+      "305°"
+    ],
+    "options": "A. 350°   B. 340°   C. 345°   D. 305°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_340_668686.png",
+    "question_id": 111,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_345_684888.png",
+    "ground_truth": "345°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "345°",
+      "25°",
+      "340°",
+      "350°"
+    ],
+    "options": "A. 25°   B. 345°   C. 340°   D. 350°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_345_684888.png",
+    "question_id": 112,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_65_137371.png",
+    "ground_truth": "65°",
+    "ground_truth_option": "A",
+    "options_list": [
+      "65°",
+      "105°",
+      "75°",
+      "70°"
+    ],
+    "options": "A. 65°   B. 75°   C. 105°   D. 70°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_65_137371.png",
+    "question_id": 113,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_70_628937.png",
+    "ground_truth": "70°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "70°",
+      "80°",
+      "75°",
+      "15°"
+    ],
+    "options": "A. 80°   B. 75°   C. 15°   D. 70°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_70_628937.png",
+    "question_id": 114,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_75_418796.png",
+    "ground_truth": "75°",
+    "ground_truth_option": "B",
+    "options_list": [
+      "75°",
+      "40°",
+      "80°",
+      "85°"
+    ],
+    "options": "A. 40°   B. 75°   C. 85°   D. 80°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_75_418796.png",
+    "question_id": 115,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "azimuth_images\\KU_HH_60_95_17958.png",
+    "ground_truth": "95°",
+    "ground_truth_option": "D",
+    "options_list": [
+      "95°",
+      "105°",
+      "50°",
+      "100°"
+    ],
+    "options": "A. 100°   B. 105°   C. 50°   D. 95°",
+    "prompts": [
+      "What is the azimuth angle of the vehicle in this SAR image?",
+      "What is the azimuth angle of the target in this image?",
+      "Which value represents the target azimuth angle in this SAR image?",
+      "What is the correct target azimuth angle for this radar image?",
+      "Estimate the target's azimuth angle."
+    ],
+    "task": "Target Azimuth Angle Estimation",
+    "image_name": "KU_HH_60_95_17958.png",
+    "question_id": 116,
+    "cls_description": "High Difficulty"
+  }
+]

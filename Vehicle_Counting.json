@@ -1,0 +1,3074 @@
+[
+    {
+        "image_path": "FARAD_102.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "D",
+        "options_list": [
+            "14",
+            "20",
+            "16",
+            "17",
+            "15"
+        ],
+        "options": "A. 14   B. 20   C. 16   D. 17   E. 15",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_102.jpg",
+        "question_id": 1,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_103.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "C",
+        "options_list": [
+            "20",
+            "21",
+            "22",
+            "23",
+            "19"
+        ],
+        "options": "A. 20   B. 21   C. 22   D. 23   E. 19",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_103.jpg",
+        "question_id": 2,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_11.jpg",
+        "ground_truth": "19",
+        "ground_truth_option": "B",
+        "options_list": [
+            "18",
+            "19",
+            "21",
+            "22",
+            "17"
+        ],
+        "options": "A. 18   B. 19   C. 21   D. 22   E. 17",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_11.jpg",
+        "question_id": 3,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_111.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "A",
+        "options_list": [
+            "18",
+            "21",
+            "15",
+            "16",
+            "20"
+        ],
+        "options": "A. 18   B. 21   C. 15   D. 16   E. 20",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_111.jpg",
+        "question_id": 4,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_114.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "C",
+        "options_list": [
+            "24",
+            "20",
+            "21",
+            "22",
+            "18"
+        ],
+        "options": "A. 24   B. 20   C. 21   D. 22   E. 18",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_114.jpg",
+        "question_id": 5,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_116.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "D",
+        "options_list": [
+            "22",
+            "20",
+            "21",
+            "23",
+            "25"
+        ],
+        "options": "A. 22   B. 20   C. 21   D. 23   E. 25",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_116.jpg",
+        "question_id": 6,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_136.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "B",
+        "options_list": [
+            "20",
+            "17",
+            "16",
+            "14",
+            "15"
+        ],
+        "options": "A. 20   B. 17   C. 16   D. 14   E. 15",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_136.jpg",
+        "question_id": 7,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_138.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "B",
+        "options_list": [
+            "18",
+            "21",
+            "24",
+            "23",
+            "19"
+        ],
+        "options": "A. 18   B. 21   C. 24   D. 23   E. 19",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_138.jpg",
+        "question_id": 8,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_14.jpg",
+        "ground_truth": "58",
+        "ground_truth_option": "E",
+        "options_list": [
+            "57",
+            "56",
+            "60",
+            "59",
+            "58"
+        ],
+        "options": "A. 57   B. 56   C. 60   D. 59   E. 58",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_14.jpg",
+        "question_id": 9,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_15.jpg",
+        "ground_truth": "20",
+        "ground_truth_option": "B",
+        "options_list": [
+            "23",
+            "20",
+            "17",
+            "21",
+            "19"
+        ],
+        "options": "A. 23   B. 20   C. 17   D. 21   E. 19",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_15.jpg",
+        "question_id": 10,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_153.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "A",
+        "options_list": [
+            "22",
+            "23",
+            "20",
+            "21",
+            "19"
+        ],
+        "options": "A. 22   B. 23   C. 20   D. 21   E. 19",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_153.jpg",
+        "question_id": 11,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_154.jpg",
+        "ground_truth": "37",
+        "ground_truth_option": "E",
+        "options_list": [
+            "38",
+            "34",
+            "36",
+            "39",
+            "37"
+        ],
+        "options": "A. 38   B. 34   C. 36   D. 39   E. 37",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_154.jpg",
+        "question_id": 12,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_155.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "A",
+        "options_list": [
+            "26",
+            "28",
+            "23",
+            "27",
+            "29"
+        ],
+        "options": "A. 26   B. 28   C. 23   D. 27   E. 29",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_155.jpg",
+        "question_id": 13,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_156.jpg",
+        "ground_truth": "36",
+        "ground_truth_option": "C",
+        "options_list": [
+            "37",
+            "35",
+            "36",
+            "39",
+            "34"
+        ],
+        "options": "A. 37   B. 35   C. 36   D. 39   E. 34",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_156.jpg",
+        "question_id": 14,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_158.jpg",
+        "ground_truth": "20",
+        "ground_truth_option": "E",
+        "options_list": [
+            "23",
+            "19",
+            "17",
+            "21",
+            "20"
+        ],
+        "options": "A. 23   B. 19   C. 17   D. 21   E. 20",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_158.jpg",
+        "question_id": 15,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_159.jpg",
+        "ground_truth": "20",
+        "ground_truth_option": "B",
+        "options_list": [
+            "18",
+            "20",
+            "21",
+            "19",
+            "23"
+        ],
+        "options": "A. 18   B. 20   C. 21   D. 19   E. 23",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_159.jpg",
+        "question_id": 16,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_161.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "C",
+        "options_list": [
+            "13",
+            "19",
+            "16",
+            "14",
+            "18"
+        ],
+        "options": "A. 13   B. 19   C. 16   D. 14   E. 18",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_161.jpg",
+        "question_id": 17,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_163.jpg",
+        "ground_truth": "20",
+        "ground_truth_option": "C",
+        "options_list": [
+            "23",
+            "22",
+            "20",
+            "18",
+            "21"
+        ],
+        "options": "A. 23   B. 22   C. 20   D. 18   E. 21",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_163.jpg",
+        "question_id": 18,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_164.jpg",
+        "ground_truth": "33",
+        "ground_truth_option": "A",
+        "options_list": [
+            "33",
+            "35",
+            "34",
+            "36",
+            "31"
+        ],
+        "options": "A. 33   B. 35   C. 34   D. 36   E. 31",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_164.jpg",
+        "question_id": 19,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_165.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "E",
+        "options_list": [
+            "17",
+            "21",
+            "15",
+            "20",
+            "18"
+        ],
+        "options": "A. 17   B. 21   C. 15   D. 20   E. 18",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_165.jpg",
+        "question_id": 20,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_167.jpg",
+        "ground_truth": "42",
+        "ground_truth_option": "B",
+        "options_list": [
+            "45",
+            "42",
+            "40",
+            "39",
+            "43"
+        ],
+        "options": "A. 45   B. 42   C. 40   D. 39   E. 43",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_167.jpg",
+        "question_id": 21,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_169.jpg",
+        "ground_truth": "20",
+        "ground_truth_option": "C",
+        "options_list": [
+            "17",
+            "19",
+            "20",
+            "23",
+            "21"
+        ],
+        "options": "A. 17   B. 19   C. 20   D. 23   E. 21",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_169.jpg",
+        "question_id": 22,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_170.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "E",
+        "options_list": [
+            "17",
+            "15",
+            "21",
+            "16",
+            "18"
+        ],
+        "options": "A. 17   B. 15   C. 21   D. 16   E. 18",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_170.jpg",
+        "question_id": 23,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_177.jpg",
+        "ground_truth": "25",
+        "ground_truth_option": "C",
+        "options_list": [
+            "27",
+            "23",
+            "25",
+            "28",
+            "24"
+        ],
+        "options": "A. 27   B. 23   C. 25   D. 28   E. 24",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_177.jpg",
+        "question_id": 24,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_181.jpg",
+        "ground_truth": "35",
+        "ground_truth_option": "B",
+        "options_list": [
+            "36",
+            "35",
+            "38",
+            "33",
+            "37"
+        ],
+        "options": "A. 36   B. 35   C. 38   D. 33   E. 37",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_181.jpg",
+        "question_id": 25,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_184.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "B",
+        "options_list": [
+            "24",
+            "27",
+            "29",
+            "25",
+            "26"
+        ],
+        "options": "A. 24   B. 27   C. 29   D. 25   E. 26",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_184.jpg",
+        "question_id": 26,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_185.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "E",
+        "options_list": [
+            "26",
+            "21",
+            "25",
+            "22",
+            "23"
+        ],
+        "options": "A. 26   B. 21   C. 25   D. 22   E. 23",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_185.jpg",
+        "question_id": 27,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_188.jpg",
+        "ground_truth": "45",
+        "ground_truth_option": "B",
+        "options_list": [
+            "48",
+            "45",
+            "46",
+            "42",
+            "47"
+        ],
+        "options": "A. 48   B. 45   C. 46   D. 42   E. 47",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_188.jpg",
+        "question_id": 28,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_189.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "E",
+        "options_list": [
+            "24",
+            "29",
+            "27",
+            "25",
+            "26"
+        ],
+        "options": "A. 24   B. 29   C. 27   D. 25   E. 26",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_189.jpg",
+        "question_id": 29,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_19.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "C",
+        "options_list": [
+            "20",
+            "15",
+            "18",
+            "17",
+            "16"
+        ],
+        "options": "A. 20   B. 15   C. 18   D. 17   E. 16",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_19.jpg",
+        "question_id": 30,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_207.jpg",
+        "ground_truth": "19",
+        "ground_truth_option": "C",
+        "options_list": [
+            "18",
+            "22",
+            "19",
+            "21",
+            "16"
+        ],
+        "options": "A. 18   B. 22   C. 19   D. 21   E. 16",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_207.jpg",
+        "question_id": 31,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_210.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "A",
+        "options_list": [
+            "16",
+            "18",
+            "19",
+            "14",
+            "13"
+        ],
+        "options": "A. 16   B. 18   C. 19   D. 14   E. 13",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_210.jpg",
+        "question_id": 32,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_211.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "C",
+        "options_list": [
+            "16",
+            "19",
+            "17",
+            "18",
+            "14"
+        ],
+        "options": "A. 16   B. 19   C. 17   D. 18   E. 14",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_211.jpg",
+        "question_id": 33,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_232.jpg",
+        "ground_truth": "20",
+        "ground_truth_option": "C",
+        "options_list": [
+            "23",
+            "21",
+            "20",
+            "17",
+            "19"
+        ],
+        "options": "A. 23   B. 21   C. 20   D. 17   E. 19",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_232.jpg",
+        "question_id": 34,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_235.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "D",
+        "options_list": [
+            "17",
+            "20",
+            "19",
+            "18",
+            "21"
+        ],
+        "options": "A. 17   B. 20   C. 19   D. 18   E. 21",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_235.jpg",
+        "question_id": 35,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_241.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "B",
+        "options_list": [
+            "19",
+            "22",
+            "25",
+            "24",
+            "23"
+        ],
+        "options": "A. 19   B. 22   C. 25   D. 24   E. 23",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_241.jpg",
+        "question_id": 36,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_244.jpg",
+        "ground_truth": "33",
+        "ground_truth_option": "B",
+        "options_list": [
+            "36",
+            "33",
+            "35",
+            "30",
+            "31"
+        ],
+        "options": "A. 36   B. 33   C. 35   D. 30   E. 31",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_244.jpg",
+        "question_id": 37,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_270.jpg",
+        "ground_truth": "30",
+        "ground_truth_option": "D",
+        "options_list": [
+            "29",
+            "33",
+            "27",
+            "30",
+            "28"
+        ],
+        "options": "A. 29   B. 33   C. 27   D. 30   E. 28",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_270.jpg",
+        "question_id": 38,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_274.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "C",
+        "options_list": [
+            "20",
+            "19",
+            "22",
+            "24",
+            "25"
+        ],
+        "options": "A. 20   B. 19   C. 22   D. 24   E. 25",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_274.jpg",
+        "question_id": 39,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_275.jpg",
+        "ground_truth": "37",
+        "ground_truth_option": "D",
+        "options_list": [
+            "36",
+            "34",
+            "39",
+            "37",
+            "40"
+        ],
+        "options": "A. 36   B. 34   C. 39   D. 37   E. 40",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_275.jpg",
+        "question_id": 40,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_277.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "A",
+        "options_list": [
+            "22",
+            "23",
+            "21",
+            "19",
+            "20"
+        ],
+        "options": "A. 22   B. 23   C. 21   D. 19   E. 20",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_277.jpg",
+        "question_id": 41,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_278.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "B",
+        "options_list": [
+            "21",
+            "23",
+            "25",
+            "22",
+            "24"
+        ],
+        "options": "A. 21   B. 23   C. 25   D. 22   E. 24",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_278.jpg",
+        "question_id": 42,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_280.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "A",
+        "options_list": [
+            "22",
+            "20",
+            "23",
+            "24",
+            "25"
+        ],
+        "options": "A. 22   B. 20   C. 23   D. 24   E. 25",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_280.jpg",
+        "question_id": 43,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_281.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "B",
+        "options_list": [
+            "23",
+            "21",
+            "22",
+            "24",
+            "19"
+        ],
+        "options": "A. 23   B. 21   C. 22   D. 24   E. 19",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_281.jpg",
+        "question_id": 44,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_282.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "B",
+        "options_list": [
+            "24",
+            "26",
+            "29",
+            "27",
+            "25"
+        ],
+        "options": "A. 24   B. 26   C. 29   D. 27   E. 25",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_282.jpg",
+        "question_id": 45,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_283.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "E",
+        "options_list": [
+            "24",
+            "19",
+            "22",
+            "20",
+            "21"
+        ],
+        "options": "A. 24   B. 19   C. 22   D. 20   E. 21",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_283.jpg",
+        "question_id": 46,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_306.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "C",
+        "options_list": [
+            "20",
+            "19",
+            "22",
+            "21",
+            "24"
+        ],
+        "options": "A. 20   B. 19   C. 22   D. 21   E. 24",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_306.jpg",
+        "question_id": 47,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_309.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "C",
+        "options_list": [
+            "21",
+            "19",
+            "18",
+            "17",
+            "16"
+        ],
+        "options": "A. 21   B. 19   C. 18   D. 17   E. 16",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_309.jpg",
+        "question_id": 48,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_311.jpg",
+        "ground_truth": "19",
+        "ground_truth_option": "B",
+        "options_list": [
+            "20",
+            "19",
+            "22",
+            "17",
+            "18"
+        ],
+        "options": "A. 20   B. 19   C. 22   D. 17   E. 18",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_311.jpg",
+        "question_id": 49,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_313.jpg",
+        "ground_truth": "25",
+        "ground_truth_option": "A",
+        "options_list": [
+            "25",
+            "22",
+            "28",
+            "26",
+            "27"
+        ],
+        "options": "A. 25   B. 22   C. 28   D. 26   E. 27",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_313.jpg",
+        "question_id": 50,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_317.jpg",
+        "ground_truth": "20",
+        "ground_truth_option": "C",
+        "options_list": [
+            "23",
+            "17",
+            "20",
+            "18",
+            "19"
+        ],
+        "options": "A. 23   B. 17   C. 20   D. 18   E. 19",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_317.jpg",
+        "question_id": 51,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_318.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "D",
+        "options_list": [
+            "22",
+            "20",
+            "25",
+            "23",
+            "24"
+        ],
+        "options": "A. 22   B. 20   C. 25   D. 23   E. 24",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_318.jpg",
+        "question_id": 52,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_319.jpg",
+        "ground_truth": "19",
+        "ground_truth_option": "C",
+        "options_list": [
+            "22",
+            "21",
+            "19",
+            "20",
+            "18"
+        ],
+        "options": "A. 22   B. 21   C. 19   D. 20   E. 18",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_319.jpg",
+        "question_id": 53,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_323.jpg",
+        "ground_truth": "40",
+        "ground_truth_option": "B",
+        "options_list": [
+            "38",
+            "40",
+            "37",
+            "39",
+            "42"
+        ],
+        "options": "A. 38   B. 40   C. 37   D. 39   E. 42",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_323.jpg",
+        "question_id": 54,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_325.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "D",
+        "options_list": [
+            "20",
+            "16",
+            "19",
+            "18",
+            "17"
+        ],
+        "options": "A. 20   B. 16   C. 19   D. 18   E. 17",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_325.jpg",
+        "question_id": 55,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_328.jpg",
+        "ground_truth": "36",
+        "ground_truth_option": "D",
+        "options_list": [
+            "38",
+            "37",
+            "33",
+            "36",
+            "34"
+        ],
+        "options": "A. 38   B. 37   C. 33   D. 36   E. 34",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_328.jpg",
+        "question_id": 56,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_331.jpg",
+        "ground_truth": "25",
+        "ground_truth_option": "A",
+        "options_list": [
+            "25",
+            "27",
+            "22",
+            "26",
+            "23"
+        ],
+        "options": "A. 25   B. 27   C. 22   D. 26   E. 23",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_331.jpg",
+        "question_id": 57,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_333.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "A",
+        "options_list": [
+            "21",
+            "19",
+            "20",
+            "24",
+            "22"
+        ],
+        "options": "A. 21   B. 19   C. 20   D. 24   E. 22",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_333.jpg",
+        "question_id": 58,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_336.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "B",
+        "options_list": [
+            "25",
+            "26",
+            "29",
+            "24",
+            "28"
+        ],
+        "options": "A. 25   B. 26   C. 29   D. 24   E. 28",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_336.jpg",
+        "question_id": 59,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_337.jpg",
+        "ground_truth": "19",
+        "ground_truth_option": "B",
+        "options_list": [
+            "21",
+            "19",
+            "18",
+            "22",
+            "20"
+        ],
+        "options": "A. 21   B. 19   C. 18   D. 22   E. 20",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_337.jpg",
+        "question_id": 60,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_338.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "C",
+        "options_list": [
+            "27",
+            "23",
+            "26",
+            "24",
+            "25"
+        ],
+        "options": "A. 27   B. 23   C. 26   D. 24   E. 25",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_338.jpg",
+        "question_id": 61,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_339.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "D",
+        "options_list": [
+            "25",
+            "28",
+            "24",
+            "27",
+            "26"
+        ],
+        "options": "A. 25   B. 28   C. 24   D. 27   E. 26",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_339.jpg",
+        "question_id": 62,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_342.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "E",
+        "options_list": [
+            "20",
+            "22",
+            "24",
+            "18",
+            "21"
+        ],
+        "options": "A. 20   B. 22   C. 24   D. 18   E. 21",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_342.jpg",
+        "question_id": 63,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_343.jpg",
+        "ground_truth": "29",
+        "ground_truth_option": "D",
+        "options_list": [
+            "26",
+            "27",
+            "31",
+            "29",
+            "28"
+        ],
+        "options": "A. 26   B. 27   C. 31   D. 29   E. 28",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_343.jpg",
+        "question_id": 64,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_347.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "E",
+        "options_list": [
+            "15",
+            "20",
+            "16",
+            "19",
+            "17"
+        ],
+        "options": "A. 15   B. 20   C. 16   D. 19   E. 17",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_347.jpg",
+        "question_id": 65,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_351.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "A",
+        "options_list": [
+            "17",
+            "15",
+            "18",
+            "14",
+            "20"
+        ],
+        "options": "A. 17   B. 15   C. 18   D. 14   E. 20",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_351.jpg",
+        "question_id": 66,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_355.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "D",
+        "options_list": [
+            "14",
+            "15",
+            "19",
+            "16",
+            "17"
+        ],
+        "options": "A. 14   B. 15   C. 19   D. 16   E. 17",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_355.jpg",
+        "question_id": 67,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_409.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "D",
+        "options_list": [
+            "17",
+            "13",
+            "14",
+            "16",
+            "19"
+        ],
+        "options": "A. 17   B. 13   C. 14   D. 16   E. 19",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_409.jpg",
+        "question_id": 68,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_441.jpg",
+        "ground_truth": "19",
+        "ground_truth_option": "E",
+        "options_list": [
+            "22",
+            "21",
+            "16",
+            "17",
+            "19"
+        ],
+        "options": "A. 22   B. 21   C. 16   D. 17   E. 19",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_441.jpg",
+        "question_id": 69,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_445.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "D",
+        "options_list": [
+            "16",
+            "17",
+            "15",
+            "18",
+            "21"
+        ],
+        "options": "A. 16   B. 17   C. 15   D. 18   E. 21",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_445.jpg",
+        "question_id": 70,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_446.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "E",
+        "options_list": [
+            "20",
+            "24",
+            "26",
+            "21",
+            "23"
+        ],
+        "options": "A. 20   B. 24   C. 26   D. 21   E. 23",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_446.jpg",
+        "question_id": 71,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_448.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "A",
+        "options_list": [
+            "21",
+            "22",
+            "24",
+            "20",
+            "18"
+        ],
+        "options": "A. 21   B. 22   C. 24   D. 20   E. 18",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_448.jpg",
+        "question_id": 72,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_450.jpg",
+        "ground_truth": "34",
+        "ground_truth_option": "C",
+        "options_list": [
+            "36",
+            "33",
+            "34",
+            "32",
+            "37"
+        ],
+        "options": "A. 36   B. 33   C. 34   D. 32   E. 37",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_450.jpg",
+        "question_id": 73,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_452.jpg",
+        "ground_truth": "29",
+        "ground_truth_option": "E",
+        "options_list": [
+            "27",
+            "31",
+            "32",
+            "26",
+            "29"
+        ],
+        "options": "A. 27   B. 31   C. 32   D. 26   E. 29",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_452.jpg",
+        "question_id": 74,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_453.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "D",
+        "options_list": [
+            "20",
+            "19",
+            "22",
+            "21",
+            "18"
+        ],
+        "options": "A. 20   B. 19   C. 22   D. 21   E. 18",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_453.jpg",
+        "question_id": 75,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_457.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "E",
+        "options_list": [
+            "20",
+            "18",
+            "15",
+            "14",
+            "17"
+        ],
+        "options": "A. 20   B. 18   C. 15   D. 14   E. 17",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_457.jpg",
+        "question_id": 76,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_462.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "E",
+        "options_list": [
+            "23",
+            "18",
+            "24",
+            "19",
+            "21"
+        ],
+        "options": "A. 23   B. 18   C. 24   D. 19   E. 21",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_462.jpg",
+        "question_id": 77,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_463.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "D",
+        "options_list": [
+            "15",
+            "14",
+            "18",
+            "17",
+            "16"
+        ],
+        "options": "A. 15   B. 14   C. 18   D. 17   E. 16",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_463.jpg",
+        "question_id": 78,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_504.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "C",
+        "options_list": [
+            "19",
+            "24",
+            "21",
+            "22",
+            "20"
+        ],
+        "options": "A. 19   B. 24   C. 21   D. 22   E. 20",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_504.jpg",
+        "question_id": 79,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_506.jpg",
+        "ground_truth": "19",
+        "ground_truth_option": "E",
+        "options_list": [
+            "17",
+            "16",
+            "21",
+            "18",
+            "19"
+        ],
+        "options": "A. 17   B. 16   C. 21   D. 18   E. 19",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_506.jpg",
+        "question_id": 80,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_507.jpg",
+        "ground_truth": "33",
+        "ground_truth_option": "A",
+        "options_list": [
+            "33",
+            "36",
+            "32",
+            "34",
+            "35"
+        ],
+        "options": "A. 33   B. 36   C. 32   D. 34   E. 35",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_507.jpg",
+        "question_id": 81,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_508.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "E",
+        "options_list": [
+            "25",
+            "30",
+            "26",
+            "29",
+            "27"
+        ],
+        "options": "A. 25   B. 30   C. 26   D. 29   E. 27",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_508.jpg",
+        "question_id": 82,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_509.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "C",
+        "options_list": [
+            "19",
+            "17",
+            "18",
+            "20",
+            "21"
+        ],
+        "options": "A. 19   B. 17   C. 18   D. 20   E. 21",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_509.jpg",
+        "question_id": 83,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_511.jpg",
+        "ground_truth": "25",
+        "ground_truth_option": "B",
+        "options_list": [
+            "24",
+            "25",
+            "26",
+            "27",
+            "28"
+        ],
+        "options": "A. 24   B. 25   C. 26   D. 27   E. 28",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_511.jpg",
+        "question_id": 84,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_513.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "E",
+        "options_list": [
+            "20",
+            "15",
+            "19",
+            "17",
+            "18"
+        ],
+        "options": "A. 20   B. 15   C. 19   D. 17   E. 18",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_513.jpg",
+        "question_id": 85,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_542.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "C",
+        "options_list": [
+            "15",
+            "18",
+            "17",
+            "16",
+            "20"
+        ],
+        "options": "A. 15   B. 18   C. 17   D. 16   E. 20",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_542.jpg",
+        "question_id": 86,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_544.jpg",
+        "ground_truth": "20",
+        "ground_truth_option": "B",
+        "options_list": [
+            "22",
+            "20",
+            "18",
+            "19",
+            "23"
+        ],
+        "options": "A. 22   B. 20   C. 18   D. 19   E. 23",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_544.jpg",
+        "question_id": 87,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_545.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "B",
+        "options_list": [
+            "22",
+            "21",
+            "24",
+            "18",
+            "23"
+        ],
+        "options": "A. 22   B. 21   C. 24   D. 18   E. 23",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_545.jpg",
+        "question_id": 88,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_546.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "B",
+        "options_list": [
+            "24",
+            "22",
+            "25",
+            "19",
+            "23"
+        ],
+        "options": "A. 24   B. 22   C. 25   D. 19   E. 23",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_546.jpg",
+        "question_id": 89,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_547.jpg",
+        "ground_truth": "28",
+        "ground_truth_option": "A",
+        "options_list": [
+            "28",
+            "27",
+            "29",
+            "31",
+            "26"
+        ],
+        "options": "A. 28   B. 27   C. 29   D. 31   E. 26",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_547.jpg",
+        "question_id": 90,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_548.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "C",
+        "options_list": [
+            "18",
+            "20",
+            "21",
+            "19",
+            "23"
+        ],
+        "options": "A. 18   B. 20   C. 21   D. 19   E. 23",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_548.jpg",
+        "question_id": 91,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_549.jpg",
+        "ground_truth": "38",
+        "ground_truth_option": "C",
+        "options_list": [
+            "40",
+            "35",
+            "38",
+            "36",
+            "39"
+        ],
+        "options": "A. 40   B. 35   C. 38   D. 36   E. 39",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_549.jpg",
+        "question_id": 92,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_552.jpg",
+        "ground_truth": "24",
+        "ground_truth_option": "D",
+        "options_list": [
+            "25",
+            "21",
+            "26",
+            "24",
+            "27"
+        ],
+        "options": "A. 25   B. 21   C. 26   D. 24   E. 27",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_552.jpg",
+        "question_id": 93,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_554.jpg",
+        "ground_truth": "25",
+        "ground_truth_option": "C",
+        "options_list": [
+            "26",
+            "22",
+            "25",
+            "28",
+            "27"
+        ],
+        "options": "A. 26   B. 22   C. 25   D. 28   E. 27",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_554.jpg",
+        "question_id": 94,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_595.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "B",
+        "options_list": [
+            "15",
+            "16",
+            "19",
+            "17",
+            "18"
+        ],
+        "options": "A. 15   B. 16   C. 19   D. 17   E. 18",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_595.jpg",
+        "question_id": 95,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_606.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "B",
+        "options_list": [
+            "19",
+            "16",
+            "13",
+            "14",
+            "18"
+        ],
+        "options": "A. 19   B. 16   C. 13   D. 14   E. 18",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_606.jpg",
+        "question_id": 96,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_610.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "A",
+        "options_list": [
+            "23",
+            "25",
+            "24",
+            "21",
+            "26"
+        ],
+        "options": "A. 23   B. 25   C. 24   D. 21   E. 26",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_610.jpg",
+        "question_id": 97,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_612.jpg",
+        "ground_truth": "19",
+        "ground_truth_option": "E",
+        "options_list": [
+            "18",
+            "17",
+            "22",
+            "16",
+            "19"
+        ],
+        "options": "A. 18   B. 17   C. 22   D. 16   E. 19",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_612.jpg",
+        "question_id": 98,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_618.jpg",
+        "ground_truth": "28",
+        "ground_truth_option": "B",
+        "options_list": [
+            "26",
+            "28",
+            "31",
+            "27",
+            "30"
+        ],
+        "options": "A. 26   B. 28   C. 31   D. 27   E. 30",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_618.jpg",
+        "question_id": 99,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_621.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "D",
+        "options_list": [
+            "15",
+            "19",
+            "20",
+            "17",
+            "16"
+        ],
+        "options": "A. 15   B. 19   C. 20   D. 17   E. 16",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_621.jpg",
+        "question_id": 100,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_68.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "E",
+        "options_list": [
+            "18",
+            "20",
+            "16",
+            "19",
+            "17"
+        ],
+        "options": "A. 18   B. 20   C. 16   D. 19   E. 17",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_68.jpg",
+        "question_id": 101,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_83.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "E",
+        "options_list": [
+            "20",
+            "21",
+            "19",
+            "25",
+            "22"
+        ],
+        "options": "A. 20   B. 21   C. 19   D. 25   E. 22",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_83.jpg",
+        "question_id": 102,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_85.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "A",
+        "options_list": [
+            "22",
+            "20",
+            "19",
+            "21",
+            "24"
+        ],
+        "options": "A. 22   B. 20   C. 19   D. 21   E. 24",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_85.jpg",
+        "question_id": 103,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_88.jpg",
+        "ground_truth": "24",
+        "ground_truth_option": "D",
+        "options_list": [
+            "27",
+            "22",
+            "25",
+            "24",
+            "21"
+        ],
+        "options": "A. 27   B. 22   C. 25   D. 24   E. 21",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_88.jpg",
+        "question_id": 104,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_89.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "A",
+        "options_list": [
+            "18",
+            "17",
+            "15",
+            "21",
+            "16"
+        ],
+        "options": "A. 18   B. 17   C. 15   D. 21   E. 16",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_89.jpg",
+        "question_id": 105,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_9.jpg",
+        "ground_truth": "28",
+        "ground_truth_option": "B",
+        "options_list": [
+            "27",
+            "28",
+            "31",
+            "26",
+            "25"
+        ],
+        "options": "A. 27   B. 28   C. 31   D. 26   E. 25",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_9.jpg",
+        "question_id": 106,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_95.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "E",
+        "options_list": [
+            "19",
+            "20",
+            "21",
+            "15",
+            "18"
+        ],
+        "options": "A. 19   B. 20   C. 21   D. 15   E. 18",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_95.jpg",
+        "question_id": 107,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "FARAD_96.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "B",
+        "options_list": [
+            "23",
+            "22",
+            "25",
+            "21",
+            "19"
+        ],
+        "options": "A. 23   B. 22   C. 25   D. 21   E. 19",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "FARAD_96.jpg",
+        "question_id": 108,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_14.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "A",
+        "options_list": [
+            "26",
+            "24",
+            "23",
+            "25",
+            "27"
+        ],
+        "options": "A. 26   B. 24   C. 23   D. 25   E. 27",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_14.jpg",
+        "question_id": 109,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_17.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "A",
+        "options_list": [
+            "16",
+            "15",
+            "13",
+            "17",
+            "18"
+        ],
+        "options": "A. 16   B. 15   C. 13   D. 17   E. 18",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_17.jpg",
+        "question_id": 110,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_21.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "C",
+        "options_list": [
+            "28",
+            "23",
+            "26",
+            "25",
+            "29"
+        ],
+        "options": "A. 28   B. 23   C. 26   D. 25   E. 29",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_21.jpg",
+        "question_id": 111,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_22.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "E",
+        "options_list": [
+            "25",
+            "21",
+            "20",
+            "26",
+            "23"
+        ],
+        "options": "A. 25   B. 21   C. 20   D. 26   E. 23",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_22.jpg",
+        "question_id": 112,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_34.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "A",
+        "options_list": [
+            "16",
+            "18",
+            "19",
+            "17",
+            "13"
+        ],
+        "options": "A. 16   B. 18   C. 19   D. 17   E. 13",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_34.jpg",
+        "question_id": 113,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_44.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "D",
+        "options_list": [
+            "25",
+            "24",
+            "20",
+            "22",
+            "21"
+        ],
+        "options": "A. 25   B. 24   C. 20   D. 22   E. 21",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_44.jpg",
+        "question_id": 114,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_45.jpg",
+        "ground_truth": "30",
+        "ground_truth_option": "C",
+        "options_list": [
+            "29",
+            "31",
+            "30",
+            "33",
+            "32"
+        ],
+        "options": "A. 29   B. 31   C. 30   D. 33   E. 32",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_45.jpg",
+        "question_id": 115,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_48.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "B",
+        "options_list": [
+            "29",
+            "26",
+            "24",
+            "27",
+            "23"
+        ],
+        "options": "A. 29   B. 26   C. 24   D. 27   E. 23",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_48.jpg",
+        "question_id": 116,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_49.jpg",
+        "ground_truth": "25",
+        "ground_truth_option": "E",
+        "options_list": [
+            "22",
+            "24",
+            "28",
+            "23",
+            "25"
+        ],
+        "options": "A. 22   B. 24   C. 28   D. 23   E. 25",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_49.jpg",
+        "question_id": 117,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_52.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "B",
+        "options_list": [
+            "21",
+            "23",
+            "24",
+            "20",
+            "25"
+        ],
+        "options": "A. 21   B. 23   C. 24   D. 20   E. 25",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_52.jpg",
+        "question_id": 118,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_73.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "C",
+        "options_list": [
+            "16",
+            "19",
+            "18",
+            "17",
+            "15"
+        ],
+        "options": "A. 16   B. 19   C. 18   D. 17   E. 15",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_73.jpg",
+        "question_id": 119,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_75.jpg",
+        "ground_truth": "24",
+        "ground_truth_option": "D",
+        "options_list": [
+            "26",
+            "23",
+            "27",
+            "24",
+            "21"
+        ],
+        "options": "A. 26   B. 23   C. 27   D. 24   E. 21",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_75.jpg",
+        "question_id": 120,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_79.jpg",
+        "ground_truth": "28",
+        "ground_truth_option": "E",
+        "options_list": [
+            "29",
+            "27",
+            "26",
+            "25",
+            "28"
+        ],
+        "options": "A. 29   B. 27   C. 26   D. 25   E. 28",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_79.jpg",
+        "question_id": 121,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_83.jpg",
+        "ground_truth": "20",
+        "ground_truth_option": "D",
+        "options_list": [
+            "17",
+            "18",
+            "19",
+            "20",
+            "21"
+        ],
+        "options": "A. 17   B. 18   C. 19   D. 20   E. 21",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_83.jpg",
+        "question_id": 122,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_84.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "A",
+        "options_list": [
+            "17",
+            "18",
+            "20",
+            "19",
+            "14"
+        ],
+        "options": "A. 17   B. 18   C. 20   D. 19   E. 14",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_84.jpg",
+        "question_id": 123,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_87.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "D",
+        "options_list": [
+            "13",
+            "15",
+            "19",
+            "16",
+            "17"
+        ],
+        "options": "A. 13   B. 15   C. 19   D. 16   E. 17",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_87.jpg",
+        "question_id": 124,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_91.jpg",
+        "ground_truth": "20",
+        "ground_truth_option": "B",
+        "options_list": [
+            "19",
+            "20",
+            "18",
+            "23",
+            "17"
+        ],
+        "options": "A. 19   B. 20   C. 18   D. 23   E. 17",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_91.jpg",
+        "question_id": 125,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_92.jpg",
+        "ground_truth": "32",
+        "ground_truth_option": "E",
+        "options_list": [
+            "29",
+            "31",
+            "33",
+            "34",
+            "32"
+        ],
+        "options": "A. 29   B. 31   C. 33   D. 34   E. 32",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_92.jpg",
+        "question_id": 126,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_93.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "E",
+        "options_list": [
+            "25",
+            "29",
+            "24",
+            "28",
+            "26"
+        ],
+        "options": "A. 25   B. 29   C. 24   D. 28   E. 26",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_93.jpg",
+        "question_id": 127,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "MiniSAR_98.jpg",
+        "ground_truth": "29",
+        "ground_truth_option": "B",
+        "options_list": [
+            "28",
+            "29",
+            "27",
+            "30",
+            "26"
+        ],
+        "options": "A. 28   B. 29   C. 27   D. 30   E. 26",
+        "prompts": [
+            "How many vehicles are visible in this SAR image?",
+            "What is the total count of vehicles in the scene?",
+            "Please count the number of vehicles shown in this image.",
+            "How many vehicles can you identify in this SAR image?",
+            "What is the exact number of vehicles present in this satellite image?"
+        ],
+        "task": "Vehicle Counting",
+        "image_name": "MiniSAR_98.jpg",
+        "question_id": 0,
+        "cls_description": "High Difficulty"
+    }
+]

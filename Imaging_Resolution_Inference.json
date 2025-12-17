@@ -1,0 +1,5223 @@
+[
+    {
+        "image_path": "resolution_0.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_0.png",
+        "question_id": 0,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_1.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_1.png",
+        "question_id": 1,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_2.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. >10m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_2.png",
+        "question_id": 2,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_3.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_3.png",
+        "question_id": 3,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_4.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. <0.5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_4.png",
+        "question_id": 4,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_5.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_5.png",
+        "question_id": 5,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_6.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_6.png",
+        "question_id": 6,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_7.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_7.png",
+        "question_id": 7,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_8.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_8.png",
+        "question_id": 8,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_9.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_9.png",
+        "question_id": 9,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_10.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. 3-5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_10.png",
+        "question_id": 10,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_11.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_11.png",
+        "question_id": 11,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_12.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. 1m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_12.png",
+        "question_id": 12,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_13.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_13.png",
+        "question_id": 13,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_14.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_14.png",
+        "question_id": 14,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_15.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_15.png",
+        "question_id": 15,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_16.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. <0.5m   C. 1m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_16.png",
+        "question_id": 16,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_17.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_17.png",
+        "question_id": 17,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_18.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_18.png",
+        "question_id": 18,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_19.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_19.png",
+        "question_id": 19,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_20.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. <0.5m   C. 1m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_20.png",
+        "question_id": 20,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_21.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_21.png",
+        "question_id": 21,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_22.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_22.png",
+        "question_id": 22,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_23.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_23.png",
+        "question_id": 23,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_24.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. >10m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_24.png",
+        "question_id": 24,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_25.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_25.png",
+        "question_id": 25,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_26.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. >10m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_26.png",
+        "question_id": 26,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_27.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_27.png",
+        "question_id": 27,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_28.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_28.png",
+        "question_id": 28,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_29.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_29.png",
+        "question_id": 29,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_30.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_30.png",
+        "question_id": 30,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_31.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_31.png",
+        "question_id": 31,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_32.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_32.png",
+        "question_id": 32,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_33.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_33.png",
+        "question_id": 33,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_34.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. >10m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_34.png",
+        "question_id": 34,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_35.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_35.png",
+        "question_id": 35,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_36.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_36.png",
+        "question_id": 36,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_37.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_37.png",
+        "question_id": 37,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_38.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. 3-5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_38.png",
+        "question_id": 38,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_39.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_39.png",
+        "question_id": 39,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_40.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. >10m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_40.png",
+        "question_id": 40,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_41.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_41.png",
+        "question_id": 41,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_42.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_42.png",
+        "question_id": 42,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_43.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_43.png",
+        "question_id": 43,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_44.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_44.png",
+        "question_id": 44,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_45.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_45.png",
+        "question_id": 45,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_46.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_46.png",
+        "question_id": 46,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_47.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. <0.5m   C. 1m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_47.png",
+        "question_id": 47,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_48.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_48.png",
+        "question_id": 48,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_49.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_49.png",
+        "question_id": 49,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_50.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_50.png",
+        "question_id": 50,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_51.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_51.png",
+        "question_id": 51,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_52.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_52.png",
+        "question_id": 52,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_53.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_53.png",
+        "question_id": 53,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_54.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. >10m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_54.png",
+        "question_id": 54,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_55.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. <0.5m   C. 1m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_55.png",
+        "question_id": 55,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_56.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_56.png",
+        "question_id": 56,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_57.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_57.png",
+        "question_id": 57,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_58.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_58.png",
+        "question_id": 58,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_59.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. <0.5m   C. 1m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_59.png",
+        "question_id": 59,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_60.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_60.png",
+        "question_id": 60,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_61.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_61.png",
+        "question_id": 61,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_62.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_62.png",
+        "question_id": 62,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_63.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. >10m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_63.png",
+        "question_id": 63,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_64.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_64.png",
+        "question_id": 64,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_65.png",
+        "ground_truth": "<0.5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_65.png",
+        "question_id": 65,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_66.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_66.png",
+        "question_id": 66,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_67.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_67.png",
+        "question_id": 67,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_68.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. <0.5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_68.png",
+        "question_id": 68,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_69.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. >10m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_69.png",
+        "question_id": 69,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_70.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_70.png",
+        "question_id": 70,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_71.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_71.png",
+        "question_id": 71,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_72.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_72.png",
+        "question_id": 72,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_73.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_73.png",
+        "question_id": 73,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_74.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_74.png",
+        "question_id": 74,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_75.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_75.png",
+        "question_id": 75,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_76.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_76.png",
+        "question_id": 76,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_77.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_77.png",
+        "question_id": 77,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_78.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_78.png",
+        "question_id": 78,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_79.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_79.png",
+        "question_id": 79,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_80.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_80.png",
+        "question_id": 80,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_81.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_81.png",
+        "question_id": 81,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_82.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_82.png",
+        "question_id": 82,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_83.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_83.png",
+        "question_id": 83,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_84.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. 1m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_84.png",
+        "question_id": 84,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_85.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_85.png",
+        "question_id": 85,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_86.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_86.png",
+        "question_id": 86,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_87.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_87.png",
+        "question_id": 87,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_88.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_88.png",
+        "question_id": 88,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_89.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_89.png",
+        "question_id": 89,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_90.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_90.png",
+        "question_id": 90,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_91.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_91.png",
+        "question_id": 91,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_92.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_92.png",
+        "question_id": 92,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_93.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_93.png",
+        "question_id": 93,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_94.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_94.png",
+        "question_id": 94,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_95.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_95.png",
+        "question_id": 95,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_96.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_96.png",
+        "question_id": 96,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_97.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_97.png",
+        "question_id": 97,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_98.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_98.png",
+        "question_id": 98,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_99.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_99.png",
+        "question_id": 99,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_100.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_100.png",
+        "question_id": 100,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_101.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. 3-5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_101.png",
+        "question_id": 101,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_102.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_102.png",
+        "question_id": 102,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_103.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. 3-5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_103.png",
+        "question_id": 103,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_104.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_104.png",
+        "question_id": 104,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_105.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_105.png",
+        "question_id": 105,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_106.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_106.png",
+        "question_id": 106,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_107.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_107.png",
+        "question_id": 107,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_108.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_108.png",
+        "question_id": 108,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_109.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. >10m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_109.png",
+        "question_id": 109,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_110.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. >10m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_110.png",
+        "question_id": 110,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_111.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_111.png",
+        "question_id": 111,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_112.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. >10m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_112.png",
+        "question_id": 112,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_113.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_113.png",
+        "question_id": 113,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_114.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. 1m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_114.png",
+        "question_id": 114,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_115.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_115.png",
+        "question_id": 115,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_116.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_116.png",
+        "question_id": 116,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_117.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_117.png",
+        "question_id": 117,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_118.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. <0.5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_118.png",
+        "question_id": 118,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_119.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. 3-5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_119.png",
+        "question_id": 119,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_120.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_120.png",
+        "question_id": 120,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_121.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. 3-5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_121.png",
+        "question_id": 121,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_122.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_122.png",
+        "question_id": 122,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_123.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. <0.5m   C. 1m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_123.png",
+        "question_id": 123,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_124.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_124.png",
+        "question_id": 124,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_125.png",
+        "ground_truth": "1m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_125.png",
+        "question_id": 125,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_126.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. >10m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_126.png",
+        "question_id": 126,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_127.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_127.png",
+        "question_id": 127,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_128.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_128.png",
+        "question_id": 128,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_129.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. 3-5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_129.png",
+        "question_id": 129,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_130.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_130.png",
+        "question_id": 130,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_131.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_131.png",
+        "question_id": 131,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_132.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_132.png",
+        "question_id": 132,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_133.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_133.png",
+        "question_id": 133,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_134.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_134.png",
+        "question_id": 134,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_135.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. <0.5m   C. 1m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_135.png",
+        "question_id": 135,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_136.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_136.png",
+        "question_id": 136,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_137.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. >10m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_137.png",
+        "question_id": 137,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_138.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_138.png",
+        "question_id": 138,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_139.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_139.png",
+        "question_id": 139,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_140.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_140.png",
+        "question_id": 140,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_141.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_141.png",
+        "question_id": 141,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_142.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_142.png",
+        "question_id": 142,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_143.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_143.png",
+        "question_id": 143,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_144.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_144.png",
+        "question_id": 144,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_145.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. 3-5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_145.png",
+        "question_id": 145,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_146.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_146.png",
+        "question_id": 146,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_147.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_147.png",
+        "question_id": 147,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_148.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_148.png",
+        "question_id": 148,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_149.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_149.png",
+        "question_id": 149,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_150.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_150.png",
+        "question_id": 150,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_151.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. 3-5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_151.png",
+        "question_id": 151,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_152.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. 1m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_152.png",
+        "question_id": 152,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_153.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_153.png",
+        "question_id": 153,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_154.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_154.png",
+        "question_id": 154,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_155.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_155.png",
+        "question_id": 155,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_156.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_156.png",
+        "question_id": 156,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_157.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_157.png",
+        "question_id": 157,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_158.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_158.png",
+        "question_id": 158,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_159.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_159.png",
+        "question_id": 159,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_160.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_160.png",
+        "question_id": 160,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_161.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_161.png",
+        "question_id": 161,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_162.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_162.png",
+        "question_id": 162,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_163.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_163.png",
+        "question_id": 163,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_164.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. 3-5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_164.png",
+        "question_id": 164,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_165.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_165.png",
+        "question_id": 165,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_166.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_166.png",
+        "question_id": 166,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_167.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_167.png",
+        "question_id": 167,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_168.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. 3-5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_168.png",
+        "question_id": 168,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_169.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_169.png",
+        "question_id": 169,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_170.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_170.png",
+        "question_id": 170,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_171.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. <0.5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_171.png",
+        "question_id": 171,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_172.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_172.png",
+        "question_id": 172,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_173.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_173.png",
+        "question_id": 173,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_174.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_174.png",
+        "question_id": 174,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_175.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. 3-5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_175.png",
+        "question_id": 175,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_176.png",
+        "ground_truth": "3-5m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. 1m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_176.png",
+        "question_id": 176,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_177.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_177.png",
+        "question_id": 177,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_178.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. >10m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_178.png",
+        "question_id": 178,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_179.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_179.png",
+        "question_id": 179,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_180.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. <0.5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_180.png",
+        "question_id": 180,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_181.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_181.png",
+        "question_id": 181,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_182.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. 3-5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_182.png",
+        "question_id": 182,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_183.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. 3-5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_183.png",
+        "question_id": 183,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_184.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_184.png",
+        "question_id": 184,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_185.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_185.png",
+        "question_id": 185,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_186.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. <0.5m   C. 1m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_186.png",
+        "question_id": 186,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_187.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. 1m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_187.png",
+        "question_id": 187,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_188.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_188.png",
+        "question_id": 188,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_189.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_189.png",
+        "question_id": 189,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_190.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. >10m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_190.png",
+        "question_id": 190,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_191.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_191.png",
+        "question_id": 191,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_192.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_192.png",
+        "question_id": 192,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_193.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_193.png",
+        "question_id": 193,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_194.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_194.png",
+        "question_id": 194,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_195.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_195.png",
+        "question_id": 195,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_196.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_196.png",
+        "question_id": 196,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_197.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_197.png",
+        "question_id": 197,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_198.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. <0.5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_198.png",
+        "question_id": 198,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_199.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. >10m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_199.png",
+        "question_id": 199,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_200.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_200.png",
+        "question_id": 200,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_201.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_201.png",
+        "question_id": 201,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_202.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_202.png",
+        "question_id": 202,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_203.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_203.png",
+        "question_id": 203,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_204.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_204.png",
+        "question_id": 204,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_205.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_205.png",
+        "question_id": 205,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_206.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_206.png",
+        "question_id": 206,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_207.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_207.png",
+        "question_id": 207,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_208.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 3-5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_208.png",
+        "question_id": 208,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_209.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_209.png",
+        "question_id": 209,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_210.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. <0.5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_210.png",
+        "question_id": 210,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_211.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 3-5m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_211.png",
+        "question_id": 211,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_212.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. <0.5m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_212.png",
+        "question_id": 212,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_213.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_213.png",
+        "question_id": 213,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_214.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. 1m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_214.png",
+        "question_id": 214,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_215.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_215.png",
+        "question_id": 215,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_216.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_216.png",
+        "question_id": 216,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_217.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_217.png",
+        "question_id": 217,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_218.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 3-5m   C. 1m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_218.png",
+        "question_id": 218,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_219.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. 3-5m   C. >10m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_219.png",
+        "question_id": 219,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_220.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. <0.5m   B. 1m   C. >10m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_220.png",
+        "question_id": 220,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_221.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "D",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. <0.5m   C. 3-5m   D. >10m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_221.png",
+        "question_id": 221,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_222.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. 1m   C. <0.5m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_222.png",
+        "question_id": 222,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_223.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 1m   B. >10m   C. 3-5m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_223.png",
+        "question_id": 223,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_224.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "C",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. <0.5m   C. >10m   D. 1m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_224.png",
+        "question_id": 224,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_225.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "A",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. >10m   B. <0.5m   C. 1m   D. 3-5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_225.png",
+        "question_id": 225,
+        "cls_description": "Low Difficulty"
+    },
+    {
+        "image_path": "resolution_226.png",
+        "ground_truth": ">10m",
+        "ground_truth_option": "B",
+        "options_list": [
+            "<0.5m",
+            "1m",
+            "3-5m",
+            ">10m"
+        ],
+        "options": "A. 3-5m   B. >10m   C. 1m   D. <0.5m",
+        "prompts": [
+            "What is the spatial resolution of this SAR image?",
+            "Which resolution category does this SAR image belong to?",
+            "What is the approximate resolution of this SAR image?",
+            "Which resolution range best describes this SAR image?",
+            "Estimate the resolution category of this SAR data."
+        ],
+        "task": "Resolution Classification",
+        "image_name": "resolution_226.png",
+        "question_id": 226,
+        "cls_description": "Low Difficulty"
+    }
+]

@@ -1,0 +1,3557 @@
+[
+    {
+        "image_path": "OilSpill/images/10001_sat.jpg",
+        "ground_truth": "OilSpill/masks/10001_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10001_sat.jpg",
+        "question_id": 0,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10002_sat.jpg",
+        "ground_truth": "OilSpill/masks/10002_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10002_sat.jpg",
+        "question_id": 1,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10003_sat.jpg",
+        "ground_truth": "OilSpill/masks/10003_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10003_sat.jpg",
+        "question_id": 2,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10004_sat.jpg",
+        "ground_truth": "OilSpill/masks/10004_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10004_sat.jpg",
+        "question_id": 3,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10005_sat.jpg",
+        "ground_truth": "OilSpill/masks/10005_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10005_sat.jpg",
+        "question_id": 4,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10006_sat.jpg",
+        "ground_truth": "OilSpill/masks/10006_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10006_sat.jpg",
+        "question_id": 5,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10007_sat.jpg",
+        "ground_truth": "OilSpill/masks/10007_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10007_sat.jpg",
+        "question_id": 6,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10008_sat.jpg",
+        "ground_truth": "OilSpill/masks/10008_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10008_sat.jpg",
+        "question_id": 7,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10009_sat.jpg",
+        "ground_truth": "OilSpill/masks/10009_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10009_sat.jpg",
+        "question_id": 8,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10010_sat.jpg",
+        "ground_truth": "OilSpill/masks/10010_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10010_sat.jpg",
+        "question_id": 9,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10011_sat.jpg",
+        "ground_truth": "OilSpill/masks/10011_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10011_sat.jpg",
+        "question_id": 10,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10012_sat.jpg",
+        "ground_truth": "OilSpill/masks/10012_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10012_sat.jpg",
+        "question_id": 11,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10013_sat.jpg",
+        "ground_truth": "OilSpill/masks/10013_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10013_sat.jpg",
+        "question_id": 12,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10014_sat.jpg",
+        "ground_truth": "OilSpill/masks/10014_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10014_sat.jpg",
+        "question_id": 13,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10015_sat.jpg",
+        "ground_truth": "OilSpill/masks/10015_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10015_sat.jpg",
+        "question_id": 14,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10016_sat.jpg",
+        "ground_truth": "OilSpill/masks/10016_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10016_sat.jpg",
+        "question_id": 15,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10017_sat.jpg",
+        "ground_truth": "OilSpill/masks/10017_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10017_sat.jpg",
+        "question_id": 16,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10018_sat.jpg",
+        "ground_truth": "OilSpill/masks/10018_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10018_sat.jpg",
+        "question_id": 17,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10019_sat.jpg",
+        "ground_truth": "OilSpill/masks/10019_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10019_sat.jpg",
+        "question_id": 18,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10020_sat.jpg",
+        "ground_truth": "OilSpill/masks/10020_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10020_sat.jpg",
+        "question_id": 19,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10021_sat.jpg",
+        "ground_truth": "OilSpill/masks/10021_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10021_sat.jpg",
+        "question_id": 20,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10022_sat.jpg",
+        "ground_truth": "OilSpill/masks/10022_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10022_sat.jpg",
+        "question_id": 21,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10023_sat.jpg",
+        "ground_truth": "OilSpill/masks/10023_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10023_sat.jpg",
+        "question_id": 22,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10024_sat.jpg",
+        "ground_truth": "OilSpill/masks/10024_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10024_sat.jpg",
+        "question_id": 23,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10025_sat.jpg",
+        "ground_truth": "OilSpill/masks/10025_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10025_sat.jpg",
+        "question_id": 24,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10026_sat.jpg",
+        "ground_truth": "OilSpill/masks/10026_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10026_sat.jpg",
+        "question_id": 25,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10027_sat.jpg",
+        "ground_truth": "OilSpill/masks/10027_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10027_sat.jpg",
+        "question_id": 26,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10028_sat.jpg",
+        "ground_truth": "OilSpill/masks/10028_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10028_sat.jpg",
+        "question_id": 27,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10029_sat.jpg",
+        "ground_truth": "OilSpill/masks/10029_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10029_sat.jpg",
+        "question_id": 28,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10030_sat.jpg",
+        "ground_truth": "OilSpill/masks/10030_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10030_sat.jpg",
+        "question_id": 29,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10031_sat.jpg",
+        "ground_truth": "OilSpill/masks/10031_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10031_sat.jpg",
+        "question_id": 30,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10032_sat.jpg",
+        "ground_truth": "OilSpill/masks/10032_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10032_sat.jpg",
+        "question_id": 31,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10033_sat.jpg",
+        "ground_truth": "OilSpill/masks/10033_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10033_sat.jpg",
+        "question_id": 32,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10034_sat.jpg",
+        "ground_truth": "OilSpill/masks/10034_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10034_sat.jpg",
+        "question_id": 33,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10035_sat.jpg",
+        "ground_truth": "OilSpill/masks/10035_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10035_sat.jpg",
+        "question_id": 34,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10036_sat.jpg",
+        "ground_truth": "OilSpill/masks/10036_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10036_sat.jpg",
+        "question_id": 35,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10037_sat.jpg",
+        "ground_truth": "OilSpill/masks/10037_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10037_sat.jpg",
+        "question_id": 36,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10038_sat.jpg",
+        "ground_truth": "OilSpill/masks/10038_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10038_sat.jpg",
+        "question_id": 37,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10039_sat.jpg",
+        "ground_truth": "OilSpill/masks/10039_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10039_sat.jpg",
+        "question_id": 38,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10040_sat.jpg",
+        "ground_truth": "OilSpill/masks/10040_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10040_sat.jpg",
+        "question_id": 39,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10041_sat.jpg",
+        "ground_truth": "OilSpill/masks/10041_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10041_sat.jpg",
+        "question_id": 40,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10042_sat.jpg",
+        "ground_truth": "OilSpill/masks/10042_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10042_sat.jpg",
+        "question_id": 41,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10043_sat.jpg",
+        "ground_truth": "OilSpill/masks/10043_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10043_sat.jpg",
+        "question_id": 42,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10044_sat.jpg",
+        "ground_truth": "OilSpill/masks/10044_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10044_sat.jpg",
+        "question_id": 43,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10045_sat.jpg",
+        "ground_truth": "OilSpill/masks/10045_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10045_sat.jpg",
+        "question_id": 44,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10046_sat.jpg",
+        "ground_truth": "OilSpill/masks/10046_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10046_sat.jpg",
+        "question_id": 45,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10047_sat.jpg",
+        "ground_truth": "OilSpill/masks/10047_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10047_sat.jpg",
+        "question_id": 46,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10048_sat.jpg",
+        "ground_truth": "OilSpill/masks/10048_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10048_sat.jpg",
+        "question_id": 47,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10049_sat.jpg",
+        "ground_truth": "OilSpill/masks/10049_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10049_sat.jpg",
+        "question_id": 48,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10050_sat.jpg",
+        "ground_truth": "OilSpill/masks/10050_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10050_sat.jpg",
+        "question_id": 49,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10051_sat.jpg",
+        "ground_truth": "OilSpill/masks/10051_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10051_sat.jpg",
+        "question_id": 50,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10052_sat.jpg",
+        "ground_truth": "OilSpill/masks/10052_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10052_sat.jpg",
+        "question_id": 51,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10053_sat.jpg",
+        "ground_truth": "OilSpill/masks/10053_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10053_sat.jpg",
+        "question_id": 52,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10054_sat.jpg",
+        "ground_truth": "OilSpill/masks/10054_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10054_sat.jpg",
+        "question_id": 53,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10055_sat.jpg",
+        "ground_truth": "OilSpill/masks/10055_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10055_sat.jpg",
+        "question_id": 54,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10056_sat.jpg",
+        "ground_truth": "OilSpill/masks/10056_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10056_sat.jpg",
+        "question_id": 55,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10057_sat.jpg",
+        "ground_truth": "OilSpill/masks/10057_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10057_sat.jpg",
+        "question_id": 56,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10058_sat.jpg",
+        "ground_truth": "OilSpill/masks/10058_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10058_sat.jpg",
+        "question_id": 57,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10059_sat.jpg",
+        "ground_truth": "OilSpill/masks/10059_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10059_sat.jpg",
+        "question_id": 58,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10060_sat.jpg",
+        "ground_truth": "OilSpill/masks/10060_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10060_sat.jpg",
+        "question_id": 59,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10061_sat.jpg",
+        "ground_truth": "OilSpill/masks/10061_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10061_sat.jpg",
+        "question_id": 60,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10062_sat.jpg",
+        "ground_truth": "OilSpill/masks/10062_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10062_sat.jpg",
+        "question_id": 61,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10063_sat.jpg",
+        "ground_truth": "OilSpill/masks/10063_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10063_sat.jpg",
+        "question_id": 62,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10064_sat.jpg",
+        "ground_truth": "OilSpill/masks/10064_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10064_sat.jpg",
+        "question_id": 63,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10065_sat.jpg",
+        "ground_truth": "OilSpill/masks/10065_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10065_sat.jpg",
+        "question_id": 64,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10066_sat.jpg",
+        "ground_truth": "OilSpill/masks/10066_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10066_sat.jpg",
+        "question_id": 65,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10067_sat.jpg",
+        "ground_truth": "OilSpill/masks/10067_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10067_sat.jpg",
+        "question_id": 66,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10068_sat.jpg",
+        "ground_truth": "OilSpill/masks/10068_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10068_sat.jpg",
+        "question_id": 67,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10069_sat.jpg",
+        "ground_truth": "OilSpill/masks/10069_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10069_sat.jpg",
+        "question_id": 68,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10070_sat.jpg",
+        "ground_truth": "OilSpill/masks/10070_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10070_sat.jpg",
+        "question_id": 69,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10071_sat.jpg",
+        "ground_truth": "OilSpill/masks/10071_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10071_sat.jpg",
+        "question_id": 70,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10072_sat.jpg",
+        "ground_truth": "OilSpill/masks/10072_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10072_sat.jpg",
+        "question_id": 71,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10073_sat.jpg",
+        "ground_truth": "OilSpill/masks/10073_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10073_sat.jpg",
+        "question_id": 72,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10074_sat.jpg",
+        "ground_truth": "OilSpill/masks/10074_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10074_sat.jpg",
+        "question_id": 73,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10075_sat.jpg",
+        "ground_truth": "OilSpill/masks/10075_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10075_sat.jpg",
+        "question_id": 74,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10076_sat.jpg",
+        "ground_truth": "OilSpill/masks/10076_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10076_sat.jpg",
+        "question_id": 75,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10077_sat.jpg",
+        "ground_truth": "OilSpill/masks/10077_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10077_sat.jpg",
+        "question_id": 76,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10078_sat.jpg",
+        "ground_truth": "OilSpill/masks/10078_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10078_sat.jpg",
+        "question_id": 77,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10079_sat.jpg",
+        "ground_truth": "OilSpill/masks/10079_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10079_sat.jpg",
+        "question_id": 78,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10080_sat.jpg",
+        "ground_truth": "OilSpill/masks/10080_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10080_sat.jpg",
+        "question_id": 79,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10081_sat.jpg",
+        "ground_truth": "OilSpill/masks/10081_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10081_sat.jpg",
+        "question_id": 80,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10082_sat.jpg",
+        "ground_truth": "OilSpill/masks/10082_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10082_sat.jpg",
+        "question_id": 81,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10083_sat.jpg",
+        "ground_truth": "OilSpill/masks/10083_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10083_sat.jpg",
+        "question_id": 82,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10084_sat.jpg",
+        "ground_truth": "OilSpill/masks/10084_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10084_sat.jpg",
+        "question_id": 83,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10085_sat.jpg",
+        "ground_truth": "OilSpill/masks/10085_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10085_sat.jpg",
+        "question_id": 84,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10086_sat.jpg",
+        "ground_truth": "OilSpill/masks/10086_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10086_sat.jpg",
+        "question_id": 85,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10087_sat.jpg",
+        "ground_truth": "OilSpill/masks/10087_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10087_sat.jpg",
+        "question_id": 86,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10088_sat.jpg",
+        "ground_truth": "OilSpill/masks/10088_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10088_sat.jpg",
+        "question_id": 87,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10089_sat.jpg",
+        "ground_truth": "OilSpill/masks/10089_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10089_sat.jpg",
+        "question_id": 88,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10090_sat.jpg",
+        "ground_truth": "OilSpill/masks/10090_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10090_sat.jpg",
+        "question_id": 89,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10091_sat.jpg",
+        "ground_truth": "OilSpill/masks/10091_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10091_sat.jpg",
+        "question_id": 90,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10092_sat.jpg",
+        "ground_truth": "OilSpill/masks/10092_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10092_sat.jpg",
+        "question_id": 91,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10093_sat.jpg",
+        "ground_truth": "OilSpill/masks/10093_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10093_sat.jpg",
+        "question_id": 92,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10094_sat.jpg",
+        "ground_truth": "OilSpill/masks/10094_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10094_sat.jpg",
+        "question_id": 93,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10095_sat.jpg",
+        "ground_truth": "OilSpill/masks/10095_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10095_sat.jpg",
+        "question_id": 94,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10096_sat.jpg",
+        "ground_truth": "OilSpill/masks/10096_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10096_sat.jpg",
+        "question_id": 95,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10097_sat.jpg",
+        "ground_truth": "OilSpill/masks/10097_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10097_sat.jpg",
+        "question_id": 96,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10098_sat.jpg",
+        "ground_truth": "OilSpill/masks/10098_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10098_sat.jpg",
+        "question_id": 97,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10099_sat.jpg",
+        "ground_truth": "OilSpill/masks/10099_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10099_sat.jpg",
+        "question_id": 98,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10100_sat.jpg",
+        "ground_truth": "OilSpill/masks/10100_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10100_sat.jpg",
+        "question_id": 99,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10101_sat.jpg",
+        "ground_truth": "OilSpill/masks/10101_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10101_sat.jpg",
+        "question_id": 100,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10102_sat.jpg",
+        "ground_truth": "OilSpill/masks/10102_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10102_sat.jpg",
+        "question_id": 101,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10103_sat.jpg",
+        "ground_truth": "OilSpill/masks/10103_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10103_sat.jpg",
+        "question_id": 102,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10104_sat.jpg",
+        "ground_truth": "OilSpill/masks/10104_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10104_sat.jpg",
+        "question_id": 103,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10105_sat.jpg",
+        "ground_truth": "OilSpill/masks/10105_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10105_sat.jpg",
+        "question_id": 104,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10106_sat.jpg",
+        "ground_truth": "OilSpill/masks/10106_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10106_sat.jpg",
+        "question_id": 105,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10107_sat.jpg",
+        "ground_truth": "OilSpill/masks/10107_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10107_sat.jpg",
+        "question_id": 106,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10108_sat.jpg",
+        "ground_truth": "OilSpill/masks/10108_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10108_sat.jpg",
+        "question_id": 107,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10109_sat.jpg",
+        "ground_truth": "OilSpill/masks/10109_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10109_sat.jpg",
+        "question_id": 108,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10110_sat.jpg",
+        "ground_truth": "OilSpill/masks/10110_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10110_sat.jpg",
+        "question_id": 109,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10111_sat.jpg",
+        "ground_truth": "OilSpill/masks/10111_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10111_sat.jpg",
+        "question_id": 110,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10112_sat.jpg",
+        "ground_truth": "OilSpill/masks/10112_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10112_sat.jpg",
+        "question_id": 111,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10113_sat.jpg",
+        "ground_truth": "OilSpill/masks/10113_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10113_sat.jpg",
+        "question_id": 112,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10114_sat.jpg",
+        "ground_truth": "OilSpill/masks/10114_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10114_sat.jpg",
+        "question_id": 113,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10115_sat.jpg",
+        "ground_truth": "OilSpill/masks/10115_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10115_sat.jpg",
+        "question_id": 114,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10116_sat.jpg",
+        "ground_truth": "OilSpill/masks/10116_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10116_sat.jpg",
+        "question_id": 115,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10117_sat.jpg",
+        "ground_truth": "OilSpill/masks/10117_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10117_sat.jpg",
+        "question_id": 116,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10118_sat.jpg",
+        "ground_truth": "OilSpill/masks/10118_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10118_sat.jpg",
+        "question_id": 117,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10119_sat.jpg",
+        "ground_truth": "OilSpill/masks/10119_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10119_sat.jpg",
+        "question_id": 118,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/10120_sat.jpg",
+        "ground_truth": "OilSpill/masks/10120_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "10120_sat.jpg",
+        "question_id": 119,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20001_sat.jpg",
+        "ground_truth": "OilSpill/masks/20001_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20001_sat.jpg",
+        "question_id": 120,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20002_sat.jpg",
+        "ground_truth": "OilSpill/masks/20002_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20002_sat.jpg",
+        "question_id": 121,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20003_sat.jpg",
+        "ground_truth": "OilSpill/masks/20003_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20003_sat.jpg",
+        "question_id": 122,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20004_sat.jpg",
+        "ground_truth": "OilSpill/masks/20004_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20004_sat.jpg",
+        "question_id": 123,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20005_sat.jpg",
+        "ground_truth": "OilSpill/masks/20005_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20005_sat.jpg",
+        "question_id": 124,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20006_sat.jpg",
+        "ground_truth": "OilSpill/masks/20006_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20006_sat.jpg",
+        "question_id": 125,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20007_sat.jpg",
+        "ground_truth": "OilSpill/masks/20007_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20007_sat.jpg",
+        "question_id": 126,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20008_sat.jpg",
+        "ground_truth": "OilSpill/masks/20008_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20008_sat.jpg",
+        "question_id": 127,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20009_sat.jpg",
+        "ground_truth": "OilSpill/masks/20009_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20009_sat.jpg",
+        "question_id": 128,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20010_sat.jpg",
+        "ground_truth": "OilSpill/masks/20010_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20010_sat.jpg",
+        "question_id": 129,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20011_sat.jpg",
+        "ground_truth": "OilSpill/masks/20011_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20011_sat.jpg",
+        "question_id": 130,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20012_sat.jpg",
+        "ground_truth": "OilSpill/masks/20012_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20012_sat.jpg",
+        "question_id": 131,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20013_sat.jpg",
+        "ground_truth": "OilSpill/masks/20013_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20013_sat.jpg",
+        "question_id": 132,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20014_sat.jpg",
+        "ground_truth": "OilSpill/masks/20014_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20014_sat.jpg",
+        "question_id": 133,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20015_sat.jpg",
+        "ground_truth": "OilSpill/masks/20015_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20015_sat.jpg",
+        "question_id": 134,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20016_sat.jpg",
+        "ground_truth": "OilSpill/masks/20016_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20016_sat.jpg",
+        "question_id": 135,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20017_sat.jpg",
+        "ground_truth": "OilSpill/masks/20017_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20017_sat.jpg",
+        "question_id": 136,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20018_sat.jpg",
+        "ground_truth": "OilSpill/masks/20018_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20018_sat.jpg",
+        "question_id": 137,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20019_sat.jpg",
+        "ground_truth": "OilSpill/masks/20019_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20019_sat.jpg",
+        "question_id": 138,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20020_sat.jpg",
+        "ground_truth": "OilSpill/masks/20020_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20020_sat.jpg",
+        "question_id": 139,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20021_sat.jpg",
+        "ground_truth": "OilSpill/masks/20021_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20021_sat.jpg",
+        "question_id": 140,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20022_sat.jpg",
+        "ground_truth": "OilSpill/masks/20022_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20022_sat.jpg",
+        "question_id": 141,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20023_sat.jpg",
+        "ground_truth": "OilSpill/masks/20023_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20023_sat.jpg",
+        "question_id": 142,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20024_sat.jpg",
+        "ground_truth": "OilSpill/masks/20024_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20024_sat.jpg",
+        "question_id": 143,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20025_sat.jpg",
+        "ground_truth": "OilSpill/masks/20025_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20025_sat.jpg",
+        "question_id": 144,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20026_sat.jpg",
+        "ground_truth": "OilSpill/masks/20026_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20026_sat.jpg",
+        "question_id": 145,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20027_sat.jpg",
+        "ground_truth": "OilSpill/masks/20027_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20027_sat.jpg",
+        "question_id": 146,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20028_sat.jpg",
+        "ground_truth": "OilSpill/masks/20028_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20028_sat.jpg",
+        "question_id": 147,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20029_sat.jpg",
+        "ground_truth": "OilSpill/masks/20029_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20029_sat.jpg",
+        "question_id": 148,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20030_sat.jpg",
+        "ground_truth": "OilSpill/masks/20030_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20030_sat.jpg",
+        "question_id": 149,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20031_sat.jpg",
+        "ground_truth": "OilSpill/masks/20031_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20031_sat.jpg",
+        "question_id": 150,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20032_sat.jpg",
+        "ground_truth": "OilSpill/masks/20032_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20032_sat.jpg",
+        "question_id": 151,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20033_sat.jpg",
+        "ground_truth": "OilSpill/masks/20033_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20033_sat.jpg",
+        "question_id": 152,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20034_sat.jpg",
+        "ground_truth": "OilSpill/masks/20034_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20034_sat.jpg",
+        "question_id": 153,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20035_sat.jpg",
+        "ground_truth": "OilSpill/masks/20035_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20035_sat.jpg",
+        "question_id": 154,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20036_sat.jpg",
+        "ground_truth": "OilSpill/masks/20036_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20036_sat.jpg",
+        "question_id": 155,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20037_sat.jpg",
+        "ground_truth": "OilSpill/masks/20037_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20037_sat.jpg",
+        "question_id": 156,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20038_sat.jpg",
+        "ground_truth": "OilSpill/masks/20038_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20038_sat.jpg",
+        "question_id": 157,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20039_sat.jpg",
+        "ground_truth": "OilSpill/masks/20039_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20039_sat.jpg",
+        "question_id": 158,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20040_sat.jpg",
+        "ground_truth": "OilSpill/masks/20040_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20040_sat.jpg",
+        "question_id": 159,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20041_sat.jpg",
+        "ground_truth": "OilSpill/masks/20041_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20041_sat.jpg",
+        "question_id": 160,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20042_sat.jpg",
+        "ground_truth": "OilSpill/masks/20042_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20042_sat.jpg",
+        "question_id": 161,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20043_sat.jpg",
+        "ground_truth": "OilSpill/masks/20043_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20043_sat.jpg",
+        "question_id": 162,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20044_sat.jpg",
+        "ground_truth": "OilSpill/masks/20044_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20044_sat.jpg",
+        "question_id": 163,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20045_sat.jpg",
+        "ground_truth": "OilSpill/masks/20045_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20045_sat.jpg",
+        "question_id": 164,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20046_sat.jpg",
+        "ground_truth": "OilSpill/masks/20046_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20046_sat.jpg",
+        "question_id": 165,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20047_sat.jpg",
+        "ground_truth": "OilSpill/masks/20047_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20047_sat.jpg",
+        "question_id": 166,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20048_sat.jpg",
+        "ground_truth": "OilSpill/masks/20048_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20048_sat.jpg",
+        "question_id": 167,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20049_sat.jpg",
+        "ground_truth": "OilSpill/masks/20049_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20049_sat.jpg",
+        "question_id": 168,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20050_sat.jpg",
+        "ground_truth": "OilSpill/masks/20050_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20050_sat.jpg",
+        "question_id": 169,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20051_sat.jpg",
+        "ground_truth": "OilSpill/masks/20051_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20051_sat.jpg",
+        "question_id": 170,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20052_sat.jpg",
+        "ground_truth": "OilSpill/masks/20052_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20052_sat.jpg",
+        "question_id": 171,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20053_sat.jpg",
+        "ground_truth": "OilSpill/masks/20053_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20053_sat.jpg",
+        "question_id": 172,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20054_sat.jpg",
+        "ground_truth": "OilSpill/masks/20054_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20054_sat.jpg",
+        "question_id": 173,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20055_sat.jpg",
+        "ground_truth": "OilSpill/masks/20055_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20055_sat.jpg",
+        "question_id": 174,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20056_sat.jpg",
+        "ground_truth": "OilSpill/masks/20056_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20056_sat.jpg",
+        "question_id": 175,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20057_sat.jpg",
+        "ground_truth": "OilSpill/masks/20057_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20057_sat.jpg",
+        "question_id": 176,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20058_sat.jpg",
+        "ground_truth": "OilSpill/masks/20058_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20058_sat.jpg",
+        "question_id": 177,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20059_sat.jpg",
+        "ground_truth": "OilSpill/masks/20059_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20059_sat.jpg",
+        "question_id": 178,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20060_sat.jpg",
+        "ground_truth": "OilSpill/masks/20060_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20060_sat.jpg",
+        "question_id": 179,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20061_sat.jpg",
+        "ground_truth": "OilSpill/masks/20061_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20061_sat.jpg",
+        "question_id": 180,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20062_sat.jpg",
+        "ground_truth": "OilSpill/masks/20062_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20062_sat.jpg",
+        "question_id": 181,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20063_sat.jpg",
+        "ground_truth": "OilSpill/masks/20063_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20063_sat.jpg",
+        "question_id": 182,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20064_sat.jpg",
+        "ground_truth": "OilSpill/masks/20064_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20064_sat.jpg",
+        "question_id": 183,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20065_sat.jpg",
+        "ground_truth": "OilSpill/masks/20065_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20065_sat.jpg",
+        "question_id": 184,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20066_sat.jpg",
+        "ground_truth": "OilSpill/masks/20066_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20066_sat.jpg",
+        "question_id": 185,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20067_sat.jpg",
+        "ground_truth": "OilSpill/masks/20067_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20067_sat.jpg",
+        "question_id": 186,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20068_sat.jpg",
+        "ground_truth": "OilSpill/masks/20068_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20068_sat.jpg",
+        "question_id": 187,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20069_sat.jpg",
+        "ground_truth": "OilSpill/masks/20069_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20069_sat.jpg",
+        "question_id": 188,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20070_sat.jpg",
+        "ground_truth": "OilSpill/masks/20070_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20070_sat.jpg",
+        "question_id": 189,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20071_sat.jpg",
+        "ground_truth": "OilSpill/masks/20071_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20071_sat.jpg",
+        "question_id": 190,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20072_sat.jpg",
+        "ground_truth": "OilSpill/masks/20072_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20072_sat.jpg",
+        "question_id": 191,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20073_sat.jpg",
+        "ground_truth": "OilSpill/masks/20073_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20073_sat.jpg",
+        "question_id": 192,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20074_sat.jpg",
+        "ground_truth": "OilSpill/masks/20074_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20074_sat.jpg",
+        "question_id": 193,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20075_sat.jpg",
+        "ground_truth": "OilSpill/masks/20075_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20075_sat.jpg",
+        "question_id": 194,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20076_sat.jpg",
+        "ground_truth": "OilSpill/masks/20076_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20076_sat.jpg",
+        "question_id": 195,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20077_sat.jpg",
+        "ground_truth": "OilSpill/masks/20077_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20077_sat.jpg",
+        "question_id": 196,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20078_sat.jpg",
+        "ground_truth": "OilSpill/masks/20078_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20078_sat.jpg",
+        "question_id": 197,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20079_sat.jpg",
+        "ground_truth": "OilSpill/masks/20079_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20079_sat.jpg",
+        "question_id": 198,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20080_sat.jpg",
+        "ground_truth": "OilSpill/masks/20080_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20080_sat.jpg",
+        "question_id": 199,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20081_sat.jpg",
+        "ground_truth": "OilSpill/masks/20081_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20081_sat.jpg",
+        "question_id": 200,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20082_sat.jpg",
+        "ground_truth": "OilSpill/masks/20082_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20082_sat.jpg",
+        "question_id": 201,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20083_sat.jpg",
+        "ground_truth": "OilSpill/masks/20083_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20083_sat.jpg",
+        "question_id": 202,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20084_sat.jpg",
+        "ground_truth": "OilSpill/masks/20084_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20084_sat.jpg",
+        "question_id": 203,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20085_sat.jpg",
+        "ground_truth": "OilSpill/masks/20085_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20085_sat.jpg",
+        "question_id": 204,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20086_sat.jpg",
+        "ground_truth": "OilSpill/masks/20086_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20086_sat.jpg",
+        "question_id": 205,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20087_sat.jpg",
+        "ground_truth": "OilSpill/masks/20087_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20087_sat.jpg",
+        "question_id": 206,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20088_sat.jpg",
+        "ground_truth": "OilSpill/masks/20088_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20088_sat.jpg",
+        "question_id": 207,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20089_sat.jpg",
+        "ground_truth": "OilSpill/masks/20089_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20089_sat.jpg",
+        "question_id": 208,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20090_sat.jpg",
+        "ground_truth": "OilSpill/masks/20090_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20090_sat.jpg",
+        "question_id": 209,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20091_sat.jpg",
+        "ground_truth": "OilSpill/masks/20091_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20091_sat.jpg",
+        "question_id": 210,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20092_sat.jpg",
+        "ground_truth": "OilSpill/masks/20092_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20092_sat.jpg",
+        "question_id": 211,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20093_sat.jpg",
+        "ground_truth": "OilSpill/masks/20093_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20093_sat.jpg",
+        "question_id": 212,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20094_sat.jpg",
+        "ground_truth": "OilSpill/masks/20094_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20094_sat.jpg",
+        "question_id": 213,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20095_sat.jpg",
+        "ground_truth": "OilSpill/masks/20095_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20095_sat.jpg",
+        "question_id": 214,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20096_sat.jpg",
+        "ground_truth": "OilSpill/masks/20096_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20096_sat.jpg",
+        "question_id": 215,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20097_sat.jpg",
+        "ground_truth": "OilSpill/masks/20097_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20097_sat.jpg",
+        "question_id": 216,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20098_sat.jpg",
+        "ground_truth": "OilSpill/masks/20098_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20098_sat.jpg",
+        "question_id": 217,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20099_sat.jpg",
+        "ground_truth": "OilSpill/masks/20099_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20099_sat.jpg",
+        "question_id": 218,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20100_sat.jpg",
+        "ground_truth": "OilSpill/masks/20100_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20100_sat.jpg",
+        "question_id": 219,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20101_sat.jpg",
+        "ground_truth": "OilSpill/masks/20101_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20101_sat.jpg",
+        "question_id": 220,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20102_sat.jpg",
+        "ground_truth": "OilSpill/masks/20102_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20102_sat.jpg",
+        "question_id": 221,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20103_sat.jpg",
+        "ground_truth": "OilSpill/masks/20103_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20103_sat.jpg",
+        "question_id": 222,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20104_sat.jpg",
+        "ground_truth": "OilSpill/masks/20104_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20104_sat.jpg",
+        "question_id": 223,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20105_sat.jpg",
+        "ground_truth": "OilSpill/masks/20105_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20105_sat.jpg",
+        "question_id": 224,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20106_sat.jpg",
+        "ground_truth": "OilSpill/masks/20106_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20106_sat.jpg",
+        "question_id": 225,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20107_sat.jpg",
+        "ground_truth": "OilSpill/masks/20107_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20107_sat.jpg",
+        "question_id": 226,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20108_sat.jpg",
+        "ground_truth": "OilSpill/masks/20108_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20108_sat.jpg",
+        "question_id": 227,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20109_sat.jpg",
+        "ground_truth": "OilSpill/masks/20109_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20109_sat.jpg",
+        "question_id": 228,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20110_sat.jpg",
+        "ground_truth": "OilSpill/masks/20110_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20110_sat.jpg",
+        "question_id": 229,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20111_sat.jpg",
+        "ground_truth": "OilSpill/masks/20111_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20111_sat.jpg",
+        "question_id": 230,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20112_sat.jpg",
+        "ground_truth": "OilSpill/masks/20112_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20112_sat.jpg",
+        "question_id": 231,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20113_sat.jpg",
+        "ground_truth": "OilSpill/masks/20113_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20113_sat.jpg",
+        "question_id": 232,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20114_sat.jpg",
+        "ground_truth": "OilSpill/masks/20114_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20114_sat.jpg",
+        "question_id": 233,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20115_sat.jpg",
+        "ground_truth": "OilSpill/masks/20115_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20115_sat.jpg",
+        "question_id": 234,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20116_sat.jpg",
+        "ground_truth": "OilSpill/masks/20116_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20116_sat.jpg",
+        "question_id": 235,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "OilSpill/images/20117_sat.jpg",
+        "ground_truth": "OilSpill/masks/20117_sat.jpg",
+        "prompts": [
+            "Track the probable source and dispersion path of the oil slick.",
+            "Locate the marine oil pollution in this SAR image.",
+            "Identify the extent of the oil slick on the ocean surface.",
+            "Outline the contiguous dark regions that are likely oil spills.",
+            "What areas are covered by the oil spill?"
+        ],
+        "task": "Oil Spill Monitoring",
+        "image_name": "20117_sat.jpg",
+        "question_id": 236,
+        "cls_description": "High Difficulty"
+    }
+]

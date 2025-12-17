@@ -1,0 +1,2330 @@
+[
+    {
+        "image_path": "0504.jpg",
+        "ground_truth": "14",
+        "ground_truth_option": "A",
+        "options_list": [
+            "14",
+            "15",
+            "16",
+            "17",
+            "11"
+        ],
+        "options": "A. 14   B. 15   C. 16   D. 17   E. 11",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0504.jpg",
+        "question_id": 1,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0505.jpg",
+        "ground_truth": "34",
+        "ground_truth_option": "C",
+        "options_list": [
+            "32",
+            "37",
+            "34",
+            "31",
+            "36"
+        ],
+        "options": "A. 32   B. 37   C. 34   D. 31   E. 36",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0505.jpg",
+        "question_id": 2,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0506.jpg",
+        "ground_truth": "29",
+        "ground_truth_option": "A",
+        "options_list": [
+            "29",
+            "26",
+            "30",
+            "32",
+            "31"
+        ],
+        "options": "A. 29   B. 26   C. 30   D. 32   E. 31",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0506.jpg",
+        "question_id": 3,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0507.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "C",
+        "options_list": [
+            "13",
+            "8",
+            "11",
+            "14",
+            "9"
+        ],
+        "options": "A. 13   B. 8   C. 11   D. 14   E. 9",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0507.jpg",
+        "question_id": 4,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0509.jpg",
+        "ground_truth": "45",
+        "ground_truth_option": "D",
+        "options_list": [
+            "44",
+            "42",
+            "46",
+            "45",
+            "48"
+        ],
+        "options": "A. 44   B. 42   C. 46   D. 45   E. 48",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0509.jpg",
+        "question_id": 5,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0510.jpg",
+        "ground_truth": "82",
+        "ground_truth_option": "E",
+        "options_list": [
+            "85",
+            "79",
+            "80",
+            "84",
+            "82"
+        ],
+        "options": "A. 85   B. 79   C. 80   D. 84   E. 82",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0510.jpg",
+        "question_id": 6,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0511.jpg",
+        "ground_truth": "117",
+        "ground_truth_option": "E",
+        "options_list": [
+            "114",
+            "118",
+            "120",
+            "119",
+            "117"
+        ],
+        "options": "A. 114   B. 118   C. 120   D. 119   E. 117",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0511.jpg",
+        "question_id": 7,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0512.jpg",
+        "ground_truth": "85",
+        "ground_truth_option": "B",
+        "options_list": [
+            "83",
+            "85",
+            "86",
+            "88",
+            "87"
+        ],
+        "options": "A. 83   B. 85   C. 86   D. 88   E. 87",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0512.jpg",
+        "question_id": 8,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0513.jpg",
+        "ground_truth": "32",
+        "ground_truth_option": "C",
+        "options_list": [
+            "30",
+            "35",
+            "32",
+            "33",
+            "34"
+        ],
+        "options": "A. 30   B. 35   C. 32   D. 33   E. 34",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0513.jpg",
+        "question_id": 9,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0514.jpg",
+        "ground_truth": "8",
+        "ground_truth_option": "B",
+        "options_list": [
+            "9",
+            "8",
+            "5",
+            "10",
+            "11"
+        ],
+        "options": "A. 9   B. 8   C. 5   D. 10   E. 11",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0514.jpg",
+        "question_id": 10,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0518.jpg",
+        "ground_truth": "93",
+        "ground_truth_option": "A",
+        "options_list": [
+            "93",
+            "92",
+            "96",
+            "95",
+            "94"
+        ],
+        "options": "A. 93   B. 92   C. 96   D. 95   E. 94",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0518.jpg",
+        "question_id": 11,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0519.jpg",
+        "ground_truth": "288",
+        "ground_truth_option": "D",
+        "options_list": [
+            "291",
+            "287",
+            "285",
+            "288",
+            "290"
+        ],
+        "options": "A. 291   B. 287   C. 285   D. 288   E. 290",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0519.jpg",
+        "question_id": 12,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0520.jpg",
+        "ground_truth": "318",
+        "ground_truth_option": "E",
+        "options_list": [
+            "317",
+            "320",
+            "315",
+            "316",
+            "318"
+        ],
+        "options": "A. 317   B. 320   C. 315   D. 316   E. 318",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0520.jpg",
+        "question_id": 13,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0521.jpg",
+        "ground_truth": "239",
+        "ground_truth_option": "C",
+        "options_list": [
+            "238",
+            "242",
+            "239",
+            "236",
+            "241"
+        ],
+        "options": "A. 238   B. 242   C. 239   D. 236   E. 241",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0521.jpg",
+        "question_id": 14,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0522.jpg",
+        "ground_truth": "64",
+        "ground_truth_option": "E",
+        "options_list": [
+            "62",
+            "63",
+            "61",
+            "65",
+            "64"
+        ],
+        "options": "A. 62   B. 63   C. 61   D. 65   E. 64",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0522.jpg",
+        "question_id": 15,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0523.jpg",
+        "ground_truth": "8",
+        "ground_truth_option": "A",
+        "options_list": [
+            "8",
+            "6",
+            "11",
+            "9",
+            "5"
+        ],
+        "options": "A. 8   B. 6   C. 11   D. 9   E. 5",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0523.jpg",
+        "question_id": 16,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0524.jpg",
+        "ground_truth": "8",
+        "ground_truth_option": "E",
+        "options_list": [
+            "7",
+            "11",
+            "10",
+            "5",
+            "8"
+        ],
+        "options": "A. 7   B. 11   C. 10   D. 5   E. 8",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0524.jpg",
+        "question_id": 17,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0525.jpg",
+        "ground_truth": "8",
+        "ground_truth_option": "D",
+        "options_list": [
+            "6",
+            "9",
+            "5",
+            "8",
+            "10"
+        ],
+        "options": "A. 6   B. 9   C. 5   D. 8   E. 10",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0525.jpg",
+        "question_id": 18,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0526.jpg",
+        "ground_truth": "8",
+        "ground_truth_option": "D",
+        "options_list": [
+            "11",
+            "9",
+            "10",
+            "8",
+            "5"
+        ],
+        "options": "A. 11   B. 9   C. 10   D. 8   E. 5",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0526.jpg",
+        "question_id": 19,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0527.jpg",
+        "ground_truth": "84",
+        "ground_truth_option": "A",
+        "options_list": [
+            "84",
+            "83",
+            "87",
+            "82",
+            "86"
+        ],
+        "options": "A. 84   B. 83   C. 87   D. 82   E. 86",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0527.jpg",
+        "question_id": 20,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0528.jpg",
+        "ground_truth": "273",
+        "ground_truth_option": "E",
+        "options_list": [
+            "271",
+            "270",
+            "274",
+            "275",
+            "273"
+        ],
+        "options": "A. 271   B. 270   C. 274   D. 275   E. 273",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0528.jpg",
+        "question_id": 21,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0529.jpg",
+        "ground_truth": "273",
+        "ground_truth_option": "A",
+        "options_list": [
+            "273",
+            "271",
+            "270",
+            "275",
+            "274"
+        ],
+        "options": "A. 273   B. 271   C. 270   D. 275   E. 274",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0529.jpg",
+        "question_id": 22,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0530.jpg",
+        "ground_truth": "190",
+        "ground_truth_option": "B",
+        "options_list": [
+            "189",
+            "190",
+            "192",
+            "193",
+            "187"
+        ],
+        "options": "A. 189   B. 190   C. 192   D. 193   E. 187",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0530.jpg",
+        "question_id": 23,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0531.jpg",
+        "ground_truth": "39",
+        "ground_truth_option": "A",
+        "options_list": [
+            "39",
+            "42",
+            "36",
+            "41",
+            "40"
+        ],
+        "options": "A. 39   B. 42   C. 36   D. 41   E. 40",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0531.jpg",
+        "question_id": 24,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0533.jpg",
+        "ground_truth": "8",
+        "ground_truth_option": "D",
+        "options_list": [
+            "6",
+            "9",
+            "5",
+            "8",
+            "7"
+        ],
+        "options": "A. 6   B. 9   C. 5   D. 8   E. 7",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0533.jpg",
+        "question_id": 25,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0534.jpg",
+        "ground_truth": "8",
+        "ground_truth_option": "D",
+        "options_list": [
+            "11",
+            "7",
+            "6",
+            "8",
+            "10"
+        ],
+        "options": "A. 11   B. 7   C. 6   D. 8   E. 10",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0534.jpg",
+        "question_id": 26,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0535.jpg",
+        "ground_truth": "8",
+        "ground_truth_option": "E",
+        "options_list": [
+            "6",
+            "10",
+            "7",
+            "11",
+            "8"
+        ],
+        "options": "A. 6   B. 10   C. 7   D. 11   E. 8",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0535.jpg",
+        "question_id": 27,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0537.jpg",
+        "ground_truth": "30",
+        "ground_truth_option": "A",
+        "options_list": [
+            "30",
+            "27",
+            "28",
+            "32",
+            "29"
+        ],
+        "options": "A. 30   B. 27   C. 28   D. 32   E. 29",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0537.jpg",
+        "question_id": 28,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0538.jpg",
+        "ground_truth": "153",
+        "ground_truth_option": "A",
+        "options_list": [
+            "153",
+            "151",
+            "154",
+            "150",
+            "152"
+        ],
+        "options": "A. 153   B. 151   C. 154   D. 150   E. 152",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0538.jpg",
+        "question_id": 29,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0539.jpg",
+        "ground_truth": "148",
+        "ground_truth_option": "B",
+        "options_list": [
+            "149",
+            "148",
+            "146",
+            "147",
+            "150"
+        ],
+        "options": "A. 149   B. 148   C. 146   D. 147   E. 150",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0539.jpg",
+        "question_id": 30,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0540.jpg",
+        "ground_truth": "113",
+        "ground_truth_option": "C",
+        "options_list": [
+            "110",
+            "114",
+            "113",
+            "112",
+            "115"
+        ],
+        "options": "A. 110   B. 114   C. 113   D. 112   E. 115",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0540.jpg",
+        "question_id": 31,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0541.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "B",
+        "options_list": [
+            "17",
+            "16",
+            "19",
+            "14",
+            "13"
+        ],
+        "options": "A. 17   B. 16   C. 19   D. 14   E. 13",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0541.jpg",
+        "question_id": 32,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0546.jpg",
+        "ground_truth": "15",
+        "ground_truth_option": "D",
+        "options_list": [
+            "14",
+            "18",
+            "12",
+            "15",
+            "13"
+        ],
+        "options": "A. 14   B. 18   C. 12   D. 15   E. 13",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0546.jpg",
+        "question_id": 33,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0547.jpg",
+        "ground_truth": "57",
+        "ground_truth_option": "B",
+        "options_list": [
+            "56",
+            "57",
+            "60",
+            "59",
+            "55"
+        ],
+        "options": "A. 56   B. 57   C. 60   D. 59   E. 55",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0547.jpg",
+        "question_id": 34,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0548.jpg",
+        "ground_truth": "85",
+        "ground_truth_option": "B",
+        "options_list": [
+            "83",
+            "85",
+            "88",
+            "84",
+            "87"
+        ],
+        "options": "A. 83   B. 85   C. 88   D. 84   E. 87",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0548.jpg",
+        "question_id": 35,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0549.jpg",
+        "ground_truth": "93",
+        "ground_truth_option": "D",
+        "options_list": [
+            "94",
+            "92",
+            "90",
+            "93",
+            "96"
+        ],
+        "options": "A. 94   B. 92   C. 90   D. 93   E. 96",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0549.jpg",
+        "question_id": 36,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0550.jpg",
+        "ground_truth": "54",
+        "ground_truth_option": "C",
+        "options_list": [
+            "57",
+            "55",
+            "54",
+            "51",
+            "56"
+        ],
+        "options": "A. 57   B. 55   C. 54   D. 51   E. 56",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0550.jpg",
+        "question_id": 37,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0551.jpg",
+        "ground_truth": "30",
+        "ground_truth_option": "B",
+        "options_list": [
+            "31",
+            "30",
+            "29",
+            "32",
+            "28"
+        ],
+        "options": "A. 31   B. 30   C. 29   D. 32   E. 28",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0551.jpg",
+        "question_id": 38,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0552.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "D",
+        "options_list": [
+            "26",
+            "20",
+            "21",
+            "23",
+            "24"
+        ],
+        "options": "A. 26   B. 20   C. 21   D. 23   E. 24",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0552.jpg",
+        "question_id": 39,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0553.jpg",
+        "ground_truth": "91",
+        "ground_truth_option": "C",
+        "options_list": [
+            "92",
+            "88",
+            "91",
+            "93",
+            "94"
+        ],
+        "options": "A. 92   B. 88   C. 91   D. 93   E. 94",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0553.jpg",
+        "question_id": 40,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0554.jpg",
+        "ground_truth": "127",
+        "ground_truth_option": "C",
+        "options_list": [
+            "129",
+            "126",
+            "127",
+            "130",
+            "124"
+        ],
+        "options": "A. 129   B. 126   C. 127   D. 130   E. 124",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0554.jpg",
+        "question_id": 41,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0555.jpg",
+        "ground_truth": "124",
+        "ground_truth_option": "D",
+        "options_list": [
+            "122",
+            "123",
+            "125",
+            "124",
+            "121"
+        ],
+        "options": "A. 122   B. 123   C. 125   D. 124   E. 121",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0555.jpg",
+        "question_id": 42,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0556.jpg",
+        "ground_truth": "83",
+        "ground_truth_option": "B",
+        "options_list": [
+            "84",
+            "83",
+            "81",
+            "86",
+            "82"
+        ],
+        "options": "A. 84   B. 83   C. 81   D. 86   E. 82",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0556.jpg",
+        "question_id": 43,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0557.jpg",
+        "ground_truth": "57",
+        "ground_truth_option": "C",
+        "options_list": [
+            "58",
+            "59",
+            "57",
+            "60",
+            "54"
+        ],
+        "options": "A. 58   B. 59   C. 57   D. 60   E. 54",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0557.jpg",
+        "question_id": 44,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0558.jpg",
+        "ground_truth": "32",
+        "ground_truth_option": "A",
+        "options_list": [
+            "32",
+            "35",
+            "33",
+            "29",
+            "30"
+        ],
+        "options": "A. 32   B. 35   C. 33   D. 29   E. 30",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0558.jpg",
+        "question_id": 45,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0559.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "E",
+        "options_list": [
+            "28",
+            "24",
+            "30",
+            "25",
+            "27"
+        ],
+        "options": "A. 28   B. 24   C. 30   D. 25   E. 27",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0559.jpg",
+        "question_id": 46,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0560.jpg",
+        "ground_truth": "97",
+        "ground_truth_option": "E",
+        "options_list": [
+            "94",
+            "99",
+            "96",
+            "95",
+            "97"
+        ],
+        "options": "A. 94   B. 99   C. 96   D. 95   E. 97",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0560.jpg",
+        "question_id": 47,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0561.jpg",
+        "ground_truth": "136",
+        "ground_truth_option": "B",
+        "options_list": [
+            "137",
+            "136",
+            "138",
+            "135",
+            "133"
+        ],
+        "options": "A. 137   B. 136   C. 138   D. 135   E. 133",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0561.jpg",
+        "question_id": 48,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0562.jpg",
+        "ground_truth": "135",
+        "ground_truth_option": "A",
+        "options_list": [
+            "135",
+            "137",
+            "134",
+            "138",
+            "132"
+        ],
+        "options": "A. 135   B. 137   C. 134   D. 138   E. 132",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0562.jpg",
+        "question_id": 49,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0563.jpg",
+        "ground_truth": "129",
+        "ground_truth_option": "D",
+        "options_list": [
+            "132",
+            "131",
+            "130",
+            "129",
+            "127"
+        ],
+        "options": "A. 132   B. 131   C. 130   D. 129   E. 127",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0563.jpg",
+        "question_id": 50,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0564.jpg",
+        "ground_truth": "125",
+        "ground_truth_option": "D",
+        "options_list": [
+            "123",
+            "127",
+            "128",
+            "125",
+            "122"
+        ],
+        "options": "A. 123   B. 127   C. 128   D. 125   E. 122",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0564.jpg",
+        "question_id": 51,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0565.jpg",
+        "ground_truth": "87",
+        "ground_truth_option": "E",
+        "options_list": [
+            "89",
+            "85",
+            "90",
+            "86",
+            "87"
+        ],
+        "options": "A. 89   B. 85   C. 90   D. 86   E. 87",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0565.jpg",
+        "question_id": 52,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0566.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "B",
+        "options_list": [
+            "18",
+            "21",
+            "24",
+            "19",
+            "22"
+        ],
+        "options": "A. 18   B. 21   C. 24   D. 19   E. 22",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0566.jpg",
+        "question_id": 53,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0567.jpg",
+        "ground_truth": "44",
+        "ground_truth_option": "C",
+        "options_list": [
+            "47",
+            "46",
+            "44",
+            "41",
+            "42"
+        ],
+        "options": "A. 47   B. 46   C. 44   D. 41   E. 42",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0567.jpg",
+        "question_id": 54,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0568.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "B",
+        "options_list": [
+            "26",
+            "23",
+            "24",
+            "21",
+            "25"
+        ],
+        "options": "A. 26   B. 23   C. 24   D. 21   E. 25",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0568.jpg",
+        "question_id": 55,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0569.jpg",
+        "ground_truth": "7",
+        "ground_truth_option": "D",
+        "options_list": [
+            "9",
+            "4",
+            "8",
+            "7",
+            "10"
+        ],
+        "options": "A. 9   B. 4   C. 8   D. 7   E. 10",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0569.jpg",
+        "question_id": 56,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0570.jpg",
+        "ground_truth": "9",
+        "ground_truth_option": "B",
+        "options_list": [
+            "11",
+            "9",
+            "12",
+            "10",
+            "6"
+        ],
+        "options": "A. 11   B. 9   C. 12   D. 10   E. 6",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0570.jpg",
+        "question_id": 57,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0571.jpg",
+        "ground_truth": "49",
+        "ground_truth_option": "D",
+        "options_list": [
+            "46",
+            "52",
+            "48",
+            "49",
+            "51"
+        ],
+        "options": "A. 46   B. 52   C. 48   D. 49   E. 51",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0571.jpg",
+        "question_id": 58,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0572.jpg",
+        "ground_truth": "86",
+        "ground_truth_option": "D",
+        "options_list": [
+            "83",
+            "88",
+            "87",
+            "86",
+            "85"
+        ],
+        "options": "A. 83   B. 88   C. 87   D. 86   E. 85",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0572.jpg",
+        "question_id": 59,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0573.jpg",
+        "ground_truth": "90",
+        "ground_truth_option": "D",
+        "options_list": [
+            "87",
+            "93",
+            "92",
+            "90",
+            "91"
+        ],
+        "options": "A. 87   B. 93   C. 92   D. 90   E. 91",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0573.jpg",
+        "question_id": 60,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0574.jpg",
+        "ground_truth": "128",
+        "ground_truth_option": "E",
+        "options_list": [
+            "131",
+            "127",
+            "126",
+            "130",
+            "128"
+        ],
+        "options": "A. 131   B. 127   C. 126   D. 130   E. 128",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0574.jpg",
+        "question_id": 61,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0575.jpg",
+        "ground_truth": "131",
+        "ground_truth_option": "C",
+        "options_list": [
+            "133",
+            "128",
+            "131",
+            "134",
+            "130"
+        ],
+        "options": "A. 133   B. 128   C. 131   D. 134   E. 130",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0575.jpg",
+        "question_id": 62,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0576.jpg",
+        "ground_truth": "96",
+        "ground_truth_option": "C",
+        "options_list": [
+            "98",
+            "95",
+            "96",
+            "93",
+            "94"
+        ],
+        "options": "A. 98   B. 95   C. 96   D. 93   E. 94",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0576.jpg",
+        "question_id": 63,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0577.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "E",
+        "options_list": [
+            "22",
+            "18",
+            "24",
+            "19",
+            "21"
+        ],
+        "options": "A. 22   B. 18   C. 24   D. 19   E. 21",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0577.jpg",
+        "question_id": 64,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0578.jpg",
+        "ground_truth": "44",
+        "ground_truth_option": "B",
+        "options_list": [
+            "41",
+            "44",
+            "43",
+            "42",
+            "47"
+        ],
+        "options": "A. 41   B. 44   C. 43   D. 42   E. 47",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0578.jpg",
+        "question_id": 65,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0579.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "A",
+        "options_list": [
+            "23",
+            "20",
+            "26",
+            "22",
+            "21"
+        ],
+        "options": "A. 23   B. 20   C. 26   D. 22   E. 21",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0579.jpg",
+        "question_id": 66,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0580.jpg",
+        "ground_truth": "7",
+        "ground_truth_option": "E",
+        "options_list": [
+            "9",
+            "8",
+            "10",
+            "6",
+            "7"
+        ],
+        "options": "A. 9   B. 8   C. 10   D. 6   E. 7",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0580.jpg",
+        "question_id": 67,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0581.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "E",
+        "options_list": [
+            "17",
+            "21",
+            "15",
+            "20",
+            "18"
+        ],
+        "options": "A. 17   B. 21   C. 15   D. 20   E. 18",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0581.jpg",
+        "question_id": 68,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0582.jpg",
+        "ground_truth": "50",
+        "ground_truth_option": "C",
+        "options_list": [
+            "48",
+            "53",
+            "50",
+            "51",
+            "47"
+        ],
+        "options": "A. 48   B. 53   C. 50   D. 51   E. 47",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0582.jpg",
+        "question_id": 69,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0583.jpg",
+        "ground_truth": "73",
+        "ground_truth_option": "C",
+        "options_list": [
+            "74",
+            "76",
+            "73",
+            "70",
+            "71"
+        ],
+        "options": "A. 74   B. 76   C. 73   D. 70   E. 71",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0583.jpg",
+        "question_id": 70,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0584.jpg",
+        "ground_truth": "79",
+        "ground_truth_option": "D",
+        "options_list": [
+            "77",
+            "76",
+            "78",
+            "79",
+            "80"
+        ],
+        "options": "A. 77   B. 76   C. 78   D. 79   E. 80",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0584.jpg",
+        "question_id": 71,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0585.jpg",
+        "ground_truth": "56",
+        "ground_truth_option": "E",
+        "options_list": [
+            "59",
+            "54",
+            "53",
+            "57",
+            "56"
+        ],
+        "options": "A. 59   B. 54   C. 53   D. 57   E. 56",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0585.jpg",
+        "question_id": 72,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0586.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "B",
+        "options_list": [
+            "26",
+            "27",
+            "30",
+            "28",
+            "29"
+        ],
+        "options": "A. 26   B. 27   C. 30   D. 28   E. 29",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0586.jpg",
+        "question_id": 73,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0587.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "D",
+        "options_list": [
+            "30",
+            "26",
+            "24",
+            "27",
+            "29"
+        ],
+        "options": "A. 30   B. 26   C. 24   D. 27   E. 29",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0587.jpg",
+        "question_id": 74,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0588.jpg",
+        "ground_truth": "32",
+        "ground_truth_option": "C",
+        "options_list": [
+            "29",
+            "31",
+            "32",
+            "35",
+            "30"
+        ],
+        "options": "A. 29   B. 31   C. 32   D. 35   E. 30",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0588.jpg",
+        "question_id": 75,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0589.jpg",
+        "ground_truth": "36",
+        "ground_truth_option": "C",
+        "options_list": [
+            "39",
+            "34",
+            "36",
+            "33",
+            "38"
+        ],
+        "options": "A. 39   B. 34   C. 36   D. 33   E. 38",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0589.jpg",
+        "question_id": 76,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0590.jpg",
+        "ground_truth": "41",
+        "ground_truth_option": "C",
+        "options_list": [
+            "43",
+            "40",
+            "41",
+            "44",
+            "42"
+        ],
+        "options": "A. 43   B. 40   C. 41   D. 44   E. 42",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0590.jpg",
+        "question_id": 77,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0591.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "B",
+        "options_list": [
+            "24",
+            "23",
+            "25",
+            "22",
+            "21"
+        ],
+        "options": "A. 24   B. 23   C. 25   D. 22   E. 21",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0591.jpg",
+        "question_id": 78,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0592.jpg",
+        "ground_truth": "7",
+        "ground_truth_option": "E",
+        "options_list": [
+            "5",
+            "4",
+            "8",
+            "10",
+            "7"
+        ],
+        "options": "A. 5   B. 4   C. 8   D. 10   E. 7",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0592.jpg",
+        "question_id": 79,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0594.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "C",
+        "options_list": [
+            "17",
+            "18",
+            "16",
+            "15",
+            "14"
+        ],
+        "options": "A. 17   B. 18   C. 16   D. 15   E. 14",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0594.jpg",
+        "question_id": 80,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0595.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "C",
+        "options_list": [
+            "18",
+            "16",
+            "17",
+            "19",
+            "20"
+        ],
+        "options": "A. 18   B. 16   C. 17   D. 19   E. 20",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0595.jpg",
+        "question_id": 81,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0596.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "D",
+        "options_list": [
+            "11",
+            "12",
+            "16",
+            "13",
+            "14"
+        ],
+        "options": "A. 11   B. 12   C. 16   D. 13   E. 14",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0596.jpg",
+        "question_id": 82,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0597.jpg",
+        "ground_truth": "6",
+        "ground_truth_option": "E",
+        "options_list": [
+            "4",
+            "8",
+            "7",
+            "5",
+            "6"
+        ],
+        "options": "A. 4   B. 8   C. 7   D. 5   E. 6",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0597.jpg",
+        "question_id": 83,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0598.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "D",
+        "options_list": [
+            "9",
+            "14",
+            "10",
+            "11",
+            "12"
+        ],
+        "options": "A. 9   B. 14   C. 10   D. 11   E. 12",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0598.jpg",
+        "question_id": 84,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0599.jpg",
+        "ground_truth": "61",
+        "ground_truth_option": "C",
+        "options_list": [
+            "60",
+            "63",
+            "61",
+            "64",
+            "59"
+        ],
+        "options": "A. 60   B. 63   C. 61   D. 64   E. 59",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0599.jpg",
+        "question_id": 85,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0600.jpg",
+        "ground_truth": "88",
+        "ground_truth_option": "C",
+        "options_list": [
+            "86",
+            "89",
+            "88",
+            "87",
+            "90"
+        ],
+        "options": "A. 86   B. 89   C. 88   D. 87   E. 90",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0600.jpg",
+        "question_id": 86,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0601.jpg",
+        "ground_truth": "62",
+        "ground_truth_option": "C",
+        "options_list": [
+            "63",
+            "60",
+            "62",
+            "61",
+            "64"
+        ],
+        "options": "A. 63   B. 60   C. 62   D. 61   E. 64",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0601.jpg",
+        "question_id": 87,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0602.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "B",
+        "options_list": [
+            "28",
+            "27",
+            "25",
+            "24",
+            "30"
+        ],
+        "options": "A. 28   B. 27   C. 25   D. 24   E. 30",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0602.jpg",
+        "question_id": 88,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0603.jpg",
+        "ground_truth": "10",
+        "ground_truth_option": "D",
+        "options_list": [
+            "13",
+            "7",
+            "8",
+            "10",
+            "12"
+        ],
+        "options": "A. 13   B. 7   C. 8   D. 10   E. 12",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0603.jpg",
+        "question_id": 89,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0604.jpg",
+        "ground_truth": "58",
+        "ground_truth_option": "C",
+        "options_list": [
+            "57",
+            "61",
+            "58",
+            "56",
+            "59"
+        ],
+        "options": "A. 57   B. 61   C. 58   D. 56   E. 59",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0604.jpg",
+        "question_id": 90,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0605.jpg",
+        "ground_truth": "85",
+        "ground_truth_option": "E",
+        "options_list": [
+            "87",
+            "86",
+            "82",
+            "83",
+            "85"
+        ],
+        "options": "A. 87   B. 86   C. 82   D. 83   E. 85",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0605.jpg",
+        "question_id": 91,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0606.jpg",
+        "ground_truth": "66",
+        "ground_truth_option": "E",
+        "options_list": [
+            "63",
+            "67",
+            "68",
+            "69",
+            "66"
+        ],
+        "options": "A. 63   B. 67   C. 68   D. 69   E. 66",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0606.jpg",
+        "question_id": 92,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0607.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "E",
+        "options_list": [
+            "24",
+            "28",
+            "26",
+            "25",
+            "27"
+        ],
+        "options": "A. 24   B. 28   C. 26   D. 25   E. 27",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0607.jpg",
+        "question_id": 93,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0609.jpg",
+        "ground_truth": "20",
+        "ground_truth_option": "D",
+        "options_list": [
+            "18",
+            "21",
+            "23",
+            "20",
+            "22"
+        ],
+        "options": "A. 18   B. 21   C. 23   D. 20   E. 22",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0609.jpg",
+        "question_id": 94,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0610.jpg",
+        "ground_truth": "36",
+        "ground_truth_option": "C",
+        "options_list": [
+            "37",
+            "34",
+            "36",
+            "33",
+            "39"
+        ],
+        "options": "A. 37   B. 34   C. 36   D. 33   E. 39",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0610.jpg",
+        "question_id": 95,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0611.jpg",
+        "ground_truth": "29",
+        "ground_truth_option": "E",
+        "options_list": [
+            "27",
+            "32",
+            "26",
+            "31",
+            "29"
+        ],
+        "options": "A. 27   B. 32   C. 26   D. 31   E. 29",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0611.jpg",
+        "question_id": 96,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0612.jpg",
+        "ground_truth": "15",
+        "ground_truth_option": "A",
+        "options_list": [
+            "15",
+            "12",
+            "13",
+            "16",
+            "17"
+        ],
+        "options": "A. 15   B. 12   C. 13   D. 16   E. 17",
+        "prompts": [
+            "How many aircraft are visible in this SAR image?",
+            "What is the total count of aircraft in the scene?",
+            "Please count the number of airplanes shown in this image.",
+            "How many aircraft can you identify in this SAR image?",
+            "What is the exact number of planes present in this satellite image?"
+        ],
+        "task": "Aircraft Counting",
+        "image_name": "0612.jpg",
+        "question_id": 0,
+        "cls_description": "High Difficulty"
+    }
+]

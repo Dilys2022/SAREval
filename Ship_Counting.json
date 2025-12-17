@@ -1,0 +1,3098 @@
+[
+    {
+        "image_path": "012100.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "B",
+        "options_list": [
+            "13",
+            "16",
+            "18",
+            "19",
+            "15"
+        ],
+        "options": "A. 13   B. 16   C. 18   D. 19   E. 15",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "012100.jpg",
+        "question_id": 1,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012101.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "E",
+        "options_list": [
+            "19",
+            "15",
+            "20",
+            "16",
+            "18"
+        ],
+        "options": "A. 19   B. 15   C. 20   D. 16   E. 18",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "012101.jpg",
+        "question_id": 2,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012102.jpg",
+        "ground_truth": "12",
+        "ground_truth_option": "E",
+        "options_list": [
+            "9",
+            "14",
+            "11",
+            "10",
+            "12"
+        ],
+        "options": "A. 9   B. 14   C. 11   D. 10   E. 12",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "012102.jpg",
+        "question_id": 3,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012120.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "C",
+        "options_list": [
+            "21",
+            "19",
+            "18",
+            "17",
+            "16"
+        ],
+        "options": "A. 21   B. 19   C. 18   D. 17   E. 16",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "012120.jpg",
+        "question_id": 4,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012121.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "E",
+        "options_list": [
+            "22",
+            "18",
+            "20",
+            "23",
+            "21"
+        ],
+        "options": "A. 22   B. 18   C. 20   D. 23   E. 21",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "012121.jpg",
+        "question_id": 5,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012122.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "A",
+        "options_list": [
+            "16",
+            "19",
+            "17",
+            "18",
+            "14"
+        ],
+        "options": "A. 16   B. 19   C. 17   D. 18   E. 14",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "012122.jpg",
+        "question_id": 6,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012916.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "C",
+        "options_list": [
+            "16",
+            "20",
+            "18",
+            "17",
+            "15"
+        ],
+        "options": "A. 16   B. 20   C. 18   D. 17   E. 15",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "012916.jpg",
+        "question_id": 7,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012917.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "E",
+        "options_list": [
+            "16",
+            "20",
+            "15",
+            "17",
+            "18"
+        ],
+        "options": "A. 16   B. 20   C. 15   D. 17   E. 18",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "012917.jpg",
+        "question_id": 8,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012918.jpg",
+        "ground_truth": "12",
+        "ground_truth_option": "A",
+        "options_list": [
+            "12",
+            "13",
+            "9",
+            "10",
+            "11"
+        ],
+        "options": "A. 12   B. 13   C. 9   D. 10   E. 11",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "012918.jpg",
+        "question_id": 9,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012934.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "E",
+        "options_list": [
+            "15",
+            "20",
+            "14",
+            "16",
+            "17"
+        ],
+        "options": "A. 15   B. 20   C. 14   D. 16   E. 17",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "012934.jpg",
+        "question_id": 10,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012935.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "D",
+        "options_list": [
+            "23",
+            "19",
+            "24",
+            "22",
+            "21"
+        ],
+        "options": "A. 23   B. 19   C. 24   D. 22   E. 21",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "012935.jpg",
+        "question_id": 11,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012936.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "C",
+        "options_list": [
+            "19",
+            "15",
+            "16",
+            "14",
+            "17"
+        ],
+        "options": "A. 19   B. 15   C. 16   D. 14   E. 17",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "012936.jpg",
+        "question_id": 12,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "01298.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "D",
+        "options_list": [
+            "16",
+            "14",
+            "15",
+            "13",
+            "11"
+        ],
+        "options": "A. 16   B. 14   C. 15   D. 13   E. 11",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "01298.jpg",
+        "question_id": 13,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "01337.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "E",
+        "options_list": [
+            "13",
+            "14",
+            "12",
+            "9",
+            "11"
+        ],
+        "options": "A. 13   B. 14   C. 12   D. 9   E. 11",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "01337.jpg",
+        "question_id": 14,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "01349.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "B",
+        "options_list": [
+            "14",
+            "11",
+            "13",
+            "9",
+            "10"
+        ],
+        "options": "A. 14   B. 11   C. 13   D. 9   E. 10",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "01349.jpg",
+        "question_id": 15,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "013890.jpg",
+        "ground_truth": "12",
+        "ground_truth_option": "B",
+        "options_list": [
+            "15",
+            "12",
+            "10",
+            "13",
+            "14"
+        ],
+        "options": "A. 15   B. 12   C. 10   D. 13   E. 14",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "013890.jpg",
+        "question_id": 16,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "013891.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "B",
+        "options_list": [
+            "14",
+            "11",
+            "9",
+            "10",
+            "13"
+        ],
+        "options": "A. 14   B. 11   C. 9   D. 10   E. 13",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "013891.jpg",
+        "question_id": 17,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "013899.jpg",
+        "ground_truth": "12",
+        "ground_truth_option": "D",
+        "options_list": [
+            "14",
+            "15",
+            "9",
+            "12",
+            "11"
+        ],
+        "options": "A. 14   B. 15   C. 9   D. 12   E. 11",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "013899.jpg",
+        "question_id": 18,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "013900.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "D",
+        "options_list": [
+            "13",
+            "8",
+            "14",
+            "11",
+            "12"
+        ],
+        "options": "A. 13   B. 8   C. 14   D. 11   E. 12",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "013900.jpg",
+        "question_id": 19,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "015771.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "A",
+        "options_list": [
+            "11",
+            "12",
+            "10",
+            "9",
+            "14"
+        ],
+        "options": "A. 11   B. 12   C. 10   D. 9   E. 14",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "015771.jpg",
+        "question_id": 20,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "015772.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "C",
+        "options_list": [
+            "11",
+            "14",
+            "13",
+            "16",
+            "15"
+        ],
+        "options": "A. 11   B. 14   C. 13   D. 16   E. 15",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "015772.jpg",
+        "question_id": 21,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "015773.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "A",
+        "options_list": [
+            "11",
+            "12",
+            "8",
+            "9",
+            "14"
+        ],
+        "options": "A. 11   B. 12   C. 8   D. 9   E. 14",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "015773.jpg",
+        "question_id": 22,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "015835.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "C",
+        "options_list": [
+            "14",
+            "12",
+            "13",
+            "16",
+            "10"
+        ],
+        "options": "A. 14   B. 12   C. 13   D. 16   E. 10",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "015835.jpg",
+        "question_id": 23,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "015836.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "B",
+        "options_list": [
+            "8",
+            "11",
+            "14",
+            "12",
+            "10"
+        ],
+        "options": "A. 8   B. 11   C. 14   D. 12   E. 10",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "015836.jpg",
+        "question_id": 24,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016487.jpg",
+        "ground_truth": "14",
+        "ground_truth_option": "E",
+        "options_list": [
+            "13",
+            "16",
+            "11",
+            "17",
+            "14"
+        ],
+        "options": "A. 13   B. 16   C. 11   D. 17   E. 14",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "016487.jpg",
+        "question_id": 25,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016488.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "D",
+        "options_list": [
+            "24",
+            "28",
+            "26",
+            "27",
+            "29"
+        ],
+        "options": "A. 24   B. 28   C. 26   D. 27   E. 29",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "016488.jpg",
+        "question_id": 26,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016489.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "B",
+        "options_list": [
+            "18",
+            "21",
+            "24",
+            "23",
+            "22"
+        ],
+        "options": "A. 18   B. 21   C. 24   D. 23   E. 22",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "016489.jpg",
+        "question_id": 27,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016522.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "C",
+        "options_list": [
+            "10",
+            "9",
+            "11",
+            "13",
+            "8"
+        ],
+        "options": "A. 10   B. 9   C. 11   D. 13   E. 8",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "016522.jpg",
+        "question_id": 28,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016523.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "A",
+        "options_list": [
+            "21",
+            "20",
+            "22",
+            "19",
+            "23"
+        ],
+        "options": "A. 21   B. 20   C. 22   D. 19   E. 23",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "016523.jpg",
+        "question_id": 29,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016524.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "A",
+        "options_list": [
+            "17",
+            "16",
+            "19",
+            "15",
+            "18"
+        ],
+        "options": "A. 17   B. 16   C. 19   D. 15   E. 18",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "016524.jpg",
+        "question_id": 30,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016595.jpg",
+        "ground_truth": "14",
+        "ground_truth_option": "C",
+        "options_list": [
+            "12",
+            "15",
+            "14",
+            "16",
+            "13"
+        ],
+        "options": "A. 12   B. 15   C. 14   D. 16   E. 13",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "016595.jpg",
+        "question_id": 31,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016910.jpg",
+        "ground_truth": "34",
+        "ground_truth_option": "D",
+        "options_list": [
+            "35",
+            "31",
+            "32",
+            "34",
+            "36"
+        ],
+        "options": "A. 35   B. 31   C. 32   D. 34   E. 36",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "016910.jpg",
+        "question_id": 32,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017024.jpg",
+        "ground_truth": "98",
+        "ground_truth_option": "D",
+        "options_list": [
+            "95",
+            "101",
+            "96",
+            "98",
+            "97"
+        ],
+        "options": "A. 95   B. 101   C. 96   D. 98   E. 97",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017024.jpg",
+        "question_id": 33,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017025.jpg",
+        "ground_truth": "45",
+        "ground_truth_option": "E",
+        "options_list": [
+            "42",
+            "48",
+            "47",
+            "46",
+            "45"
+        ],
+        "options": "A. 42   B. 48   C. 47   D. 46   E. 45",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017025.jpg",
+        "question_id": 34,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017230.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "B",
+        "options_list": [
+            "11",
+            "13",
+            "15",
+            "12",
+            "10"
+        ],
+        "options": "A. 11   B. 13   C. 15   D. 12   E. 10",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017230.jpg",
+        "question_id": 35,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017231.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "E",
+        "options_list": [
+            "20",
+            "16",
+            "19",
+            "17",
+            "18"
+        ],
+        "options": "A. 20   B. 16   C. 19   D. 17   E. 18",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017231.jpg",
+        "question_id": 36,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017247.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "E",
+        "options_list": [
+            "15",
+            "20",
+            "17",
+            "19",
+            "18"
+        ],
+        "options": "A. 15   B. 20   C. 17   D. 19   E. 18",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017247.jpg",
+        "question_id": 37,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017248.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "E",
+        "options_list": [
+            "21",
+            "20",
+            "17",
+            "19",
+            "18"
+        ],
+        "options": "A. 21   B. 20   C. 17   D. 19   E. 18",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017248.jpg",
+        "question_id": 38,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017249.jpg",
+        "ground_truth": "15",
+        "ground_truth_option": "B",
+        "options_list": [
+            "14",
+            "15",
+            "17",
+            "18",
+            "13"
+        ],
+        "options": "A. 14   B. 15   C. 17   D. 18   E. 13",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017249.jpg",
+        "question_id": 39,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017260.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "D",
+        "options_list": [
+            "14",
+            "19",
+            "15",
+            "16",
+            "18"
+        ],
+        "options": "A. 14   B. 19   C. 15   D. 16   E. 18",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017260.jpg",
+        "question_id": 40,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017261.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "C",
+        "options_list": [
+            "24",
+            "27",
+            "26",
+            "25",
+            "28"
+        ],
+        "options": "A. 24   B. 27   C. 26   D. 25   E. 28",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017261.jpg",
+        "question_id": 41,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017262.jpg",
+        "ground_truth": "25",
+        "ground_truth_option": "C",
+        "options_list": [
+            "28",
+            "24",
+            "25",
+            "23",
+            "27"
+        ],
+        "options": "A. 28   B. 24   C. 25   D. 23   E. 27",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017262.jpg",
+        "question_id": 42,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017275.jpg",
+        "ground_truth": "24",
+        "ground_truth_option": "E",
+        "options_list": [
+            "23",
+            "21",
+            "27",
+            "22",
+            "24"
+        ],
+        "options": "A. 23   B. 21   C. 27   D. 22   E. 24",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017275.jpg",
+        "question_id": 43,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017276.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "E",
+        "options_list": [
+            "30",
+            "25",
+            "29",
+            "28",
+            "27"
+        ],
+        "options": "A. 30   B. 25   C. 29   D. 28   E. 27",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017276.jpg",
+        "question_id": 44,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017277.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "D",
+        "options_list": [
+            "14",
+            "16",
+            "10",
+            "13",
+            "15"
+        ],
+        "options": "A. 14   B. 16   C. 10   D. 13   E. 15",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017277.jpg",
+        "question_id": 45,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017292.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "C",
+        "options_list": [
+            "19",
+            "14",
+            "16",
+            "15",
+            "13"
+        ],
+        "options": "A. 19   B. 14   C. 16   D. 15   E. 13",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017292.jpg",
+        "question_id": 46,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017293.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "D",
+        "options_list": [
+            "21",
+            "17",
+            "16",
+            "18",
+            "19"
+        ],
+        "options": "A. 21   B. 17   C. 16   D. 18   E. 19",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017293.jpg",
+        "question_id": 47,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017303.jpg",
+        "ground_truth": "15",
+        "ground_truth_option": "C",
+        "options_list": [
+            "17",
+            "14",
+            "15",
+            "16",
+            "18"
+        ],
+        "options": "A. 17   B. 14   C. 15   D. 16   E. 18",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017303.jpg",
+        "question_id": 48,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017304.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "D",
+        "options_list": [
+            "19",
+            "16",
+            "20",
+            "18",
+            "15"
+        ],
+        "options": "A. 19   B. 16   C. 20   D. 18   E. 15",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017304.jpg",
+        "question_id": 49,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017315.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "C",
+        "options_list": [
+            "12",
+            "10",
+            "11",
+            "9",
+            "8"
+        ],
+        "options": "A. 12   B. 10   C. 11   D. 9   E. 8",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017315.jpg",
+        "question_id": 50,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017316.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "D",
+        "options_list": [
+            "13",
+            "8",
+            "9",
+            "11",
+            "14"
+        ],
+        "options": "A. 13   B. 8   C. 9   D. 11   E. 14",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017316.jpg",
+        "question_id": 51,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017607.jpg",
+        "ground_truth": "15",
+        "ground_truth_option": "C",
+        "options_list": [
+            "16",
+            "13",
+            "15",
+            "14",
+            "18"
+        ],
+        "options": "A. 16   B. 13   C. 15   D. 14   E. 18",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017607.jpg",
+        "question_id": 52,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017625.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "D",
+        "options_list": [
+            "10",
+            "13",
+            "14",
+            "11",
+            "12"
+        ],
+        "options": "A. 10   B. 13   C. 14   D. 11   E. 12",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017625.jpg",
+        "question_id": 53,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017896.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "B",
+        "options_list": [
+            "14",
+            "11",
+            "8",
+            "9",
+            "10"
+        ],
+        "options": "A. 14   B. 11   C. 8   D. 9   E. 10",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017896.jpg",
+        "question_id": 54,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017897.jpg",
+        "ground_truth": "12",
+        "ground_truth_option": "D",
+        "options_list": [
+            "10",
+            "14",
+            "11",
+            "12",
+            "15"
+        ],
+        "options": "A. 10   B. 14   C. 11   D. 12   E. 15",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017897.jpg",
+        "question_id": 55,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017927.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "E",
+        "options_list": [
+            "12",
+            "13",
+            "8",
+            "9",
+            "11"
+        ],
+        "options": "A. 12   B. 13   C. 8   D. 9   E. 11",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017927.jpg",
+        "question_id": 56,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017928.jpg",
+        "ground_truth": "14",
+        "ground_truth_option": "D",
+        "options_list": [
+            "15",
+            "12",
+            "17",
+            "14",
+            "16"
+        ],
+        "options": "A. 15   B. 12   C. 17   D. 14   E. 16",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "017928.jpg",
+        "question_id": 57,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "019115.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "A",
+        "options_list": [
+            "11",
+            "10",
+            "9",
+            "13",
+            "12"
+        ],
+        "options": "A. 11   B. 10   C. 9   D. 13   E. 12",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "019115.jpg",
+        "question_id": 58,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "019116.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "B",
+        "options_list": [
+            "10",
+            "13",
+            "14",
+            "11",
+            "15"
+        ],
+        "options": "A. 10   B. 13   C. 14   D. 11   E. 15",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "019116.jpg",
+        "question_id": 59,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "019203.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "C",
+        "options_list": [
+            "12",
+            "13",
+            "11",
+            "8",
+            "9"
+        ],
+        "options": "A. 12   B. 13   C. 11   D. 8   E. 9",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "019203.jpg",
+        "question_id": 60,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021285.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "C",
+        "options_list": [
+            "12",
+            "11",
+            "13",
+            "15",
+            "14"
+        ],
+        "options": "A. 12   B. 11   C. 13   D. 15   E. 14",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021285.jpg",
+        "question_id": 61,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021286.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "A",
+        "options_list": [
+            "13",
+            "10",
+            "12",
+            "11",
+            "15"
+        ],
+        "options": "A. 13   B. 10   C. 12   D. 11   E. 15",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021286.jpg",
+        "question_id": 62,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021307.jpg",
+        "ground_truth": "12",
+        "ground_truth_option": "E",
+        "options_list": [
+            "10",
+            "9",
+            "11",
+            "14",
+            "12"
+        ],
+        "options": "A. 10   B. 9   C. 11   D. 14   E. 12",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021307.jpg",
+        "question_id": 63,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021308.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "E",
+        "options_list": [
+            "19",
+            "20",
+            "16",
+            "17",
+            "18"
+        ],
+        "options": "A. 19   B. 20   C. 16   D. 17   E. 18",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021308.jpg",
+        "question_id": 64,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021309.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "E",
+        "options_list": [
+            "13",
+            "19",
+            "17",
+            "18",
+            "16"
+        ],
+        "options": "A. 13   B. 19   C. 17   D. 18   E. 16",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021309.jpg",
+        "question_id": 65,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021331.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "C",
+        "options_list": [
+            "19",
+            "18",
+            "16",
+            "15",
+            "13"
+        ],
+        "options": "A. 19   B. 18   C. 16   D. 15   E. 13",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021331.jpg",
+        "question_id": 66,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021332.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "C",
+        "options_list": [
+            "19",
+            "14",
+            "17",
+            "20",
+            "18"
+        ],
+        "options": "A. 19   B. 14   C. 17   D. 20   E. 18",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021332.jpg",
+        "question_id": 67,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021451.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "E",
+        "options_list": [
+            "12",
+            "15",
+            "14",
+            "16",
+            "13"
+        ],
+        "options": "A. 12   B. 15   C. 14   D. 16   E. 13",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021451.jpg",
+        "question_id": 68,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021452.jpg",
+        "ground_truth": "14",
+        "ground_truth_option": "A",
+        "options_list": [
+            "14",
+            "15",
+            "12",
+            "17",
+            "13"
+        ],
+        "options": "A. 14   B. 15   C. 12   D. 17   E. 13",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021452.jpg",
+        "question_id": 69,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021464.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "B",
+        "options_list": [
+            "21",
+            "18",
+            "15",
+            "20",
+            "16"
+        ],
+        "options": "A. 21   B. 18   C. 15   D. 20   E. 16",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021464.jpg",
+        "question_id": 70,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021465.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "D",
+        "options_list": [
+            "20",
+            "24",
+            "19",
+            "21",
+            "22"
+        ],
+        "options": "A. 20   B. 24   C. 19   D. 21   E. 22",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021465.jpg",
+        "question_id": 71,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021466.jpg",
+        "ground_truth": "20",
+        "ground_truth_option": "A",
+        "options_list": [
+            "20",
+            "23",
+            "19",
+            "22",
+            "17"
+        ],
+        "options": "A. 20   B. 23   C. 19   D. 22   E. 17",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021466.jpg",
+        "question_id": 72,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021474.jpg",
+        "ground_truth": "14",
+        "ground_truth_option": "E",
+        "options_list": [
+            "17",
+            "11",
+            "15",
+            "16",
+            "14"
+        ],
+        "options": "A. 17   B. 11   C. 15   D. 16   E. 14",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021474.jpg",
+        "question_id": 73,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021475.jpg",
+        "ground_truth": "19",
+        "ground_truth_option": "C",
+        "options_list": [
+            "20",
+            "21",
+            "19",
+            "17",
+            "22"
+        ],
+        "options": "A. 20   B. 21   C. 19   D. 17   E. 22",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021475.jpg",
+        "question_id": 74,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021476.jpg",
+        "ground_truth": "15",
+        "ground_truth_option": "A",
+        "options_list": [
+            "15",
+            "18",
+            "14",
+            "17",
+            "12"
+        ],
+        "options": "A. 15   B. 18   C. 14   D. 17   E. 12",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021476.jpg",
+        "question_id": 75,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021485.jpg",
+        "ground_truth": "15",
+        "ground_truth_option": "E",
+        "options_list": [
+            "13",
+            "17",
+            "18",
+            "16",
+            "15"
+        ],
+        "options": "A. 13   B. 17   C. 18   D. 16   E. 15",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021485.jpg",
+        "question_id": 76,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021486.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "A",
+        "options_list": [
+            "13",
+            "12",
+            "16",
+            "10",
+            "14"
+        ],
+        "options": "A. 13   B. 12   C. 16   D. 10   E. 14",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021486.jpg",
+        "question_id": 77,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021641.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "E",
+        "options_list": [
+            "8",
+            "9",
+            "12",
+            "13",
+            "11"
+        ],
+        "options": "A. 8   B. 9   C. 12   D. 13   E. 11",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021641.jpg",
+        "question_id": 78,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021642.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "A",
+        "options_list": [
+            "13",
+            "15",
+            "16",
+            "10",
+            "11"
+        ],
+        "options": "A. 13   B. 15   C. 16   D. 10   E. 11",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021642.jpg",
+        "question_id": 79,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021814.jpg",
+        "ground_truth": "12",
+        "ground_truth_option": "C",
+        "options_list": [
+            "11",
+            "10",
+            "12",
+            "14",
+            "13"
+        ],
+        "options": "A. 11   B. 10   C. 12   D. 14   E. 13",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021814.jpg",
+        "question_id": 80,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021819.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "A",
+        "options_list": [
+            "13",
+            "10",
+            "14",
+            "12",
+            "15"
+        ],
+        "options": "A. 13   B. 10   C. 14   D. 12   E. 15",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021819.jpg",
+        "question_id": 81,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021872.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "E",
+        "options_list": [
+            "12",
+            "10",
+            "15",
+            "14",
+            "13"
+        ],
+        "options": "A. 12   B. 10   C. 15   D. 14   E. 13",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021872.jpg",
+        "question_id": 82,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021879.jpg",
+        "ground_truth": "19",
+        "ground_truth_option": "E",
+        "options_list": [
+            "20",
+            "16",
+            "22",
+            "18",
+            "19"
+        ],
+        "options": "A. 20   B. 16   C. 22   D. 18   E. 19",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021879.jpg",
+        "question_id": 83,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021880.jpg",
+        "ground_truth": "19",
+        "ground_truth_option": "A",
+        "options_list": [
+            "19",
+            "16",
+            "22",
+            "18",
+            "20"
+        ],
+        "options": "A. 19   B. 16   C. 22   D. 18   E. 20",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021880.jpg",
+        "question_id": 84,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021887.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "C",
+        "options_list": [
+            "16",
+            "12",
+            "13",
+            "15",
+            "10"
+        ],
+        "options": "A. 16   B. 12   C. 13   D. 15   E. 10",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021887.jpg",
+        "question_id": 85,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021888.jpg",
+        "ground_truth": "20",
+        "ground_truth_option": "C",
+        "options_list": [
+            "17",
+            "19",
+            "20",
+            "23",
+            "18"
+        ],
+        "options": "A. 17   B. 19   C. 20   D. 23   E. 18",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021888.jpg",
+        "question_id": 86,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021889.jpg",
+        "ground_truth": "14",
+        "ground_truth_option": "B",
+        "options_list": [
+            "13",
+            "14",
+            "15",
+            "17",
+            "12"
+        ],
+        "options": "A. 13   B. 14   C. 15   D. 17   E. 12",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021889.jpg",
+        "question_id": 87,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021895.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "E",
+        "options_list": [
+            "11",
+            "16",
+            "12",
+            "15",
+            "13"
+        ],
+        "options": "A. 11   B. 16   C. 12   D. 15   E. 13",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021895.jpg",
+        "question_id": 88,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021896.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "D",
+        "options_list": [
+            "15",
+            "14",
+            "19",
+            "17",
+            "16"
+        ],
+        "options": "A. 15   B. 14   C. 19   D. 17   E. 16",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021896.jpg",
+        "question_id": 89,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021928.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "C",
+        "options_list": [
+            "15",
+            "16",
+            "13",
+            "12",
+            "11"
+        ],
+        "options": "A. 15   B. 16   C. 13   D. 12   E. 11",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "021928.jpg",
+        "question_id": 90,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "022143.jpg",
+        "ground_truth": "15",
+        "ground_truth_option": "D",
+        "options_list": [
+            "14",
+            "13",
+            "12",
+            "15",
+            "18"
+        ],
+        "options": "A. 14   B. 13   C. 12   D. 15   E. 18",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "022143.jpg",
+        "question_id": 91,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "022144.jpg",
+        "ground_truth": "15",
+        "ground_truth_option": "D",
+        "options_list": [
+            "13",
+            "12",
+            "18",
+            "15",
+            "16"
+        ],
+        "options": "A. 13   B. 12   C. 18   D. 15   E. 16",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "022144.jpg",
+        "question_id": 92,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "022149.jpg",
+        "ground_truth": "19",
+        "ground_truth_option": "C",
+        "options_list": [
+            "18",
+            "16",
+            "19",
+            "22",
+            "17"
+        ],
+        "options": "A. 18   B. 16   C. 19   D. 22   E. 17",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "022149.jpg",
+        "question_id": 93,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "022150.jpg",
+        "ground_truth": "18",
+        "ground_truth_option": "A",
+        "options_list": [
+            "18",
+            "19",
+            "17",
+            "15",
+            "20"
+        ],
+        "options": "A. 18   B. 19   C. 17   D. 15   E. 20",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "022150.jpg",
+        "question_id": 94,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "022154.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "B",
+        "options_list": [
+            "14",
+            "11",
+            "13",
+            "8",
+            "12"
+        ],
+        "options": "A. 14   B. 11   C. 13   D. 8   E. 12",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "022154.jpg",
+        "question_id": 95,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "022954.jpg",
+        "ground_truth": "12",
+        "ground_truth_option": "A",
+        "options_list": [
+            "12",
+            "14",
+            "13",
+            "15",
+            "9"
+        ],
+        "options": "A. 12   B. 14   C. 13   D. 15   E. 9",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "022954.jpg",
+        "question_id": 96,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "023450.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "B",
+        "options_list": [
+            "9",
+            "11",
+            "12",
+            "8",
+            "10"
+        ],
+        "options": "A. 9   B. 11   C. 12   D. 8   E. 10",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "023450.jpg",
+        "question_id": 97,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "023451.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "D",
+        "options_list": [
+            "20",
+            "21",
+            "24",
+            "22",
+            "25"
+        ],
+        "options": "A. 20   B. 21   C. 24   D. 22   E. 25",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "023451.jpg",
+        "question_id": 98,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "023578.jpg",
+        "ground_truth": "19",
+        "ground_truth_option": "B",
+        "options_list": [
+            "20",
+            "19",
+            "21",
+            "22",
+            "17"
+        ],
+        "options": "A. 20   B. 19   C. 21   D. 22   E. 17",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "023578.jpg",
+        "question_id": 99,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "023646.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "D",
+        "options_list": [
+            "17",
+            "15",
+            "19",
+            "16",
+            "13"
+        ],
+        "options": "A. 17   B. 15   C. 19   D. 16   E. 13",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "023646.jpg",
+        "question_id": 100,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "023648.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "D",
+        "options_list": [
+            "11",
+            "14",
+            "10",
+            "13",
+            "16"
+        ],
+        "options": "A. 11   B. 14   C. 10   D. 13   E. 16",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "023648.jpg",
+        "question_id": 101,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "023734.jpg",
+        "ground_truth": "14",
+        "ground_truth_option": "E",
+        "options_list": [
+            "13",
+            "15",
+            "11",
+            "17",
+            "14"
+        ],
+        "options": "A. 13   B. 15   C. 11   D. 17   E. 14",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "023734.jpg",
+        "question_id": 102,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "023736.jpg",
+        "ground_truth": "19",
+        "ground_truth_option": "C",
+        "options_list": [
+            "18",
+            "16",
+            "19",
+            "20",
+            "22"
+        ],
+        "options": "A. 18   B. 16   C. 19   D. 20   E. 22",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "023736.jpg",
+        "question_id": 103,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "024100.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "D",
+        "options_list": [
+            "12",
+            "9",
+            "14",
+            "11",
+            "10"
+        ],
+        "options": "A. 12   B. 9   C. 14   D. 11   E. 10",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "024100.jpg",
+        "question_id": 104,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "024113.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "B",
+        "options_list": [
+            "12",
+            "13",
+            "11",
+            "15",
+            "16"
+        ],
+        "options": "A. 12   B. 13   C. 11   D. 15   E. 16",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "024113.jpg",
+        "question_id": 105,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "02460.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "A",
+        "options_list": [
+            "11",
+            "13",
+            "14",
+            "9",
+            "10"
+        ],
+        "options": "A. 11   B. 13   C. 14   D. 9   E. 10",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "02460.jpg",
+        "question_id": 106,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "02461.jpg",
+        "ground_truth": "12",
+        "ground_truth_option": "A",
+        "options_list": [
+            "12",
+            "13",
+            "10",
+            "9",
+            "11"
+        ],
+        "options": "A. 12   B. 13   C. 10   D. 9   E. 11",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "02461.jpg",
+        "question_id": 107,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "02475.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "A",
+        "options_list": [
+            "13",
+            "15",
+            "11",
+            "10",
+            "12"
+        ],
+        "options": "A. 13   B. 15   C. 11   D. 10   E. 12",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "02475.jpg",
+        "question_id": 108,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "02476.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "D",
+        "options_list": [
+            "16",
+            "20",
+            "19",
+            "17",
+            "18"
+        ],
+        "options": "A. 16   B. 20   C. 19   D. 17   E. 18",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "02476.jpg",
+        "question_id": 109,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "02477.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "C",
+        "options_list": [
+            "13",
+            "9",
+            "11",
+            "14",
+            "8"
+        ],
+        "options": "A. 13   B. 9   C. 11   D. 14   E. 8",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "02477.jpg",
+        "question_id": 110,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "02493.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "C",
+        "options_list": [
+            "10",
+            "14",
+            "11",
+            "9",
+            "12"
+        ],
+        "options": "A. 10   B. 14   C. 11   D. 9   E. 12",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "02493.jpg",
+        "question_id": 111,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "02494.jpg",
+        "ground_truth": "14",
+        "ground_truth_option": "C",
+        "options_list": [
+            "17",
+            "15",
+            "14",
+            "11",
+            "12"
+        ],
+        "options": "A. 17   B. 15   C. 14   D. 11   E. 12",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "02494.jpg",
+        "question_id": 112,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03740.jpg",
+        "ground_truth": "16",
+        "ground_truth_option": "D",
+        "options_list": [
+            "14",
+            "13",
+            "19",
+            "16",
+            "15"
+        ],
+        "options": "A. 14   B. 13   C. 19   D. 16   E. 15",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "03740.jpg",
+        "question_id": 113,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03741.jpg",
+        "ground_truth": "12",
+        "ground_truth_option": "B",
+        "options_list": [
+            "14",
+            "12",
+            "9",
+            "15",
+            "10"
+        ],
+        "options": "A. 14   B. 12   C. 9   D. 15   E. 10",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "03741.jpg",
+        "question_id": 114,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03958.jpg",
+        "ground_truth": "40",
+        "ground_truth_option": "A",
+        "options_list": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "37"
+        ],
+        "options": "A. 40   B. 41   C. 42   D. 43   E. 37",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "03958.jpg",
+        "question_id": 115,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03959.jpg",
+        "ground_truth": "45",
+        "ground_truth_option": "E",
+        "options_list": [
+            "48",
+            "42",
+            "44",
+            "47",
+            "45"
+        ],
+        "options": "A. 48   B. 42   C. 44   D. 47   E. 45",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "03959.jpg",
+        "question_id": 116,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03960.jpg",
+        "ground_truth": "20",
+        "ground_truth_option": "B",
+        "options_list": [
+            "22",
+            "20",
+            "18",
+            "17",
+            "19"
+        ],
+        "options": "A. 22   B. 20   C. 18   D. 17   E. 19",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "03960.jpg",
+        "question_id": 117,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04771.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "A",
+        "options_list": [
+            "11",
+            "12",
+            "9",
+            "10",
+            "8"
+        ],
+        "options": "A. 11   B. 12   C. 9   D. 10   E. 8",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "04771.jpg",
+        "question_id": 118,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04775.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "E",
+        "options_list": [
+            "8",
+            "9",
+            "10",
+            "12",
+            "11"
+        ],
+        "options": "A. 8   B. 9   C. 10   D. 12   E. 11",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "04775.jpg",
+        "question_id": 119,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04791.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "C",
+        "options_list": [
+            "12",
+            "14",
+            "13",
+            "16",
+            "10"
+        ],
+        "options": "A. 12   B. 14   C. 13   D. 16   E. 10",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "04791.jpg",
+        "question_id": 120,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04792.jpg",
+        "ground_truth": "17",
+        "ground_truth_option": "A",
+        "options_list": [
+            "17",
+            "15",
+            "20",
+            "16",
+            "19"
+        ],
+        "options": "A. 17   B. 15   C. 20   D. 16   E. 19",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "04792.jpg",
+        "question_id": 121,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04793.jpg",
+        "ground_truth": "12",
+        "ground_truth_option": "A",
+        "options_list": [
+            "12",
+            "13",
+            "14",
+            "15",
+            "11"
+        ],
+        "options": "A. 12   B. 13   C. 14   D. 15   E. 11",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "04793.jpg",
+        "question_id": 122,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04806.jpg",
+        "ground_truth": "13",
+        "ground_truth_option": "B",
+        "options_list": [
+            "14",
+            "13",
+            "10",
+            "12",
+            "15"
+        ],
+        "options": "A. 14   B. 13   C. 10   D. 12   E. 15",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "04806.jpg",
+        "question_id": 123,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04866.jpg",
+        "ground_truth": "12",
+        "ground_truth_option": "A",
+        "options_list": [
+            "12",
+            "15",
+            "11",
+            "9",
+            "14"
+        ],
+        "options": "A. 12   B. 15   C. 11   D. 9   E. 14",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "04866.jpg",
+        "question_id": 124,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07475.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "C",
+        "options_list": [
+            "14",
+            "12",
+            "11",
+            "9",
+            "8"
+        ],
+        "options": "A. 14   B. 12   C. 11   D. 9   E. 8",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "07475.jpg",
+        "question_id": 125,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07513.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "E",
+        "options_list": [
+            "14",
+            "9",
+            "10",
+            "13",
+            "11"
+        ],
+        "options": "A. 14   B. 9   C. 10   D. 13   E. 11",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "07513.jpg",
+        "question_id": 126,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07536.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "E",
+        "options_list": [
+            "13",
+            "9",
+            "14",
+            "10",
+            "11"
+        ],
+        "options": "A. 13   B. 9   C. 14   D. 10   E. 11",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "07536.jpg",
+        "question_id": 127,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07537.jpg",
+        "ground_truth": "12",
+        "ground_truth_option": "D",
+        "options_list": [
+            "10",
+            "14",
+            "13",
+            "12",
+            "11"
+        ],
+        "options": "A. 10   B. 14   C. 13   D. 12   E. 11",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "07537.jpg",
+        "question_id": 128,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07538.jpg",
+        "ground_truth": "11",
+        "ground_truth_option": "B",
+        "options_list": [
+            "13",
+            "11",
+            "8",
+            "10",
+            "14"
+        ],
+        "options": "A. 13   B. 11   C. 8   D. 10   E. 14",
+        "prompts": [
+            "How many ships are visible in this SAR image?",
+            "What is the total count of vessels in the scene?",
+            "Please count the number of ships shown in this image.",
+            "How many maritime vessels can you identify in this SAR image?",
+            "What is the exact number of ships present in this satellite image?"
+        ],
+        "task": "Ship Counting",
+        "image_name": "07538.jpg",
+        "question_id": 0,
+        "cls_description": "High Difficulty"
+    }
+]

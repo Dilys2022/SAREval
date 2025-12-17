@@ -1,0 +1,3410 @@
+[
+    {
+        "image_path": "Ship_C01S01N0002.png",
+        "ground_truth": "AggregatesCarrier",
+        "ground_truth_option": "C",
+        "options_list": [
+            "FishCarrier",
+            "FloatingStorage_Production",
+            "AggregatesCarrier",
+            "Cargo-HazardC",
+            "BunkeringTanker"
+        ],
+        "options": "A. FishCarrier   B. FloatingStorage_Production   C. AggregatesCarrier   D. Cargo-HazardC   E. BunkeringTanker",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S01N0002",
+        "question_id": 0,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S02N0032.png",
+        "ground_truth": "BulkCarrier",
+        "ground_truth_option": "D",
+        "options_list": [
+            "SailingVessel",
+            "SARAircraft",
+            "WingInGrnd",
+            "BulkCarrier",
+            "FloatingStorage_Production"
+        ],
+        "options": "A. SailingVessel   B. SARAircraft   C. WingInGrnd   D. BulkCarrier   E. FloatingStorage_Production",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S02N0032",
+        "question_id": 1,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S03N0001.png",
+        "ground_truth": "Cargo-HazardA",
+        "ground_truth_option": "D",
+        "options_list": [
+            "TrainingShip",
+            "AggregatesCarrier",
+            "CO2Tanker",
+            "Cargo-HazardA",
+            "Salvage_RescueVessel"
+        ],
+        "options": "A. TrainingShip   B. AggregatesCarrier   C. CO2Tanker   D. Cargo-HazardA   E. Salvage_RescueVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S03N0001",
+        "question_id": 2,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S04N0004.png",
+        "ground_truth": "Cargo-HazardB",
+        "ground_truth_option": "E",
+        "options_list": [
+            "SpecialCraft",
+            "Salvage_RescueVessel",
+            "OilProductsTanker",
+            "SpecialVessel",
+            "Cargo-HazardB"
+        ],
+        "options": "A. SpecialCraft   B. Salvage_RescueVessel   C. OilProductsTanker   D. SpecialVessel   E. Cargo-HazardB",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S04N0004",
+        "question_id": 3,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S05N0003.png",
+        "ground_truth": "Cargo-HazardC",
+        "ground_truth_option": "B",
+        "options_list": [
+            "Engagedindredgingorunderwateroperations",
+            "Cargo-HazardC",
+            "LocalVessel",
+            "Unspecified",
+            "FishCarrier"
+        ],
+        "options": "A. Engagedindredgingorunderwateroperations   B. Cargo-HazardC   C. LocalVessel   D. Unspecified   E. FishCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S05N0003",
+        "question_id": 4,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S06N0001.png",
+        "ground_truth": "Cargo-HazardD",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Cargo-HazardD",
+            "OilProductsTanker",
+            "Platform",
+            "BunkeringTanker",
+            "Tanker-HazardA"
+        ],
+        "options": "A. Cargo-HazardD   B. OilProductsTanker   C. Platform   D. BunkeringTanker   E. Tanker-HazardA",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S06N0001",
+        "question_id": 5,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S06N0003.png",
+        "ground_truth": "Cargo-HazardD",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Cargo-HazardD",
+            "WingInGrnd",
+            "PipeLayer",
+            "TrainingShip",
+            "Tanker-HazardD"
+        ],
+        "options": "A. Cargo-HazardD   B. WingInGrnd   C. PipeLayer   D. TrainingShip   E. Tanker-HazardD",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S06N0003",
+        "question_id": 6,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S06N0004.png",
+        "ground_truth": "Cargo-HazardD",
+        "ground_truth_option": "B",
+        "options_list": [
+            "SailingVessel",
+            "Cargo-HazardD",
+            "SAR",
+            "CO2Tanker",
+            "HeavyLoadCarrier"
+        ],
+        "options": "A. SailingVessel   B. Cargo-HazardD   C. SAR   D. CO2Tanker   E. HeavyLoadCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S06N0004",
+        "question_id": 7,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S07N0508.png",
+        "ground_truth": "CargoShip",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HighSpeedCraft",
+            "IsolatedDanger",
+            "LPGTanker",
+            "CargoShip",
+            "PollutionControlVessel"
+        ],
+        "options": "A. HighSpeedCraft   B. IsolatedDanger   C. LPGTanker   D. CargoShip   E. PollutionControlVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S07N0508",
+        "question_id": 8,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S07N1319.png",
+        "ground_truth": "CargoShip",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HopperDredger",
+            "SelfDischargingBulkCarrier",
+            "CargoShip",
+            "ContainerShip",
+            "MooringVessel"
+        ],
+        "options": "A. HopperDredger   B. SelfDischargingBulkCarrier   C. CargoShip   D. ContainerShip   E. MooringVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S07N1319",
+        "question_id": 9,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S07N1369.png",
+        "ground_truth": "CargoShip",
+        "ground_truth_option": "B",
+        "options_list": [
+            "FishCarrier",
+            "CargoShip",
+            "Tug",
+            "Fishing",
+            "OffshoreSupplyShip"
+        ],
+        "options": "A. FishCarrier   B. CargoShip   C. Tug   D. Fishing   E. OffshoreSupplyShip",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S07N1369",
+        "question_id": 10,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S08N0033.png",
+        "ground_truth": "ContainerShip",
+        "ground_truth_option": "B",
+        "options_list": [
+            "Passenger",
+            "ContainerShip",
+            "Towing",
+            "SpecialVessel",
+            "Trawler"
+        ],
+        "options": "A. Passenger   B. ContainerShip   C. Towing   D. SpecialVessel   E. Trawler",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S08N0033",
+        "question_id": 11,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S09N0001.png",
+        "ground_truth": "FishCarrier",
+        "ground_truth_option": "B",
+        "options_list": [
+            "WingInGrnd",
+            "FishCarrier",
+            "FireFightingVessel",
+            "CrewBoat",
+            "AggregatesCarrier"
+        ],
+        "options": "A. WingInGrnd   B. FishCarrier   C. FireFightingVessel   D. CrewBoat   E. AggregatesCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S09N0001",
+        "question_id": 12,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S10N0018.png",
+        "ground_truth": "GeneralCargo",
+        "ground_truth_option": "C",
+        "options_list": [
+            "Pleasurecraft",
+            "SelfDischargingBulkCarrier",
+            "GeneralCargo",
+            "FishCarrier",
+            "CrudeOilTanker"
+        ],
+        "options": "A. Pleasurecraft   B. SelfDischargingBulkCarrier   C. GeneralCargo   D. FishCarrier   E. CrudeOilTanker",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S10N0018",
+        "question_id": 13,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S10N0041.png",
+        "ground_truth": "GeneralCargo",
+        "ground_truth_option": "A",
+        "options_list": [
+            "GeneralCargo",
+            "DiveVessel",
+            "LPGTanker",
+            "FloatingStorage_Production",
+            "MooringVessel"
+        ],
+        "options": "A. GeneralCargo   B. DiveVessel   C. LPGTanker   D. FloatingStorage_Production   E. MooringVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S10N0041",
+        "question_id": 14,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S11N0003.png",
+        "ground_truth": "HeavyLoadCarrier",
+        "ground_truth_option": "D",
+        "options_list": [
+            "WingInGrnd",
+            "Tanker-HazardD",
+            "HeavyLiftVessel",
+            "HeavyLoadCarrier",
+            "Platform"
+        ],
+        "options": "A. WingInGrnd   B. Tanker-HazardD   C. HeavyLiftVessel   D. HeavyLoadCarrier   E. Platform",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S11N0003",
+        "question_id": 15,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S12N0001.png",
+        "ground_truth": "MotorHopper",
+        "ground_truth_option": "E",
+        "options_list": [
+            "Unspecified",
+            "OreCarrier",
+            "Tanker-HazardC",
+            "Tanker-HazardB",
+            "MotorHopper"
+        ],
+        "options": "A. Unspecified   B. OreCarrier   C. Tanker-HazardC   D. Tanker-HazardB   E. MotorHopper",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S12N0001",
+        "question_id": 16,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S13N0001.png",
+        "ground_truth": "OffshoreSupplyShip",
+        "ground_truth_option": "E",
+        "options_list": [
+            "LawEnforce",
+            "SAR",
+            "OilProductsTanker",
+            "Othertypeofship",
+            "OffshoreSupplyShip"
+        ],
+        "options": "A. LawEnforce   B. SAR   C. OilProductsTanker   D. Othertypeofship   E. OffshoreSupplyShip",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S13N0001",
+        "question_id": 17,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S13N0002.png",
+        "ground_truth": "OffshoreSupplyShip",
+        "ground_truth_option": "B",
+        "options_list": [
+            "GeneralCargo",
+            "OffshoreSupplyShip",
+            "CO2Tanker",
+            "PortTender",
+            "LawEnforce"
+        ],
+        "options": "A. GeneralCargo   B. OffshoreSupplyShip   C. CO2Tanker   D. PortTender   E. LawEnforce",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S13N0002",
+        "question_id": 18,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S14N0001.png",
+        "ground_truth": "OreCarrier",
+        "ground_truth_option": "C",
+        "options_list": [
+            "ChemicalTanker",
+            "SupplyVessel",
+            "OreCarrier",
+            "PipeLayer",
+            "DivingSupportVessel"
+        ],
+        "options": "A. ChemicalTanker   B. SupplyVessel   C. OreCarrier   D. PipeLayer   E. DivingSupportVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S14N0001",
+        "question_id": 19,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S15N0001.png",
+        "ground_truth": "PatrolVessel",
+        "ground_truth_option": "C",
+        "options_list": [
+            "CrudeOilTanker",
+            "Cargo-HazardA",
+            "PatrolVessel",
+            "Cargo-HazardB",
+            "SpecialVessel"
+        ],
+        "options": "A. CrudeOilTanker   B. Cargo-HazardA   C. PatrolVessel   D. Cargo-HazardB   E. SpecialVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S15N0001",
+        "question_id": 20,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S16N0001.png",
+        "ground_truth": "Ro-RoCargo",
+        "ground_truth_option": "E",
+        "options_list": [
+            "CargoShip",
+            "PollutionControlVessel",
+            "LPGTanker",
+            "CO2Tanker",
+            "Ro-RoCargo"
+        ],
+        "options": "A. CargoShip   B. PollutionControlVessel   C. LPGTanker   D. CO2Tanker   E. Ro-RoCargo",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S16N0001",
+        "question_id": 21,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S17N0001.png",
+        "ground_truth": "SelfDischargingBulkCarrier",
+        "ground_truth_option": "A",
+        "options_list": [
+            "SelfDischargingBulkCarrier",
+            "WellStimulationVessel",
+            "SARAircraft",
+            "Fishing",
+            "Anti-Pollution"
+        ],
+        "options": "A. SelfDischargingBulkCarrier   B. WellStimulationVessel   C. SARAircraft   D. Fishing   E. Anti-Pollution",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S17N0001",
+        "question_id": 22,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S18N0001.png",
+        "ground_truth": "SpecialVessel",
+        "ground_truth_option": "D",
+        "options_list": [
+            "CO2Tanker",
+            "WellStimulationVessel",
+            "HighSpeedCraft",
+            "SpecialVessel",
+            "Cargo-HazardD"
+        ],
+        "options": "A. CO2Tanker   B. WellStimulationVessel   C. HighSpeedCraft   D. SpecialVessel   E. Cargo-HazardD",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S18N0001",
+        "question_id": 23,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S19N0001.png",
+        "ground_truth": "TrailingSuctionHopperDredger",
+        "ground_truth_option": "A",
+        "options_list": [
+            "TrailingSuctionHopperDredger",
+            "Ro-RoCargo",
+            "DrillingJackUp",
+            "Anti-Pollution",
+            "Cargo-HazardA"
+        ],
+        "options": "A. TrailingSuctionHopperDredger   B. Ro-RoCargo   C. DrillingJackUp   D. Anti-Pollution   E. Cargo-HazardA",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S19N0001",
+        "question_id": 24,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S20N0001.png",
+        "ground_truth": "TrainingShip",
+        "ground_truth_option": "E",
+        "options_list": [
+            "VehiclesCarrier",
+            "Anti-Pollution",
+            "LPGTanker",
+            "AggregatesCarrier",
+            "TrainingShip"
+        ],
+        "options": "A. VehiclesCarrier   B. Anti-Pollution   C. LPGTanker   D. AggregatesCarrier   E. TrainingShip",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S20N0001",
+        "question_id": 25,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S21N0001.png",
+        "ground_truth": "VehiclesCarrier",
+        "ground_truth_option": "A",
+        "options_list": [
+            "VehiclesCarrier",
+            "Reefer",
+            "HeavyLoadCarrier",
+            "Pleasurecraft",
+            "DivingSupportVessel"
+        ],
+        "options": "A. VehiclesCarrier   B. Reefer   C. HeavyLoadCarrier   D. Pleasurecraft   E. DivingSupportVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S21N0001",
+        "question_id": 26,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S21N0002.png",
+        "ground_truth": "VehiclesCarrier",
+        "ground_truth_option": "E",
+        "options_list": [
+            "LPGTanker",
+            "BulkCarrier",
+            "Research_SurveyVessel",
+            "OilProductsTanker",
+            "VehiclesCarrier"
+        ],
+        "options": "A. LPGTanker   B. BulkCarrier   C. Research_SurveyVessel   D. OilProductsTanker   E. VehiclesCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S21N0002",
+        "question_id": 27,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C01S21N0003.png",
+        "ground_truth": "VehiclesCarrier",
+        "ground_truth_option": "D",
+        "options_list": [
+            "MultiPurposeOffshoreVessel",
+            "HSC",
+            "Reserved",
+            "VehiclesCarrier",
+            "Ro-Ro_PassengerShip"
+        ],
+        "options": "A. MultiPurposeOffshoreVessel   B. HSC   C. Reserved   D. VehiclesCarrier   E. Ro-Ro_PassengerShip",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C01S21N0003",
+        "question_id": 28,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C02S01N0001.png",
+        "ground_truth": "DiveVessel",
+        "ground_truth_option": "D",
+        "options_list": [
+            "PilotVessel",
+            "FishCarrier",
+            "SpecialVessel",
+            "DiveVessel",
+            "Cargo-HazardD"
+        ],
+        "options": "A. PilotVessel   B. FishCarrier   C. SpecialVessel   D. DiveVessel   E. Cargo-HazardD",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C02S01N0001",
+        "question_id": 29,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C02S01N0002.png",
+        "ground_truth": "DiveVessel",
+        "ground_truth_option": "C",
+        "options_list": [
+            "DivingSupportVessel",
+            "FishCarrier",
+            "DiveVessel",
+            "NavigationAid",
+            "Othertypeofship"
+        ],
+        "options": "A. DivingSupportVessel   B. FishCarrier   C. DiveVessel   D. NavigationAid   E. Othertypeofship",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C02S01N0002",
+        "question_id": 30,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C02S02N0001.png",
+        "ground_truth": "DivingSupportVessel",
+        "ground_truth_option": "C",
+        "options_list": [
+            "DiveVessel",
+            "GeneralCargo",
+            "DivingSupportVessel",
+            "MultiPurposeOffshoreVessel",
+            "Cargo-HazardB"
+        ],
+        "options": "A. DiveVessel   B. GeneralCargo   C. DivingSupportVessel   D. MultiPurposeOffshoreVessel   E. Cargo-HazardB",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C02S02N0001",
+        "question_id": 31,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C03S01N0001.png",
+        "ground_truth": "CutterSuctionDredger",
+        "ground_truth_option": "E",
+        "options_list": [
+            "GeneralCargo",
+            "SailingVessel",
+            "CO2Tanker",
+            "FireFightingVessel",
+            "CutterSuctionDredger"
+        ],
+        "options": "A. GeneralCargo   B. SailingVessel   C. CO2Tanker   D. FireFightingVessel   E. CutterSuctionDredger",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C03S01N0001",
+        "question_id": 32,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C03S02N0035.png",
+        "ground_truth": "Dredger",
+        "ground_truth_option": "B",
+        "options_list": [
+            "FishCarrier",
+            "Dredger",
+            "IsolatedDanger",
+            "Asphalt_BitumenTanker",
+            "MooringVessel"
+        ],
+        "options": "A. FishCarrier   B. Dredger   C. IsolatedDanger   D. Asphalt_BitumenTanker   E. MooringVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C03S02N0035",
+        "question_id": 33,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C03S02N0036.png",
+        "ground_truth": "Dredger",
+        "ground_truth_option": "C",
+        "options_list": [
+            "WingInGrnd",
+            "Pleasurecraft",
+            "Dredger",
+            "BulkCarrier",
+            "DivingSupportVessel"
+        ],
+        "options": "A. WingInGrnd   B. Pleasurecraft   C. Dredger   D. BulkCarrier   E. DivingSupportVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C03S02N0036",
+        "question_id": 34,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C03S03N0001.png",
+        "ground_truth": "HopperDredger",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HopperDredger",
+            "Othertypeofship",
+            "Research_SurveyVessel",
+            "Tanker-HazardC",
+            "PortTender"
+        ],
+        "options": "A. HopperDredger   B. Othertypeofship   C. Research_SurveyVessel   D. Tanker-HazardC   E. PortTender",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C03S03N0001",
+        "question_id": 35,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C03S03N0002.png",
+        "ground_truth": "HopperDredger",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HopperDredger",
+            "Reserved",
+            "OreCarrier",
+            "DivingSupportVessel",
+            "Platform"
+        ],
+        "options": "A. HopperDredger   B. Reserved   C. OreCarrier   D. DivingSupportVessel   E. Platform",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C03S03N0002",
+        "question_id": 36,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C03S04N0001.png",
+        "ground_truth": "Platform",
+        "ground_truth_option": "E",
+        "options_list": [
+            "LocalVessel",
+            "Towing",
+            "Tanker-HazardA",
+            "Ro-RoCargo",
+            "Platform"
+        ],
+        "options": "A. LocalVessel   B. Towing   C. Tanker-HazardA   D. Ro-RoCargo   E. Platform",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C03S04N0001",
+        "question_id": 37,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C03S05N0001.png",
+        "ground_truth": "TrailingSuctionHopperDredger",
+        "ground_truth_option": "A",
+        "options_list": [
+            "TrailingSuctionHopperDredger",
+            "HeavyLiftVessel",
+            "Tanker-HazardA",
+            "PortTender",
+            "DiveVessel"
+        ],
+        "options": "A. TrailingSuctionHopperDredger   B. HeavyLiftVessel   C. Tanker-HazardA   D. PortTender   E. DiveVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C03S05N0001",
+        "question_id": 38,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C04S01N0001.png",
+        "ground_truth": "BulkCarrier",
+        "ground_truth_option": "E",
+        "options_list": [
+            "AggregatesCarrier",
+            "LawEnforce",
+            "WellStimulationVessel",
+            "PipeLayer",
+            "BulkCarrier"
+        ],
+        "options": "A. AggregatesCarrier   B. LawEnforce   C. WellStimulationVessel   D. PipeLayer   E. BulkCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C04S01N0001",
+        "question_id": 39,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C04S02N0638.png",
+        "ground_truth": "Fishing",
+        "ground_truth_option": "C",
+        "options_list": [
+            "Cargo-HazardD",
+            "Tanker-HazardB",
+            "Fishing",
+            "SAR",
+            "CutterSuctionDredger"
+        ],
+        "options": "A. Cargo-HazardD   B. Tanker-HazardB   C. Fishing   D. SAR   E. CutterSuctionDredger",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C04S02N0638",
+        "question_id": 40,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C04S03N0002.png",
+        "ground_truth": "Trawler",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HeavyLiftVessel",
+            "Trawler",
+            "FishCarrier",
+            "Fishing",
+            "Othertypeofship"
+        ],
+        "options": "A. HeavyLiftVessel   B. Trawler   C. FishCarrier   D. Fishing   E. Othertypeofship",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C04S03N0002",
+        "question_id": 41,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C04S03N0003.png",
+        "ground_truth": "Trawler",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HeavyLoadCarrier",
+            "Unspecified",
+            "Trawler",
+            "Tanker-HazardC",
+            "HopperDredger"
+        ],
+        "options": "A. HeavyLoadCarrier   B. Unspecified   C. Trawler   D. Tanker-HazardC   E. HopperDredger",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C04S03N0003",
+        "question_id": 42,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C05S01N0001.png",
+        "ground_truth": "CrewBoat",
+        "ground_truth_option": "B",
+        "options_list": [
+            "FloatingStorage_Production",
+            "CrewBoat",
+            "DiveVessel",
+            "Cargo-HazardC",
+            "Trawler"
+        ],
+        "options": "A. FloatingStorage_Production   B. CrewBoat   C. DiveVessel   D. Cargo-HazardC   E. Trawler",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C05S01N0001",
+        "question_id": 43,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C05S01N0002.png",
+        "ground_truth": "CrewBoat",
+        "ground_truth_option": "E",
+        "options_list": [
+            "Engagedindredgingorunderwateroperations",
+            "Reserved",
+            "CutterSuctionDredger",
+            "AggregatesCarrier",
+            "CrewBoat"
+        ],
+        "options": "A. Engagedindredgingorunderwateroperations   B. Reserved   C. CutterSuctionDredger   D. AggregatesCarrier   E. CrewBoat",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C05S01N0002",
+        "question_id": 44,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C05S02N0005.png",
+        "ground_truth": "HighSpeedCraft",
+        "ground_truth_option": "C",
+        "options_list": [
+            "Unspecified",
+            "Cargo-HazardD",
+            "HighSpeedCraft",
+            "Anti-Pollution",
+            "Salvage_RescueVessel"
+        ],
+        "options": "A. Unspecified   B. Cargo-HazardD   C. HighSpeedCraft   D. Anti-Pollution   E. Salvage_RescueVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C05S02N0005",
+        "question_id": 45,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C05S02N0011.png",
+        "ground_truth": "HighSpeedCraft",
+        "ground_truth_option": "C",
+        "options_list": [
+            "Tanker-HazardA",
+            "NavigationAid",
+            "HighSpeedCraft",
+            "DiveVessel",
+            "Cargo-HazardB"
+        ],
+        "options": "A. Tanker-HazardA   B. NavigationAid   C. HighSpeedCraft   D. DiveVessel   E. Cargo-HazardB",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C05S02N0011",
+        "question_id": 46,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C06S01N0011.png",
+        "ground_truth": "LawEnforce",
+        "ground_truth_option": "D",
+        "options_list": [
+            "TrailingSuctionHopperDredger",
+            "SpecialVessel",
+            "Tanker-HazardB",
+            "LawEnforce",
+            "Reserved"
+        ],
+        "options": "A. TrailingSuctionHopperDredger   B. SpecialVessel   C. Tanker-HazardB   D. LawEnforce   E. Reserved",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C06S01N0011",
+        "question_id": 47,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C06S02N0002.png",
+        "ground_truth": "MultiPurposeOffshoreVessel",
+        "ground_truth_option": "D",
+        "options_list": [
+            "Pleasurecraft",
+            "WellStimulationVessel",
+            "Tanker-HazardB",
+            "MultiPurposeOffshoreVessel",
+            "Dredger"
+        ],
+        "options": "A. Pleasurecraft   B. WellStimulationVessel   C. Tanker-HazardB   D. MultiPurposeOffshoreVessel   E. Dredger",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C06S02N0002",
+        "question_id": 48,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S01N0001.png",
+        "ground_truth": "Anti-Pollution",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Anti-Pollution",
+            "GeneralCargo",
+            "Ro-Ro_PassengerShip",
+            "DivingSupportVessel",
+            "UtilityVessel"
+        ],
+        "options": "A. Anti-Pollution   B. GeneralCargo   C. Ro-Ro_PassengerShip   D. DivingSupportVessel   E. UtilityVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S01N0001",
+        "question_id": 49,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S01N0004.png",
+        "ground_truth": "Anti-Pollution",
+        "ground_truth_option": "D",
+        "options_list": [
+            "CO2Tanker",
+            "Research_SurveyVessel",
+            "HopperDredger",
+            "Anti-Pollution",
+            "Tanker-HazardB"
+        ],
+        "options": "A. CO2Tanker   B. Research_SurveyVessel   C. HopperDredger   D. Anti-Pollution   E. Tanker-HazardB",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S01N0004",
+        "question_id": 50,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S01N0005.png",
+        "ground_truth": "Anti-Pollution",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Anti-Pollution",
+            "Platform",
+            "WingInGrnd",
+            "Reserved",
+            "FishCarrier"
+        ],
+        "options": "A. Anti-Pollution   B. Platform   C. WingInGrnd   D. Reserved   E. FishCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S01N0005",
+        "question_id": 51,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S02N0002.png",
+        "ground_truth": "DrillingJackUp",
+        "ground_truth_option": "A",
+        "options_list": [
+            "DrillingJackUp",
+            "Tug",
+            "Tanker-HazardC",
+            "MotorHopper",
+            "Research_SurveyVessel"
+        ],
+        "options": "A. DrillingJackUp   B. Tug   C. Tanker-HazardC   D. MotorHopper   E. Research_SurveyVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S02N0002",
+        "question_id": 52,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S03N0001.png",
+        "ground_truth": "Engagedindredgingorunderwateroperations",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Engagedindredgingorunderwateroperations",
+            "FloatingStorage_Production",
+            "Ro-RoCargo",
+            "SARAircraft",
+            "Tanker-HazardD"
+        ],
+        "options": "A. Engagedindredgingorunderwateroperations   B. FloatingStorage_Production   C. Ro-RoCargo   D. SARAircraft   E. Tanker-HazardD",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S03N0001",
+        "question_id": 53,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S03N0002.png",
+        "ground_truth": "Engagedindredgingorunderwateroperations",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Engagedindredgingorunderwateroperations",
+            "WellStimulationVessel",
+            "Tug",
+            "PilotVessel",
+            "Ro-Ro_PassengerShip"
+        ],
+        "options": "A. Engagedindredgingorunderwateroperations   B. WellStimulationVessel   C. Tug   D. PilotVessel   E. Ro-Ro_PassengerShip",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S03N0002",
+        "question_id": 54,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S03N0003.png",
+        "ground_truth": "Engagedindredgingorunderwateroperations",
+        "ground_truth_option": "B",
+        "options_list": [
+            "Passenger",
+            "Engagedindredgingorunderwateroperations",
+            "Cargo-HazardD",
+            "Unspecified",
+            "HeavyLoadCarrier"
+        ],
+        "options": "A. Passenger   B. Engagedindredgingorunderwateroperations   C. Cargo-HazardD   D. Unspecified   E. HeavyLoadCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S03N0003",
+        "question_id": 55,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S04N0001.png",
+        "ground_truth": "HSC",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HSC",
+            "AggregatesCarrier",
+            "Platform",
+            "Reserved",
+            "CrudeOilTanker"
+        ],
+        "options": "A. HSC   B. AggregatesCarrier   C. Platform   D. Reserved   E. CrudeOilTanker",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S04N0001",
+        "question_id": 56,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S05N0001.png",
+        "ground_truth": "HeavyLiftVessel",
+        "ground_truth_option": "E",
+        "options_list": [
+            "BulkCarrier",
+            "Reserved",
+            "PipeLayer",
+            "DiveVessel",
+            "HeavyLiftVessel"
+        ],
+        "options": "A. BulkCarrier   B. Reserved   C. PipeLayer   D. DiveVessel   E. HeavyLiftVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S05N0001",
+        "question_id": 57,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S06N0001.png",
+        "ground_truth": "HopperDredger",
+        "ground_truth_option": "E",
+        "options_list": [
+            "SAR",
+            "Tanker-HazardD",
+            "Dredger",
+            "TrainingShip",
+            "HopperDredger"
+        ],
+        "options": "A. SAR   B. Tanker-HazardD   C. Dredger   D. TrainingShip   E. HopperDredger",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S06N0001",
+        "question_id": 58,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S07N0001.png",
+        "ground_truth": "IsolatedDanger",
+        "ground_truth_option": "C",
+        "options_list": [
+            "GeneralCargo",
+            "PipeLayer",
+            "IsolatedDanger",
+            "HighSpeedCraft",
+            "Pleasurecraft"
+        ],
+        "options": "A. GeneralCargo   B. PipeLayer   C. IsolatedDanger   D. HighSpeedCraft   E. Pleasurecraft",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S07N0001",
+        "question_id": 59,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S07N0002.png",
+        "ground_truth": "IsolatedDanger",
+        "ground_truth_option": "C",
+        "options_list": [
+            "MotorHopper",
+            "Fishing",
+            "IsolatedDanger",
+            "SailingVessel",
+            "CrewBoat"
+        ],
+        "options": "A. MotorHopper   B. Fishing   C. IsolatedDanger   D. SailingVessel   E. CrewBoat",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S07N0002",
+        "question_id": 60,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S07N0003.png",
+        "ground_truth": "IsolatedDanger",
+        "ground_truth_option": "B",
+        "options_list": [
+            "Engagedindredgingorunderwateroperations",
+            "IsolatedDanger",
+            "UtilityVessel",
+            "Tug",
+            "HighSpeedCraft"
+        ],
+        "options": "A. Engagedindredgingorunderwateroperations   B. IsolatedDanger   C. UtilityVessel   D. Tug   E. HighSpeedCraft",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S07N0003",
+        "question_id": 61,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S08N0001.png",
+        "ground_truth": "LocalVessel",
+        "ground_truth_option": "E",
+        "options_list": [
+            "CrudeOilTanker",
+            "HighSpeedCraft",
+            "Ro-RoCargo",
+            "FishCarrier",
+            "LocalVessel"
+        ],
+        "options": "A. CrudeOilTanker   B. HighSpeedCraft   C. Ro-RoCargo   D. FishCarrier   E. LocalVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S08N0001",
+        "question_id": 62,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S08N0002.png",
+        "ground_truth": "LocalVessel",
+        "ground_truth_option": "E",
+        "options_list": [
+            "PilotVessel",
+            "Unspecified",
+            "HeavyLoadCarrier",
+            "CutterSuctionDredger",
+            "LocalVessel"
+        ],
+        "options": "A. PilotVessel   B. Unspecified   C. HeavyLoadCarrier   D. CutterSuctionDredger   E. LocalVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S08N0002",
+        "question_id": 63,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S09N0001.png",
+        "ground_truth": "MotorHopper",
+        "ground_truth_option": "E",
+        "options_list": [
+            "MooringVessel",
+            "Pleasurecraft",
+            "SpecialVessel",
+            "Tanker-HazardC",
+            "MotorHopper"
+        ],
+        "options": "A. MooringVessel   B. Pleasurecraft   C. SpecialVessel   D. Tanker-HazardC   E. MotorHopper",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S09N0001",
+        "question_id": 64,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S10N0001.png",
+        "ground_truth": "NavigationAid",
+        "ground_truth_option": "B",
+        "options_list": [
+            "Passenger",
+            "NavigationAid",
+            "HSC",
+            "Cargo-HazardD",
+            "HighSpeedCraft"
+        ],
+        "options": "A. Passenger   B. NavigationAid   C. HSC   D. Cargo-HazardD   E. HighSpeedCraft",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S10N0001",
+        "question_id": 65,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S11N0547.png",
+        "ground_truth": "Othertypeofship",
+        "ground_truth_option": "E",
+        "options_list": [
+            "SpecialVessel",
+            "OilProductsTanker",
+            "LocalVessel",
+            "SpecialCraft",
+            "Othertypeofship"
+        ],
+        "options": "A. SpecialVessel   B. OilProductsTanker   C. LocalVessel   D. SpecialCraft   E. Othertypeofship",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S11N0547",
+        "question_id": 66,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S11N0604.png",
+        "ground_truth": "Othertypeofship",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HeavyLoadCarrier",
+            "Research_SurveyVessel",
+            "Othertypeofship",
+            "TrainingShip",
+            "Tug"
+        ],
+        "options": "A. HeavyLoadCarrier   B. Research_SurveyVessel   C. Othertypeofship   D. TrainingShip   E. Tug",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S11N0604",
+        "question_id": 67,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S11N0609.png",
+        "ground_truth": "Othertypeofship",
+        "ground_truth_option": "B",
+        "options_list": [
+            "FishCarrier",
+            "Othertypeofship",
+            "ContainerShip",
+            "OffshoreSupplyShip",
+            "VehiclesCarrier"
+        ],
+        "options": "A. FishCarrier   B. Othertypeofship   C. ContainerShip   D. OffshoreSupplyShip   E. VehiclesCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S11N0609",
+        "question_id": 68,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S11N0620.png",
+        "ground_truth": "Othertypeofship",
+        "ground_truth_option": "E",
+        "options_list": [
+            "PatrolVessel",
+            "WingInGrnd",
+            "MotorHopper",
+            "TrainingShip",
+            "Othertypeofship"
+        ],
+        "options": "A. PatrolVessel   B. WingInGrnd   C. MotorHopper   D. TrainingShip   E. Othertypeofship",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S11N0620",
+        "question_id": 69,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S11N0626.png",
+        "ground_truth": "Othertypeofship",
+        "ground_truth_option": "D",
+        "options_list": [
+            "Asphalt_BitumenTanker",
+            "NavigationAid",
+            "HighSpeedCraft",
+            "Othertypeofship",
+            "HeavyLiftVessel"
+        ],
+        "options": "A. Asphalt_BitumenTanker   B. NavigationAid   C. HighSpeedCraft   D. Othertypeofship   E. HeavyLiftVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S11N0626",
+        "question_id": 70,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S11N1501.png",
+        "ground_truth": "Othertypeofship",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HopperDredger",
+            "OilProductsTanker",
+            "PollutionControlVessel",
+            "Othertypeofship",
+            "GeneralCargo"
+        ],
+        "options": "A. HopperDredger   B. OilProductsTanker   C. PollutionControlVessel   D. Othertypeofship   E. GeneralCargo",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S11N1501",
+        "question_id": 71,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S12N0001.png",
+        "ground_truth": "PipeLayer",
+        "ground_truth_option": "C",
+        "options_list": [
+            "Engagedindredgingorunderwateroperations",
+            "TrainingShip",
+            "PipeLayer",
+            "DivingSupportVessel",
+            "GeneralCargo"
+        ],
+        "options": "A. Engagedindredgingorunderwateroperations   B. TrainingShip   C. PipeLayer   D. DivingSupportVessel   E. GeneralCargo",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S12N0001",
+        "question_id": 72,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S13N0001.png",
+        "ground_truth": "Platform",
+        "ground_truth_option": "E",
+        "options_list": [
+            "Unspecified",
+            "AggregatesCarrier",
+            "TrainingShip",
+            "Reefer",
+            "Platform"
+        ],
+        "options": "A. Unspecified   B. AggregatesCarrier   C. TrainingShip   D. Reefer   E. Platform",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S13N0001",
+        "question_id": 73,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S14N0001.png",
+        "ground_truth": "PollutionControlVessel",
+        "ground_truth_option": "D",
+        "options_list": [
+            "WingInGrnd",
+            "SupplyVessel",
+            "Cargo-HazardD",
+            "PollutionControlVessel",
+            "VehiclesCarrier"
+        ],
+        "options": "A. WingInGrnd   B. SupplyVessel   C. Cargo-HazardD   D. PollutionControlVessel   E. VehiclesCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S14N0001",
+        "question_id": 74,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S15N0001.png",
+        "ground_truth": "Reefer",
+        "ground_truth_option": "C",
+        "options_list": [
+            "Research_SurveyVessel",
+            "WellStimulationVessel",
+            "Reefer",
+            "Ro-Ro_PassengerShip",
+            "CargoShip"
+        ],
+        "options": "A. Research_SurveyVessel   B. WellStimulationVessel   C. Reefer   D. Ro-Ro_PassengerShip   E. CargoShip",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S15N0001",
+        "question_id": 75,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S16N0001.png",
+        "ground_truth": "Research_SurveyVessel",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Research_SurveyVessel",
+            "SpecialCraft",
+            "DrillingJackUp",
+            "WellStimulationVessel",
+            "VehiclesCarrier"
+        ],
+        "options": "A. Research_SurveyVessel   B. SpecialCraft   C. DrillingJackUp   D. WellStimulationVessel   E. VehiclesCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S16N0001",
+        "question_id": 76,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S17N0001.png",
+        "ground_truth": "SailingVessel",
+        "ground_truth_option": "E",
+        "options_list": [
+            "OilProductsTanker",
+            "MultiPurposeOffshoreVessel",
+            "Passenger",
+            "SAR",
+            "SailingVessel"
+        ],
+        "options": "A. OilProductsTanker   B. MultiPurposeOffshoreVessel   C. Passenger   D. SAR   E. SailingVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S17N0001",
+        "question_id": 77,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S17N0002.png",
+        "ground_truth": "SailingVessel",
+        "ground_truth_option": "A",
+        "options_list": [
+            "SailingVessel",
+            "HeavyLiftVessel",
+            "Passenger",
+            "Engagedindredgingorunderwateroperations",
+            "LocalVessel"
+        ],
+        "options": "A. SailingVessel   B. HeavyLiftVessel   C. Passenger   D. Engagedindredgingorunderwateroperations   E. LocalVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S17N0002",
+        "question_id": 78,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S18N0001.png",
+        "ground_truth": "SpecialCraft",
+        "ground_truth_option": "E",
+        "options_list": [
+            "CrewBoat",
+            "Passenger",
+            "ContainerShip",
+            "CO2Tanker",
+            "SpecialCraft"
+        ],
+        "options": "A. CrewBoat   B. Passenger   C. ContainerShip   D. CO2Tanker   E. SpecialCraft",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S18N0001",
+        "question_id": 79,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S18N0002.png",
+        "ground_truth": "SpecialCraft",
+        "ground_truth_option": "B",
+        "options_list": [
+            "PipeLayer",
+            "SpecialCraft",
+            "GeneralCargo",
+            "SpecialVessel",
+            "Cargo-HazardA"
+        ],
+        "options": "A. PipeLayer   B. SpecialCraft   C. GeneralCargo   D. SpecialVessel   E. Cargo-HazardA",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S18N0002",
+        "question_id": 80,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S19N0001.png",
+        "ground_truth": "SupplyVessel",
+        "ground_truth_option": "D",
+        "options_list": [
+            "CO2Tanker",
+            "Cargo-HazardB",
+            "PortTender",
+            "SupplyVessel",
+            "CargoShip"
+        ],
+        "options": "A. CO2Tanker   B. Cargo-HazardB   C. PortTender   D. SupplyVessel   E. CargoShip",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S19N0001",
+        "question_id": 81,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S20N0002.png",
+        "ground_truth": "Towing",
+        "ground_truth_option": "D",
+        "options_list": [
+            "Platform",
+            "BunkeringTanker",
+            "OilProductsTanker",
+            "Towing",
+            "HeavyLoadCarrier"
+        ],
+        "options": "A. Platform   B. BunkeringTanker   C. OilProductsTanker   D. Towing   E. HeavyLoadCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S20N0002",
+        "question_id": 82,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S21N0001.png",
+        "ground_truth": "TrailingSuctionHopperDredger",
+        "ground_truth_option": "B",
+        "options_list": [
+            "SupplyVessel",
+            "TrailingSuctionHopperDredger",
+            "SpecialVessel",
+            "Tanker-HazardD",
+            "Tanker-HazardC"
+        ],
+        "options": "A. SupplyVessel   B. TrailingSuctionHopperDredger   C. SpecialVessel   D. Tanker-HazardD   E. Tanker-HazardC",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S21N0001",
+        "question_id": 83,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S22N0001.png",
+        "ground_truth": "UtilityVessel",
+        "ground_truth_option": "A",
+        "options_list": [
+            "UtilityVessel",
+            "WellStimulationVessel",
+            "Platform",
+            "LawEnforce",
+            "PatrolVessel"
+        ],
+        "options": "A. UtilityVessel   B. WellStimulationVessel   C. Platform   D. LawEnforce   E. PatrolVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S22N0001",
+        "question_id": 84,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C07S23N0001.png",
+        "ground_truth": "WellStimulationVessel",
+        "ground_truth_option": "A",
+        "options_list": [
+            "WellStimulationVessel",
+            "ContainerShip",
+            "Unspecified",
+            "ChemicalTanker",
+            "Cargo-HazardD"
+        ],
+        "options": "A. WellStimulationVessel   B. ContainerShip   C. Unspecified   D. ChemicalTanker   E. Cargo-HazardD",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C07S23N0001",
+        "question_id": 85,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C08S01N0003.png",
+        "ground_truth": "OffshoreSupplyShip",
+        "ground_truth_option": "D",
+        "options_list": [
+            "SelfDischargingBulkCarrier",
+            "ContainerShip",
+            "FishCarrier",
+            "OffshoreSupplyShip",
+            "Tanker-HazardA"
+        ],
+        "options": "A. SelfDischargingBulkCarrier   B. ContainerShip   C. FishCarrier   D. OffshoreSupplyShip   E. Tanker-HazardA",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C08S01N0003",
+        "question_id": 86,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C08S01N0004.png",
+        "ground_truth": "OffshoreSupplyShip",
+        "ground_truth_option": "D",
+        "options_list": [
+            "Pleasurecraft",
+            "FishCarrier",
+            "Platform",
+            "OffshoreSupplyShip",
+            "Othertypeofship"
+        ],
+        "options": "A. Pleasurecraft   B. FishCarrier   C. Platform   D. OffshoreSupplyShip   E. Othertypeofship",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C08S01N0004",
+        "question_id": 87,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C08S01N0006.png",
+        "ground_truth": "OffshoreSupplyShip",
+        "ground_truth_option": "A",
+        "options_list": [
+            "OffshoreSupplyShip",
+            "AggregatesCarrier",
+            "LocalVessel",
+            "Asphalt_BitumenTanker",
+            "CrudeOilTanker"
+        ],
+        "options": "A. OffshoreSupplyShip   B. AggregatesCarrier   C. LocalVessel   D. Asphalt_BitumenTanker   E. CrudeOilTanker",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C08S01N0006",
+        "question_id": 88,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C08S02N0021.png",
+        "ground_truth": "Passenger",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HopperDredger",
+            "Anti-Pollution",
+            "Passenger",
+            "PatrolVessel",
+            "SpecialCraft"
+        ],
+        "options": "A. HopperDredger   B. Anti-Pollution   C. Passenger   D. PatrolVessel   E. SpecialCraft",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C08S02N0021",
+        "question_id": 89,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C08S02N0037.png",
+        "ground_truth": "Passenger",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Passenger",
+            "Cargo-HazardA",
+            "PatrolVessel",
+            "Engagedindredgingorunderwateroperations",
+            "WingInGrnd"
+        ],
+        "options": "A. Passenger   B. Cargo-HazardA   C. PatrolVessel   D. Engagedindredgingorunderwateroperations   E. WingInGrnd",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C08S02N0037",
+        "question_id": 90,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C08S03N0002.png",
+        "ground_truth": "PilotVessel",
+        "ground_truth_option": "C",
+        "options_list": [
+            "OilProductsTanker",
+            "SailingVessel",
+            "PilotVessel",
+            "HSC",
+            "CargoShip"
+        ],
+        "options": "A. OilProductsTanker   B. SailingVessel   C. PilotVessel   D. HSC   E. CargoShip",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C08S03N0002",
+        "question_id": 91,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C08S03N0003.png",
+        "ground_truth": "PilotVessel",
+        "ground_truth_option": "E",
+        "options_list": [
+            "SailingVessel",
+            "PatrolVessel",
+            "HeavyLiftVessel",
+            "CutterSuctionDredger",
+            "PilotVessel"
+        ],
+        "options": "A. SailingVessel   B. PatrolVessel   C. HeavyLiftVessel   D. CutterSuctionDredger   E. PilotVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C08S03N0003",
+        "question_id": 92,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C08S03N0006.png",
+        "ground_truth": "PilotVessel",
+        "ground_truth_option": "B",
+        "options_list": [
+            "Reserved",
+            "PilotVessel",
+            "Salvage_RescueVessel",
+            "DrillingJackUp",
+            "CutterSuctionDredger"
+        ],
+        "options": "A. Reserved   B. PilotVessel   C. Salvage_RescueVessel   D. DrillingJackUp   E. CutterSuctionDredger",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C08S03N0006",
+        "question_id": 93,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C08S04N0001.png",
+        "ground_truth": "Platform",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Platform",
+            "DiveVessel",
+            "TrainingShip",
+            "WellStimulationVessel",
+            "PipeLayer"
+        ],
+        "options": "A. Platform   B. DiveVessel   C. TrainingShip   D. WellStimulationVessel   E. PipeLayer",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C08S04N0001",
+        "question_id": 94,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C08S05N0002.png",
+        "ground_truth": "Pleasurecraft",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HopperDredger",
+            "CrudeOilTanker",
+            "Pleasurecraft",
+            "CrewBoat",
+            "LocalVessel"
+        ],
+        "options": "A. HopperDredger   B. CrudeOilTanker   C. Pleasurecraft   D. CrewBoat   E. LocalVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C08S05N0002",
+        "question_id": 95,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C08S06N0001.png",
+        "ground_truth": "Ro-Ro_PassengerShip",
+        "ground_truth_option": "D",
+        "options_list": [
+            "LPGTanker",
+            "Tanker-HazardD",
+            "CrudeOilTanker",
+            "Ro-Ro_PassengerShip",
+            "LocalVessel"
+        ],
+        "options": "A. LPGTanker   B. Tanker-HazardD   C. CrudeOilTanker   D. Ro-Ro_PassengerShip   E. LocalVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C08S06N0001",
+        "question_id": 96,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C09S01N0001.png",
+        "ground_truth": "CrewBoat",
+        "ground_truth_option": "A",
+        "options_list": [
+            "CrewBoat",
+            "Cargo-HazardB",
+            "Unspecified",
+            "CargoShip",
+            "CutterSuctionDredger"
+        ],
+        "options": "A. CrewBoat   B. Cargo-HazardB   C. Unspecified   D. CargoShip   E. CutterSuctionDredger",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C09S01N0001",
+        "question_id": 97,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C09S02N0001.png",
+        "ground_truth": "PortTender",
+        "ground_truth_option": "D",
+        "options_list": [
+            "ContainerShip",
+            "CutterSuctionDredger",
+            "SailingVessel",
+            "PortTender",
+            "CO2Tanker"
+        ],
+        "options": "A. ContainerShip   B. CutterSuctionDredger   C. SailingVessel   D. PortTender   E. CO2Tanker",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C09S02N0001",
+        "question_id": 98,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C10S01N0001.png",
+        "ground_truth": "CrewBoat",
+        "ground_truth_option": "D",
+        "options_list": [
+            "Ro-RoCargo",
+            "AggregatesCarrier",
+            "SARAircraft",
+            "CrewBoat",
+            "ContainerShip"
+        ],
+        "options": "A. Ro-RoCargo   B. AggregatesCarrier   C. SARAircraft   D. CrewBoat   E. ContainerShip",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C10S01N0001",
+        "question_id": 99,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C10S02N0001.png",
+        "ground_truth": "OffshoreSupplyShip",
+        "ground_truth_option": "A",
+        "options_list": [
+            "OffshoreSupplyShip",
+            "Tanker-HazardA",
+            "Tanker-HazardD",
+            "VehiclesCarrier",
+            "AggregatesCarrier"
+        ],
+        "options": "A. OffshoreSupplyShip   B. Tanker-HazardA   C. Tanker-HazardD   D. VehiclesCarrier   E. AggregatesCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C10S02N0001",
+        "question_id": 100,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C10S03N0034.png",
+        "ground_truth": "Reserved",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Reserved",
+            "Tug",
+            "Cargo-HazardA",
+            "Dredger",
+            "GeneralCargo"
+        ],
+        "options": "A. Reserved   B. Tug   C. Cargo-HazardA   D. Dredger   E. GeneralCargo",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C10S03N0034",
+        "question_id": 101,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C11S01N0001.png",
+        "ground_truth": "SAR",
+        "ground_truth_option": "D",
+        "options_list": [
+            "MotorHopper",
+            "LawEnforce",
+            "Passenger",
+            "SAR",
+            "Tanker-HazardD"
+        ],
+        "options": "A. MotorHopper   B. LawEnforce   C. Passenger   D. SAR   E. Tanker-HazardD",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C11S01N0001",
+        "question_id": 102,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C11S01N0002.png",
+        "ground_truth": "SAR",
+        "ground_truth_option": "A",
+        "options_list": [
+            "SAR",
+            "OilProductsTanker",
+            "LocalVessel",
+            "NavigationAid",
+            "FloatingStorage_Production"
+        ],
+        "options": "A. SAR   B. OilProductsTanker   C. LocalVessel   D. NavigationAid   E. FloatingStorage_Production",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C11S01N0002",
+        "question_id": 103,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C11S01N0003.png",
+        "ground_truth": "SAR",
+        "ground_truth_option": "E",
+        "options_list": [
+            "Salvage_RescueVessel",
+            "IsolatedDanger",
+            "AggregatesCarrier",
+            "Pleasurecraft",
+            "SAR"
+        ],
+        "options": "A. Salvage_RescueVessel   B. IsolatedDanger   C. AggregatesCarrier   D. Pleasurecraft   E. SAR",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C11S01N0003",
+        "question_id": 104,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C11S02N0001.png",
+        "ground_truth": "SARAircraft",
+        "ground_truth_option": "A",
+        "options_list": [
+            "SARAircraft",
+            "FireFightingVessel",
+            "ContainerShip",
+            "DiveVessel",
+            "Research_SurveyVessel"
+        ],
+        "options": "A. SARAircraft   B. FireFightingVessel   C. ContainerShip   D. DiveVessel   E. Research_SurveyVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C11S02N0001",
+        "question_id": 105,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C11S03N0001.png",
+        "ground_truth": "Salvage_RescueVessel",
+        "ground_truth_option": "E",
+        "options_list": [
+            "Anti-Pollution",
+            "FireFightingVessel",
+            "CrudeOilTanker",
+            "Ro-RoCargo",
+            "Salvage_RescueVessel"
+        ],
+        "options": "A. Anti-Pollution   B. FireFightingVessel   C. CrudeOilTanker   D. Ro-RoCargo   E. Salvage_RescueVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C11S03N0001",
+        "question_id": 106,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S01N0002.png",
+        "ground_truth": "Asphalt_BitumenTanker",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Asphalt_BitumenTanker",
+            "FireFightingVessel",
+            "Trawler",
+            "SpecialCraft",
+            "CutterSuctionDredger"
+        ],
+        "options": "A. Asphalt_BitumenTanker   B. FireFightingVessel   C. Trawler   D. SpecialCraft   E. CutterSuctionDredger",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S01N0002",
+        "question_id": 107,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S02N0001.png",
+        "ground_truth": "BunkeringTanker",
+        "ground_truth_option": "B",
+        "options_list": [
+            "Engagedindredgingorunderwateroperations",
+            "BunkeringTanker",
+            "FloatingStorage_Production",
+            "AggregatesCarrier",
+            "Research_SurveyVessel"
+        ],
+        "options": "A. Engagedindredgingorunderwateroperations   B. BunkeringTanker   C. FloatingStorage_Production   D. AggregatesCarrier   E. Research_SurveyVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S02N0001",
+        "question_id": 108,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S03N0002.png",
+        "ground_truth": "CO2Tanker",
+        "ground_truth_option": "C",
+        "options_list": [
+            "ChemicalTanker",
+            "MotorHopper",
+            "CO2Tanker",
+            "ContainerShip",
+            "HeavyLoadCarrier"
+        ],
+        "options": "A. ChemicalTanker   B. MotorHopper   C. CO2Tanker   D. ContainerShip   E. HeavyLoadCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S03N0002",
+        "question_id": 109,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S04N0001.png",
+        "ground_truth": "ChemicalTanker",
+        "ground_truth_option": "E",
+        "options_list": [
+            "OreCarrier",
+            "IsolatedDanger",
+            "Tanker",
+            "NavigationAid",
+            "ChemicalTanker"
+        ],
+        "options": "A. OreCarrier   B. IsolatedDanger   C. Tanker   D. NavigationAid   E. ChemicalTanker",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S04N0001",
+        "question_id": 110,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S05N0003.png",
+        "ground_truth": "CrudeOilTanker",
+        "ground_truth_option": "B",
+        "options_list": [
+            "CutterSuctionDredger",
+            "CrudeOilTanker",
+            "CO2Tanker",
+            "HighSpeedCraft",
+            "FloatingStorage_Production"
+        ],
+        "options": "A. CutterSuctionDredger   B. CrudeOilTanker   C. CO2Tanker   D. HighSpeedCraft   E. FloatingStorage_Production",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S05N0003",
+        "question_id": 111,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S05N0008.png",
+        "ground_truth": "CrudeOilTanker",
+        "ground_truth_option": "E",
+        "options_list": [
+            "BulkCarrier",
+            "Trawler",
+            "UtilityVessel",
+            "Cargo-HazardB",
+            "CrudeOilTanker"
+        ],
+        "options": "A. BulkCarrier   B. Trawler   C. UtilityVessel   D. Cargo-HazardB   E. CrudeOilTanker",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S05N0008",
+        "question_id": 112,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S05N0010.png",
+        "ground_truth": "CrudeOilTanker",
+        "ground_truth_option": "E",
+        "options_list": [
+            "Cargo-HazardB",
+            "DrillingJackUp",
+            "PollutionControlVessel",
+            "HeavyLoadCarrier",
+            "CrudeOilTanker"
+        ],
+        "options": "A. Cargo-HazardB   B. DrillingJackUp   C. PollutionControlVessel   D. HeavyLoadCarrier   E. CrudeOilTanker",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S05N0010",
+        "question_id": 113,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S06N0004.png",
+        "ground_truth": "LPGTanker",
+        "ground_truth_option": "E",
+        "options_list": [
+            "GeneralCargo",
+            "UtilityVessel",
+            "DivingSupportVessel",
+            "PortTender",
+            "LPGTanker"
+        ],
+        "options": "A. GeneralCargo   B. UtilityVessel   C. DivingSupportVessel   D. PortTender   E. LPGTanker",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S06N0004",
+        "question_id": 114,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S07N0006.png",
+        "ground_truth": "OilProductsTanker",
+        "ground_truth_option": "E",
+        "options_list": [
+            "WellStimulationVessel",
+            "Tug",
+            "UtilityVessel",
+            "Towing",
+            "OilProductsTanker"
+        ],
+        "options": "A. WellStimulationVessel   B. Tug   C. UtilityVessel   D. Towing   E. OilProductsTanker",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S07N0006",
+        "question_id": 115,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S08N0004.png",
+        "ground_truth": "Oil_ChemicalTanker",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Oil_ChemicalTanker",
+            "WellStimulationVessel",
+            "SpecialCraft",
+            "SupplyVessel",
+            "Salvage_RescueVessel"
+        ],
+        "options": "A. Oil_ChemicalTanker   B. WellStimulationVessel   C. SpecialCraft   D. SupplyVessel   E. Salvage_RescueVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S08N0004",
+        "question_id": 116,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S08N0013.png",
+        "ground_truth": "Oil_ChemicalTanker",
+        "ground_truth_option": "B",
+        "options_list": [
+            "OffshoreSupplyShip",
+            "Oil_ChemicalTanker",
+            "Tug",
+            "Passenger",
+            "VehiclesCarrier"
+        ],
+        "options": "A. OffshoreSupplyShip   B. Oil_ChemicalTanker   C. Tug   D. Passenger   E. VehiclesCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S08N0013",
+        "question_id": 117,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S08N0016.png",
+        "ground_truth": "Oil_ChemicalTanker",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Oil_ChemicalTanker",
+            "Othertypeofship",
+            "CargoShip",
+            "Cargo-HazardA",
+            "SelfDischargingBulkCarrier"
+        ],
+        "options": "A. Oil_ChemicalTanker   B. Othertypeofship   C. CargoShip   D. Cargo-HazardA   E. SelfDischargingBulkCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S08N0016",
+        "question_id": 118,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S09N0062.png",
+        "ground_truth": "Tanker",
+        "ground_truth_option": "B",
+        "options_list": [
+            "TrailingSuctionHopperDredger",
+            "Tanker",
+            "MooringVessel",
+            "AggregatesCarrier",
+            "Tanker-HazardD"
+        ],
+        "options": "A. TrailingSuctionHopperDredger   B. Tanker   C. MooringVessel   D. AggregatesCarrier   E. Tanker-HazardD",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S09N0062",
+        "question_id": 119,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S09N0090.png",
+        "ground_truth": "Tanker",
+        "ground_truth_option": "E",
+        "options_list": [
+            "DiveVessel",
+            "OilProductsTanker",
+            "Tanker-HazardA",
+            "SupplyVessel",
+            "Tanker"
+        ],
+        "options": "A. DiveVessel   B. OilProductsTanker   C. Tanker-HazardA   D. SupplyVessel   E. Tanker",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S09N0090",
+        "question_id": 120,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S10N0007.png",
+        "ground_truth": "Tanker-HazardA",
+        "ground_truth_option": "C",
+        "options_list": [
+            "DivingSupportVessel",
+            "FireFightingVessel",
+            "Tanker-HazardA",
+            "PortTender",
+            "OreCarrier"
+        ],
+        "options": "A. DivingSupportVessel   B. FireFightingVessel   C. Tanker-HazardA   D. PortTender   E. OreCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S10N0007",
+        "question_id": 121,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S10N0013.png",
+        "ground_truth": "Tanker-HazardA",
+        "ground_truth_option": "E",
+        "options_list": [
+            "Cargo-HazardD",
+            "Oil_ChemicalTanker",
+            "BulkCarrier",
+            "Dredger",
+            "Tanker-HazardA"
+        ],
+        "options": "A. Cargo-HazardD   B. Oil_ChemicalTanker   C. BulkCarrier   D. Dredger   E. Tanker-HazardA",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S10N0013",
+        "question_id": 122,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S10N0015.png",
+        "ground_truth": "Tanker-HazardA",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Tanker-HazardA",
+            "SARAircraft",
+            "SAR",
+            "HighSpeedCraft",
+            "HopperDredger"
+        ],
+        "options": "A. Tanker-HazardA   B. SARAircraft   C. SAR   D. HighSpeedCraft   E. HopperDredger",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S10N0015",
+        "question_id": 123,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S11N0002.png",
+        "ground_truth": "Tanker-HazardB",
+        "ground_truth_option": "E",
+        "options_list": [
+            "Tug",
+            "MotorHopper",
+            "SailingVessel",
+            "CO2Tanker",
+            "Tanker-HazardB"
+        ],
+        "options": "A. Tug   B. MotorHopper   C. SailingVessel   D. CO2Tanker   E. Tanker-HazardB",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S11N0002",
+        "question_id": 124,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S12N0005.png",
+        "ground_truth": "Tanker-HazardC",
+        "ground_truth_option": "B",
+        "options_list": [
+            "BunkeringTanker",
+            "Tanker-HazardC",
+            "Fishing",
+            "CrewBoat",
+            "CargoShip"
+        ],
+        "options": "A. BunkeringTanker   B. Tanker-HazardC   C. Fishing   D. CrewBoat   E. CargoShip",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S12N0005",
+        "question_id": 125,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C12S13N0001.png",
+        "ground_truth": "Tanker-HazardD",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Tanker-HazardD",
+            "IsolatedDanger",
+            "Ro-RoCargo",
+            "DrillingJackUp",
+            "NavigationAid"
+        ],
+        "options": "A. Tanker-HazardD   B. IsolatedDanger   C. Ro-RoCargo   D. DrillingJackUp   E. NavigationAid",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C12S13N0001",
+        "question_id": 126,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C13S01N0001.png",
+        "ground_truth": "BulkCarrier",
+        "ground_truth_option": "A",
+        "options_list": [
+            "BulkCarrier",
+            "LocalVessel",
+            "MooringVessel",
+            "ContainerShip",
+            "SpecialCraft"
+        ],
+        "options": "A. BulkCarrier   B. LocalVessel   C. MooringVessel   D. ContainerShip   E. SpecialCraft",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C13S01N0001",
+        "question_id": 127,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C13S02N0001.png",
+        "ground_truth": "FireFightingVessel",
+        "ground_truth_option": "E",
+        "options_list": [
+            "SelfDischargingBulkCarrier",
+            "Tanker",
+            "CutterSuctionDredger",
+            "BunkeringTanker",
+            "FireFightingVessel"
+        ],
+        "options": "A. SelfDischargingBulkCarrier   B. Tanker   C. CutterSuctionDredger   D. BunkeringTanker   E. FireFightingVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C13S02N0001",
+        "question_id": 128,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C13S03N0001.png",
+        "ground_truth": "MooringVessel",
+        "ground_truth_option": "D",
+        "options_list": [
+            "Platform",
+            "WingInGrnd",
+            "CO2Tanker",
+            "MooringVessel",
+            "OilProductsTanker"
+        ],
+        "options": "A. Platform   B. WingInGrnd   C. CO2Tanker   D. MooringVessel   E. OilProductsTanker",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C13S03N0001",
+        "question_id": 129,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C13S04N0002.png",
+        "ground_truth": "OffshoreSupplyShip",
+        "ground_truth_option": "E",
+        "options_list": [
+            "Platform",
+            "Dredger",
+            "DivingSupportVessel",
+            "Ro-RoCargo",
+            "OffshoreSupplyShip"
+        ],
+        "options": "A. Platform   B. Dredger   C. DivingSupportVessel   D. Ro-RoCargo   E. OffshoreSupplyShip",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C13S04N0002",
+        "question_id": 130,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C13S05N0001.png",
+        "ground_truth": "Research_SurveyVessel",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Research_SurveyVessel",
+            "CargoShip",
+            "Reserved",
+            "SARAircraft",
+            "OreCarrier"
+        ],
+        "options": "A. Research_SurveyVessel   B. CargoShip   C. Reserved   D. SARAircraft   E. OreCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C13S05N0001",
+        "question_id": 131,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C13S06N0001.png",
+        "ground_truth": "SupplyVessel",
+        "ground_truth_option": "C",
+        "options_list": [
+            "BunkeringTanker",
+            "WellStimulationVessel",
+            "SupplyVessel",
+            "AggregatesCarrier",
+            "SailingVessel"
+        ],
+        "options": "A. BunkeringTanker   B. WellStimulationVessel   C. SupplyVessel   D. AggregatesCarrier   E. SailingVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C13S06N0001",
+        "question_id": 132,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C13S07N0002.png",
+        "ground_truth": "Tug",
+        "ground_truth_option": "C",
+        "options_list": [
+            "CrewBoat",
+            "BulkCarrier",
+            "Tug",
+            "BunkeringTanker",
+            "ChemicalTanker"
+        ],
+        "options": "A. CrewBoat   B. BulkCarrier   C. Tug   D. BunkeringTanker   E. ChemicalTanker",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C13S07N0002",
+        "question_id": 133,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C13S07N0007.png",
+        "ground_truth": "Tug",
+        "ground_truth_option": "B",
+        "options_list": [
+            "PipeLayer",
+            "Tug",
+            "Reefer",
+            "SailingVessel",
+            "ChemicalTanker"
+        ],
+        "options": "A. PipeLayer   B. Tug   C. Reefer   D. SailingVessel   E. ChemicalTanker",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C13S07N0007",
+        "question_id": 134,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C13S07N0049.png",
+        "ground_truth": "Tug",
+        "ground_truth_option": "E",
+        "options_list": [
+            "SpecialCraft",
+            "FireFightingVessel",
+            "LPGTanker",
+            "HopperDredger",
+            "Tug"
+        ],
+        "options": "A. SpecialCraft   B. FireFightingVessel   C. LPGTanker   D. HopperDredger   E. Tug",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C13S07N0049",
+        "question_id": 135,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C14S01N0001.png",
+        "ground_truth": "DrillingJackUp",
+        "ground_truth_option": "B",
+        "options_list": [
+            "SelfDischargingBulkCarrier",
+            "DrillingJackUp",
+            "MultiPurposeOffshoreVessel",
+            "PilotVessel",
+            "UtilityVessel"
+        ],
+        "options": "A. SelfDischargingBulkCarrier   B. DrillingJackUp   C. MultiPurposeOffshoreVessel   D. PilotVessel   E. UtilityVessel",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C14S01N0001",
+        "question_id": 136,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C14S02N0001.png",
+        "ground_truth": "FloatingStorage_Production",
+        "ground_truth_option": "E",
+        "options_list": [
+            "MooringVessel",
+            "CrewBoat",
+            "SailingVessel",
+            "CutterSuctionDredger",
+            "FloatingStorage_Production"
+        ],
+        "options": "A. MooringVessel   B. CrewBoat   C. SailingVessel   D. CutterSuctionDredger   E. FloatingStorage_Production",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C14S02N0001",
+        "question_id": 137,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C14S03N0001.png",
+        "ground_truth": "OffshoreSupplyShip",
+        "ground_truth_option": "D",
+        "options_list": [
+            "FireFightingVessel",
+            "Ro-RoCargo",
+            "Ro-Ro_PassengerShip",
+            "OffshoreSupplyShip",
+            "SelfDischargingBulkCarrier"
+        ],
+        "options": "A. FireFightingVessel   B. Ro-RoCargo   C. Ro-Ro_PassengerShip   D. OffshoreSupplyShip   E. SelfDischargingBulkCarrier",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C14S03N0001",
+        "question_id": 138,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C14S04N0001.png",
+        "ground_truth": "Platform",
+        "ground_truth_option": "A",
+        "options_list": [
+            "Platform",
+            "GeneralCargo",
+            "SpecialVessel",
+            "Unspecified",
+            "LawEnforce"
+        ],
+        "options": "A. Platform   B. GeneralCargo   C. SpecialVessel   D. Unspecified   E. LawEnforce",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C14S04N0001",
+        "question_id": 139,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C15S01N0001.png",
+        "ground_truth": "DrillingJackUp",
+        "ground_truth_option": "D",
+        "options_list": [
+            "PatrolVessel",
+            "Dredger",
+            "Tug",
+            "DrillingJackUp",
+            "MotorHopper"
+        ],
+        "options": "A. PatrolVessel   B. Dredger   C. Tug   D. DrillingJackUp   E. MotorHopper",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C15S01N0001",
+        "question_id": 140,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "Ship_C15S02N0012.png",
+        "ground_truth": "WingInGrnd",
+        "ground_truth_option": "B",
+        "options_list": [
+            "PipeLayer",
+            "WingInGrnd",
+            "SARAircraft",
+            "HopperDredger",
+            "CargoShip"
+        ],
+        "options": "A. PipeLayer   B. WingInGrnd   C. SARAircraft   D. HopperDredger   E. CargoShip",
+        "prompts": [
+            "What type of ship is visible in this image?",
+            "Which class or category does the identified vessel belong to?",
+            "What is the primary role or purpose of the ship in this image?",
+            "Which specific type of military or civilian ship is shown in the scene?",
+            "What class of naval or transport vessel is depicted in the given image?"
+        ],
+        "task": "Ship Type Classification",
+        "image_name": "Ship_C15S02N0012",
+        "question_id": 141,
+        "cls_description": "High Difficulty"
+    }
+]

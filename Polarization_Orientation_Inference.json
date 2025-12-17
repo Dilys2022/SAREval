@@ -1,0 +1,4602 @@
+[
+    {
+        "image_path": "08244.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HH   C. VV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08244.jpg",
+        "question_id": 0,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08245.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HH   C. VH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08245.jpg",
+        "question_id": 1,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08246.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VV   C. VH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08246.jpg",
+        "question_id": 2,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08247.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HH   C. HH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08247.jpg",
+        "question_id": 3,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08248.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HH   C. VH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08248.jpg",
+        "question_id": 4,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08249.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HV   C. HH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08249.jpg",
+        "question_id": 5,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08250.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VV   C. HH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08250.jpg",
+        "question_id": 6,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08251.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HH   C. HH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08251.jpg",
+        "question_id": 7,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08252.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HH   C. HH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08252.jpg",
+        "question_id": 8,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08253.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HH   C. HH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08253.jpg",
+        "question_id": 9,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08254.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HH   C. HH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08254.jpg",
+        "question_id": 10,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08255.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HV   C. VV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08255.jpg",
+        "question_id": 11,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08256.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VH   C. VV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08256.jpg",
+        "question_id": 12,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08257.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HV   C. HH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08257.jpg",
+        "question_id": 13,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08258.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HH   C. HH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08258.jpg",
+        "question_id": 14,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08259.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HH   C. VH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08259.jpg",
+        "question_id": 15,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08260.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HH   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08260.jpg",
+        "question_id": 16,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08261.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HH   C. HV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08261.jpg",
+        "question_id": 17,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08262.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. HH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08262.jpg",
+        "question_id": 18,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08263.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HV   C. HH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08263.jpg",
+        "question_id": 19,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08264.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HH   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08264.jpg",
+        "question_id": 20,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08265.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VV   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08265.jpg",
+        "question_id": 21,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08266.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HV   C. VH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08266.jpg",
+        "question_id": 22,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08267.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HH   C. VH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08267.jpg",
+        "question_id": 23,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08268.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HH   C. HH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08268.jpg",
+        "question_id": 24,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08269.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HV   C. VV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08269.jpg",
+        "question_id": 25,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08270.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08270.jpg",
+        "question_id": 26,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08271.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VV   C. HV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08271.jpg",
+        "question_id": 27,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08272.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HH   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08272.jpg",
+        "question_id": 28,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08273.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VH   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08273.jpg",
+        "question_id": 29,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08274.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HH   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08274.jpg",
+        "question_id": 30,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08275.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VH   C. VV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08275.jpg",
+        "question_id": 31,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08276.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HH   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08276.jpg",
+        "question_id": 32,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08277.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HH   C. HV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08277.jpg",
+        "question_id": 33,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08278.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HV   C. HH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08278.jpg",
+        "question_id": 34,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08279.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HH   C. HH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08279.jpg",
+        "question_id": 35,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08280.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VV   C. VH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08280.jpg",
+        "question_id": 36,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08281.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HH   C. VH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08281.jpg",
+        "question_id": 37,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08282.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VH   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08282.jpg",
+        "question_id": 38,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08283.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VV   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08283.jpg",
+        "question_id": 39,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08284.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VV   C. HH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08284.jpg",
+        "question_id": 40,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08285.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HH   C. HH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08285.jpg",
+        "question_id": 41,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08286.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HV   C. HH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08286.jpg",
+        "question_id": 42,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08287.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HH   C. VV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08287.jpg",
+        "question_id": 43,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08288.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HH   C. VV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08288.jpg",
+        "question_id": 44,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08289.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08289.jpg",
+        "question_id": 45,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08290.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HH   C. VH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08290.jpg",
+        "question_id": 46,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08291.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HH   C. HH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08291.jpg",
+        "question_id": 47,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08292.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HH   C. HH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08292.jpg",
+        "question_id": 48,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08293.jpg",
+        "ground_truth": "HH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VH   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08293.jpg",
+        "question_id": 49,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "010531.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HV   C. VH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "010531.jpg",
+        "question_id": 50,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "010532.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "010532.jpg",
+        "question_id": 51,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "010533.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HV   C. VV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "010533.jpg",
+        "question_id": 52,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "010534.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HV   C. HH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "010534.jpg",
+        "question_id": 53,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "010535.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HV   C. HH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "010535.jpg",
+        "question_id": 54,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08372.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HH   C. VH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08372.jpg",
+        "question_id": 55,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08373.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HV   C. VH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08373.jpg",
+        "question_id": 56,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08374.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08374.jpg",
+        "question_id": 57,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08375.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VH   C. HV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08375.jpg",
+        "question_id": 58,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08376.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HH   C. VH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08376.jpg",
+        "question_id": 59,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08377.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HV   C. HV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08377.jpg",
+        "question_id": 60,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08378.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VH   C. HV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08378.jpg",
+        "question_id": 61,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08379.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VH   C. HV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08379.jpg",
+        "question_id": 62,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08380.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08380.jpg",
+        "question_id": 63,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08381.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08381.jpg",
+        "question_id": 64,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08382.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HV   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08382.jpg",
+        "question_id": 65,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08383.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HV   C. HH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08383.jpg",
+        "question_id": 66,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08384.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HV   C. VV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08384.jpg",
+        "question_id": 67,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08385.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VV   C. VH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08385.jpg",
+        "question_id": 68,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08386.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HH   C. HV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08386.jpg",
+        "question_id": 69,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08387.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HV   C. VH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08387.jpg",
+        "question_id": 70,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08388.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HH   C. VV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08388.jpg",
+        "question_id": 71,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08389.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VV   C. VH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08389.jpg",
+        "question_id": 72,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08390.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08390.jpg",
+        "question_id": 73,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08391.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HV   C. HH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08391.jpg",
+        "question_id": 74,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08392.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HV   C. VV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08392.jpg",
+        "question_id": 75,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08393.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HV   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08393.jpg",
+        "question_id": 76,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08394.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VH   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08394.jpg",
+        "question_id": 77,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08395.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. VV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08395.jpg",
+        "question_id": 78,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08396.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VH   C. HH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08396.jpg",
+        "question_id": 79,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08397.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HV   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08397.jpg",
+        "question_id": 80,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08398.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VV   C. VH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08398.jpg",
+        "question_id": 81,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08399.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HV   C. HV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08399.jpg",
+        "question_id": 82,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08400.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HH   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08400.jpg",
+        "question_id": 83,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08401.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VV   C. HV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08401.jpg",
+        "question_id": 84,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08402.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HV   C. VV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08402.jpg",
+        "question_id": 85,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08403.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08403.jpg",
+        "question_id": 86,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08404.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HV   C. HH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08404.jpg",
+        "question_id": 87,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08405.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HV   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08405.jpg",
+        "question_id": 88,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08406.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08406.jpg",
+        "question_id": 89,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08407.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HV   C. HH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08407.jpg",
+        "question_id": 90,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08408.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HH   C. HV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08408.jpg",
+        "question_id": 91,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08409.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. HH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08409.jpg",
+        "question_id": 92,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08410.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. HH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08410.jpg",
+        "question_id": 93,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08411.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HV   C. VV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08411.jpg",
+        "question_id": 94,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08412.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. VV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08412.jpg",
+        "question_id": 95,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08413.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08413.jpg",
+        "question_id": 96,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08414.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08414.jpg",
+        "question_id": 97,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08415.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HH   C. HV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08415.jpg",
+        "question_id": 98,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08416.jpg",
+        "ground_truth": "HV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. VV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08416.jpg",
+        "question_id": 99,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0613.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0613.jpg",
+        "question_id": 100,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0614.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VH   C. VH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0614.jpg",
+        "question_id": 101,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0615.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HV   C. VH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0615.jpg",
+        "question_id": 102,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0616.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. VH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0616.jpg",
+        "question_id": 103,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0617.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HV   C. VH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0617.jpg",
+        "question_id": 104,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0618.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VH   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0618.jpg",
+        "question_id": 105,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0619.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HH   C. VH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0619.jpg",
+        "question_id": 106,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0620.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VH   C. VH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0620.jpg",
+        "question_id": 107,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0621.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VV   C. VH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0621.jpg",
+        "question_id": 108,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0622.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HV   C. VH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0622.jpg",
+        "question_id": 109,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0623.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. VH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0623.jpg",
+        "question_id": 110,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0624.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VH   C. VV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0624.jpg",
+        "question_id": 111,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0625.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HH   C. VH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0625.jpg",
+        "question_id": 112,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0626.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HH   C. VV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0626.jpg",
+        "question_id": 113,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0627.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HV   C. VH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0627.jpg",
+        "question_id": 114,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0628.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VV   C. HV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0628.jpg",
+        "question_id": 115,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0629.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0629.jpg",
+        "question_id": 116,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0630.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HV   C. VH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0630.jpg",
+        "question_id": 117,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0631.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HH   C. VH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0631.jpg",
+        "question_id": 118,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0632.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HV   C. VH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0632.jpg",
+        "question_id": 119,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0633.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HV   C. HH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0633.jpg",
+        "question_id": 120,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0634.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VH   C. VH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0634.jpg",
+        "question_id": 121,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0635.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VH   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0635.jpg",
+        "question_id": 122,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0636.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. HH   C. VH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0636.jpg",
+        "question_id": 123,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0637.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HV   C. VH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0637.jpg",
+        "question_id": 124,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0638.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. VH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0638.jpg",
+        "question_id": 125,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0639.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VH   C. VV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0639.jpg",
+        "question_id": 126,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0640.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0640.jpg",
+        "question_id": 127,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0641.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HH   C. VV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0641.jpg",
+        "question_id": 128,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0642.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HH   C. VV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0642.jpg",
+        "question_id": 129,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0643.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VV   C. VH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0643.jpg",
+        "question_id": 130,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0644.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VH   C. VH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0644.jpg",
+        "question_id": 131,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0645.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. VH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0645.jpg",
+        "question_id": 132,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0646.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. VH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0646.jpg",
+        "question_id": 133,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0647.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0647.jpg",
+        "question_id": 134,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0648.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VH   C. HH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0648.jpg",
+        "question_id": 135,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0649.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HV   C. VH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0649.jpg",
+        "question_id": 136,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0650.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VV   C. VH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0650.jpg",
+        "question_id": 137,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0651.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VH   C. VH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0651.jpg",
+        "question_id": 138,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0652.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HV   C. VV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0652.jpg",
+        "question_id": 139,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0653.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0653.jpg",
+        "question_id": 140,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0654.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. VH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0654.jpg",
+        "question_id": 141,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0655.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HV   C. VH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0655.jpg",
+        "question_id": 142,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0656.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HV   C. VV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0656.jpg",
+        "question_id": 143,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0657.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HH   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0657.jpg",
+        "question_id": 144,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0658.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HH   C. HV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0658.jpg",
+        "question_id": 145,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0659.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HH   C. VV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0659.jpg",
+        "question_id": 146,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0660.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VH   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0660.jpg",
+        "question_id": 147,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0661.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HV   C. HH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0661.jpg",
+        "question_id": 148,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0662.jpg",
+        "ground_truth": "VH",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. HH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "0662.jpg",
+        "question_id": 149,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "01.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HV   C. VV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "01.jpg",
+        "question_id": 150,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "010.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. VV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "010.jpg",
+        "question_id": 151,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "011.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. VV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "011.jpg",
+        "question_id": 152,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VH   C. VV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "012.jpg",
+        "question_id": 153,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "013.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "013.jpg",
+        "question_id": 154,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "014.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "014.jpg",
+        "question_id": 155,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "015.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VV   C. VH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "015.jpg",
+        "question_id": 156,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. VV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "016.jpg",
+        "question_id": 157,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "017.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HH   C. VV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "017.jpg",
+        "question_id": 158,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "018.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VV   C. VH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "018.jpg",
+        "question_id": 159,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "019.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HV   C. HH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "019.jpg",
+        "question_id": 160,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "02.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HH   C. VH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "02.jpg",
+        "question_id": 161,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "020.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VH   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "020.jpg",
+        "question_id": 162,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "021.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VH   C. HH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "021.jpg",
+        "question_id": 163,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "022.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HV   C. VV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "022.jpg",
+        "question_id": 164,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "023.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HH   C. VH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "023.jpg",
+        "question_id": 165,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "024.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HH   C. VV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "024.jpg",
+        "question_id": 166,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "025.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HV   C. VV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "025.jpg",
+        "question_id": 167,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "026.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HV   C. VH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "026.jpg",
+        "question_id": 168,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "027.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VH   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "027.jpg",
+        "question_id": 169,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "028.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VV   C. HV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "028.jpg",
+        "question_id": 170,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "029.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. HH   C. VV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "029.jpg",
+        "question_id": 171,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HV   C. VV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "03.jpg",
+        "question_id": 172,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "030.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VV   C. VV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "030.jpg",
+        "question_id": 173,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "031.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HH   C. VV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "031.jpg",
+        "question_id": 174,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "032.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "032.jpg",
+        "question_id": 175,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "033.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HV   C. VH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "033.jpg",
+        "question_id": 176,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "034.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VV   C. VH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "034.jpg",
+        "question_id": 177,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "035.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VH   C. HH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "035.jpg",
+        "question_id": 178,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "036.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VV   C. VV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "036.jpg",
+        "question_id": 179,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "037.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "037.jpg",
+        "question_id": 180,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "038.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VV   C. VH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "038.jpg",
+        "question_id": 181,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "039.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VH   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "039.jpg",
+        "question_id": 182,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VH   C. VV   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "04.jpg",
+        "question_id": 183,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "040.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VV   C. VH   D. HV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "040.jpg",
+        "question_id": 184,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "041.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VH   C. VV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "041.jpg",
+        "question_id": 185,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "042.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VH   C. VV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "042.jpg",
+        "question_id": 186,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "043.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. HH   C. VH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "043.jpg",
+        "question_id": 187,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "044.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VH   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "044.jpg",
+        "question_id": 188,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "045.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VV   C. VV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "045.jpg",
+        "question_id": 189,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "046.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VV   C. VV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "046.jpg",
+        "question_id": 190,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "047.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "A",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VV   C. HV   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "047.jpg",
+        "question_id": 191,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "048.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HH   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "048.jpg",
+        "question_id": 192,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "049.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. VV   C. HV   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "049.jpg",
+        "question_id": 193,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "05.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VV   C. VH   D. HH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "05.jpg",
+        "question_id": 194,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "050.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "050.jpg",
+        "question_id": 195,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VH   B. VV   C. HV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "06.jpg",
+        "question_id": 196,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "C",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HH   B. HV   C. VV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "07.jpg",
+        "question_id": 197,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "B",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. VV   B. VV   C. HH   D. VH",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "08.jpg",
+        "question_id": 198,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "09.jpg",
+        "ground_truth": "VV",
+        "ground_truth_option": "D",
+        "options_list": [
+            "HH",
+            "HV",
+            "VH",
+            "VV"
+        ],
+        "options": "A. HV   B. VH   C. VV   D. VV",
+        "prompts": [
+            "Analyze the scattering response in this SAR image. Which polarization mode does it represent?",
+            "Classify the polarization mode of this single-polarization SAR channel.",
+            "From the following four polarization options, select the one used to acquire this SAR image based on its scattering characteristics.",
+            "Which polarization was used to capture this image?",
+            "Identify the polarization mode of this image."
+        ],
+        "task": "Polarization Classification",
+        "image_name": "09.jpg",
+        "question_id": 199,
+        "cls_description": "High Difficulty"
+    }
+]

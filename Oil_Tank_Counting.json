@@ -1,0 +1,3146 @@
+[
+    {
+        "image_path": "010873.jpg",
+        "ground_truth": "24",
+        "ground_truth_option": "E",
+        "options_list": [
+            "27",
+            "25",
+            "23",
+            "21",
+            "24"
+        ],
+        "options": "A. 27   B. 25   C. 23   D. 21   E. 24",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "010873.jpg",
+        "question_id": 1,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "010897.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "A",
+        "options_list": [
+            "22",
+            "21",
+            "19",
+            "24",
+            "25"
+        ],
+        "options": "A. 22   B. 21   C. 19   D. 24   E. 25",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "010897.jpg",
+        "question_id": 2,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "011592.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "A",
+        "options_list": [
+            "21",
+            "23",
+            "20",
+            "22",
+            "24"
+        ],
+        "options": "A. 21   B. 23   C. 20   D. 22   E. 24",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "011592.jpg",
+        "question_id": 3,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "011600.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "D",
+        "options_list": [
+            "19",
+            "22",
+            "24",
+            "21",
+            "20"
+        ],
+        "options": "A. 19   B. 22   C. 24   D. 21   E. 20",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "011600.jpg",
+        "question_id": 4,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "011759.jpg",
+        "ground_truth": "28",
+        "ground_truth_option": "C",
+        "options_list": [
+            "29",
+            "26",
+            "28",
+            "25",
+            "30"
+        ],
+        "options": "A. 29   B. 26   C. 28   D. 25   E. 30",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "011759.jpg",
+        "question_id": 5,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "011786.jpg",
+        "ground_truth": "25",
+        "ground_truth_option": "D",
+        "options_list": [
+            "22",
+            "28",
+            "26",
+            "25",
+            "24"
+        ],
+        "options": "A. 22   B. 28   C. 26   D. 25   E. 24",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "011786.jpg",
+        "question_id": 6,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012458.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "C",
+        "options_list": [
+            "18",
+            "19",
+            "21",
+            "20",
+            "24"
+        ],
+        "options": "A. 18   B. 19   C. 21   D. 20   E. 24",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "012458.jpg",
+        "question_id": 7,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012465.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "C",
+        "options_list": [
+            "20",
+            "22",
+            "21",
+            "19",
+            "24"
+        ],
+        "options": "A. 20   B. 22   C. 21   D. 19   E. 24",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "012465.jpg",
+        "question_id": 8,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012603.jpg",
+        "ground_truth": "28",
+        "ground_truth_option": "A",
+        "options_list": [
+            "28",
+            "30",
+            "25",
+            "31",
+            "29"
+        ],
+        "options": "A. 28   B. 30   C. 25   D. 31   E. 29",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "012603.jpg",
+        "question_id": 9,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012604.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "D",
+        "options_list": [
+            "25",
+            "21",
+            "22",
+            "23",
+            "26"
+        ],
+        "options": "A. 25   B. 21   C. 22   D. 23   E. 26",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "012604.jpg",
+        "question_id": 10,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012629.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "E",
+        "options_list": [
+            "23",
+            "27",
+            "24",
+            "25",
+            "26"
+        ],
+        "options": "A. 23   B. 27   C. 24   D. 25   E. 26",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "012629.jpg",
+        "question_id": 11,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "012630.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "E",
+        "options_list": [
+            "20",
+            "19",
+            "23",
+            "24",
+            "21"
+        ],
+        "options": "A. 20   B. 19   C. 23   D. 24   E. 21",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "012630.jpg",
+        "question_id": 12,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "01567.jpg",
+        "ground_truth": "25",
+        "ground_truth_option": "A",
+        "options_list": [
+            "25",
+            "26",
+            "28",
+            "27",
+            "22"
+        ],
+        "options": "A. 25   B. 26   C. 28   D. 27   E. 22",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "01567.jpg",
+        "question_id": 13,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "01568.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "D",
+        "options_list": [
+            "26",
+            "29",
+            "25",
+            "27",
+            "28"
+        ],
+        "options": "A. 26   B. 29   C. 25   D. 27   E. 28",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "01568.jpg",
+        "question_id": 14,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "01595.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "B",
+        "options_list": [
+            "21",
+            "22",
+            "20",
+            "25",
+            "19"
+        ],
+        "options": "A. 21   B. 22   C. 20   D. 25   E. 19",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "01595.jpg",
+        "question_id": 15,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "01643.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "B",
+        "options_list": [
+            "26",
+            "23",
+            "21",
+            "22",
+            "24"
+        ],
+        "options": "A. 26   B. 23   C. 21   D. 22   E. 24",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "01643.jpg",
+        "question_id": 16,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016595.jpg",
+        "ground_truth": "90",
+        "ground_truth_option": "A",
+        "options_list": [
+            "90",
+            "87",
+            "89",
+            "91",
+            "93"
+        ],
+        "options": "A. 90   B. 87   C. 89   D. 91   E. 93",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "016595.jpg",
+        "question_id": 17,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016596.jpg",
+        "ground_truth": "90",
+        "ground_truth_option": "B",
+        "options_list": [
+            "87",
+            "90",
+            "89",
+            "93",
+            "88"
+        ],
+        "options": "A. 87   B. 90   C. 89   D. 93   E. 88",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "016596.jpg",
+        "question_id": 18,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "01661.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "B",
+        "options_list": [
+            "25",
+            "23",
+            "20",
+            "24",
+            "22"
+        ],
+        "options": "A. 25   B. 23   C. 20   D. 24   E. 22",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "01661.jpg",
+        "question_id": 19,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "01662.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "B",
+        "options_list": [
+            "21",
+            "22",
+            "19",
+            "25",
+            "20"
+        ],
+        "options": "A. 21   B. 22   C. 19   D. 25   E. 20",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "01662.jpg",
+        "question_id": 20,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016625.jpg",
+        "ground_truth": "24",
+        "ground_truth_option": "D",
+        "options_list": [
+            "22",
+            "21",
+            "27",
+            "24",
+            "25"
+        ],
+        "options": "A. 22   B. 21   C. 27   D. 24   E. 25",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "016625.jpg",
+        "question_id": 21,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016626.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "C",
+        "options_list": [
+            "18",
+            "19",
+            "21",
+            "24",
+            "20"
+        ],
+        "options": "A. 18   B. 19   C. 21   D. 24   E. 20",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "016626.jpg",
+        "question_id": 22,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "01663.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "A",
+        "options_list": [
+            "22",
+            "20",
+            "24",
+            "21",
+            "23"
+        ],
+        "options": "A. 22   B. 20   C. 24   D. 21   E. 23",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "01663.jpg",
+        "question_id": 23,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016648.jpg",
+        "ground_truth": "29",
+        "ground_truth_option": "E",
+        "options_list": [
+            "32",
+            "31",
+            "28",
+            "30",
+            "29"
+        ],
+        "options": "A. 32   B. 31   C. 28   D. 30   E. 29",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "016648.jpg",
+        "question_id": 24,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016649.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "B",
+        "options_list": [
+            "26",
+            "27",
+            "29",
+            "24",
+            "30"
+        ],
+        "options": "A. 26   B. 27   C. 29   D. 24   E. 30",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "016649.jpg",
+        "question_id": 25,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016650.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "C",
+        "options_list": [
+            "24",
+            "26",
+            "23",
+            "20",
+            "21"
+        ],
+        "options": "A. 24   B. 26   C. 23   D. 20   E. 21",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "016650.jpg",
+        "question_id": 26,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016676.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "D",
+        "options_list": [
+            "23",
+            "24",
+            "29",
+            "26",
+            "25"
+        ],
+        "options": "A. 23   B. 24   C. 29   D. 26   E. 25",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "016676.jpg",
+        "question_id": 27,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016677.jpg",
+        "ground_truth": "25",
+        "ground_truth_option": "D",
+        "options_list": [
+            "27",
+            "23",
+            "24",
+            "25",
+            "22"
+        ],
+        "options": "A. 27   B. 23   C. 24   D. 25   E. 22",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "016677.jpg",
+        "question_id": 28,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016678.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "C",
+        "options_list": [
+            "20",
+            "18",
+            "21",
+            "23",
+            "22"
+        ],
+        "options": "A. 20   B. 18   C. 21   D. 23   E. 22",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "016678.jpg",
+        "question_id": 29,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016718.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "D",
+        "options_list": [
+            "22",
+            "21",
+            "25",
+            "23",
+            "24"
+        ],
+        "options": "A. 22   B. 21   C. 25   D. 23   E. 24",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "016718.jpg",
+        "question_id": 30,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "01673.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "B",
+        "options_list": [
+            "26",
+            "27",
+            "24",
+            "30",
+            "25"
+        ],
+        "options": "A. 26   B. 27   C. 24   D. 30   E. 25",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "01673.jpg",
+        "question_id": 31,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "01674.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "C",
+        "options_list": [
+            "21",
+            "20",
+            "23",
+            "24",
+            "22"
+        ],
+        "options": "A. 21   B. 20   C. 23   D. 24   E. 22",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "01674.jpg",
+        "question_id": 32,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016793.jpg",
+        "ground_truth": "28",
+        "ground_truth_option": "A",
+        "options_list": [
+            "28",
+            "26",
+            "31",
+            "27",
+            "29"
+        ],
+        "options": "A. 28   B. 26   C. 31   D. 27   E. 29",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "016793.jpg",
+        "question_id": 33,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016794.jpg",
+        "ground_truth": "31",
+        "ground_truth_option": "B",
+        "options_list": [
+            "33",
+            "31",
+            "29",
+            "30",
+            "34"
+        ],
+        "options": "A. 33   B. 31   C. 29   D. 30   E. 34",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "016794.jpg",
+        "question_id": 34,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016838.jpg",
+        "ground_truth": "32",
+        "ground_truth_option": "A",
+        "options_list": [
+            "32",
+            "31",
+            "34",
+            "35",
+            "33"
+        ],
+        "options": "A. 32   B. 31   C. 34   D. 35   E. 33",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "016838.jpg",
+        "question_id": 35,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016839.jpg",
+        "ground_truth": "33",
+        "ground_truth_option": "D",
+        "options_list": [
+            "31",
+            "30",
+            "32",
+            "33",
+            "35"
+        ],
+        "options": "A. 31   B. 30   C. 32   D. 33   E. 35",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "016839.jpg",
+        "question_id": 36,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "016877.jpg",
+        "ground_truth": "25",
+        "ground_truth_option": "D",
+        "options_list": [
+            "22",
+            "28",
+            "23",
+            "25",
+            "26"
+        ],
+        "options": "A. 22   B. 28   C. 23   D. 25   E. 26",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "016877.jpg",
+        "question_id": 37,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "02351.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "A",
+        "options_list": [
+            "21",
+            "22",
+            "20",
+            "18",
+            "23"
+        ],
+        "options": "A. 21   B. 22   C. 20   D. 18   E. 23",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "02351.jpg",
+        "question_id": 38,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "023580.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "D",
+        "options_list": [
+            "19",
+            "21",
+            "23",
+            "22",
+            "25"
+        ],
+        "options": "A. 19   B. 21   C. 23   D. 22   E. 25",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "023580.jpg",
+        "question_id": 39,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "023648.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "D",
+        "options_list": [
+            "19",
+            "25",
+            "21",
+            "22",
+            "20"
+        ],
+        "options": "A. 19   B. 25   C. 21   D. 22   E. 20",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "023648.jpg",
+        "question_id": 40,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "023736.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "A",
+        "options_list": [
+            "22",
+            "24",
+            "19",
+            "21",
+            "25"
+        ],
+        "options": "A. 22   B. 24   C. 19   D. 21   E. 25",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "023736.jpg",
+        "question_id": 41,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "023777.jpg",
+        "ground_truth": "28",
+        "ground_truth_option": "E",
+        "options_list": [
+            "31",
+            "27",
+            "30",
+            "29",
+            "28"
+        ],
+        "options": "A. 31   B. 27   C. 30   D. 29   E. 28",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "023777.jpg",
+        "question_id": 42,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "023778.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "D",
+        "options_list": [
+            "26",
+            "30",
+            "25",
+            "27",
+            "29"
+        ],
+        "options": "A. 26   B. 30   C. 25   D. 27   E. 29",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "023778.jpg",
+        "question_id": 43,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "023808.jpg",
+        "ground_truth": "28",
+        "ground_truth_option": "E",
+        "options_list": [
+            "30",
+            "27",
+            "29",
+            "31",
+            "28"
+        ],
+        "options": "A. 30   B. 27   C. 29   D. 31   E. 28",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "023808.jpg",
+        "question_id": 44,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "023809.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "B",
+        "options_list": [
+            "24",
+            "27",
+            "29",
+            "28",
+            "25"
+        ],
+        "options": "A. 24   B. 27   C. 29   D. 28   E. 25",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "023809.jpg",
+        "question_id": 45,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "02541.jpg",
+        "ground_truth": "37",
+        "ground_truth_option": "A",
+        "options_list": [
+            "37",
+            "36",
+            "39",
+            "38",
+            "40"
+        ],
+        "options": "A. 37   B. 36   C. 39   D. 38   E. 40",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "02541.jpg",
+        "question_id": 46,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "02542.jpg",
+        "ground_truth": "37",
+        "ground_truth_option": "E",
+        "options_list": [
+            "35",
+            "34",
+            "40",
+            "38",
+            "37"
+        ],
+        "options": "A. 35   B. 34   C. 40   D. 38   E. 37",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "02542.jpg",
+        "question_id": 47,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "02543.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "C",
+        "options_list": [
+            "19",
+            "21",
+            "22",
+            "20",
+            "24"
+        ],
+        "options": "A. 19   B. 21   C. 22   D. 20   E. 24",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "02543.jpg",
+        "question_id": 48,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "02548.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "B",
+        "options_list": [
+            "23",
+            "21",
+            "19",
+            "20",
+            "24"
+        ],
+        "options": "A. 23   B. 21   C. 19   D. 20   E. 24",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "02548.jpg",
+        "question_id": 49,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "02549.jpg",
+        "ground_truth": "119",
+        "ground_truth_option": "B",
+        "options_list": [
+            "118",
+            "119",
+            "120",
+            "116",
+            "121"
+        ],
+        "options": "A. 118   B. 119   C. 120   D. 116   E. 121",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "02549.jpg",
+        "question_id": 50,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "02921.jpg",
+        "ground_truth": "45",
+        "ground_truth_option": "B",
+        "options_list": [
+            "46",
+            "45",
+            "44",
+            "47",
+            "42"
+        ],
+        "options": "A. 46   B. 45   C. 44   D. 47   E. 42",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "02921.jpg",
+        "question_id": 51,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03739.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "E",
+        "options_list": [
+            "18",
+            "22",
+            "24",
+            "20",
+            "21"
+        ],
+        "options": "A. 18   B. 22   C. 24   D. 20   E. 21",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03739.jpg",
+        "question_id": 52,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03740.jpg",
+        "ground_truth": "133",
+        "ground_truth_option": "D",
+        "options_list": [
+            "134",
+            "132",
+            "136",
+            "133",
+            "130"
+        ],
+        "options": "A. 134   B. 132   C. 136   D. 133   E. 130",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03740.jpg",
+        "question_id": 53,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03741.jpg",
+        "ground_truth": "133",
+        "ground_truth_option": "D",
+        "options_list": [
+            "130",
+            "135",
+            "134",
+            "133",
+            "131"
+        ],
+        "options": "A. 130   B. 135   C. 134   D. 133   E. 131",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03741.jpg",
+        "question_id": 54,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03770.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "B",
+        "options_list": [
+            "20",
+            "21",
+            "19",
+            "23",
+            "18"
+        ],
+        "options": "A. 20   B. 21   C. 19   D. 23   E. 18",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03770.jpg",
+        "question_id": 55,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03788.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "C",
+        "options_list": [
+            "24",
+            "19",
+            "21",
+            "23",
+            "22"
+        ],
+        "options": "A. 24   B. 19   C. 21   D. 23   E. 22",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03788.jpg",
+        "question_id": 56,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03789.jpg",
+        "ground_truth": "24",
+        "ground_truth_option": "B",
+        "options_list": [
+            "21",
+            "24",
+            "27",
+            "25",
+            "23"
+        ],
+        "options": "A. 21   B. 24   C. 27   D. 25   E. 23",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03789.jpg",
+        "question_id": 57,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03790.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "B",
+        "options_list": [
+            "20",
+            "23",
+            "21",
+            "24",
+            "22"
+        ],
+        "options": "A. 20   B. 23   C. 21   D. 24   E. 22",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03790.jpg",
+        "question_id": 58,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03818.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "D",
+        "options_list": [
+            "20",
+            "24",
+            "25",
+            "23",
+            "26"
+        ],
+        "options": "A. 20   B. 24   C. 25   D. 23   E. 26",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03818.jpg",
+        "question_id": 59,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03819.jpg",
+        "ground_truth": "25",
+        "ground_truth_option": "E",
+        "options_list": [
+            "27",
+            "26",
+            "28",
+            "22",
+            "25"
+        ],
+        "options": "A. 27   B. 26   C. 28   D. 22   E. 25",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03819.jpg",
+        "question_id": 60,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03820.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "B",
+        "options_list": [
+            "19",
+            "22",
+            "21",
+            "25",
+            "23"
+        ],
+        "options": "A. 19   B. 22   C. 21   D. 25   E. 23",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03820.jpg",
+        "question_id": 61,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03855.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "A",
+        "options_list": [
+            "22",
+            "21",
+            "24",
+            "19",
+            "25"
+        ],
+        "options": "A. 22   B. 21   C. 24   D. 19   E. 25",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03855.jpg",
+        "question_id": 62,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03917.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "A",
+        "options_list": [
+            "26",
+            "27",
+            "29",
+            "24",
+            "25"
+        ],
+        "options": "A. 26   B. 27   C. 29   D. 24   E. 25",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03917.jpg",
+        "question_id": 63,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03945.jpg",
+        "ground_truth": "25",
+        "ground_truth_option": "A",
+        "options_list": [
+            "25",
+            "22",
+            "28",
+            "26",
+            "24"
+        ],
+        "options": "A. 25   B. 22   C. 28   D. 26   E. 24",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03945.jpg",
+        "question_id": 64,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03946.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "E",
+        "options_list": [
+            "21",
+            "19",
+            "23",
+            "25",
+            "22"
+        ],
+        "options": "A. 21   B. 19   C. 23   D. 25   E. 22",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03946.jpg",
+        "question_id": 65,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03947.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "E",
+        "options_list": [
+            "26",
+            "25",
+            "20",
+            "21",
+            "23"
+        ],
+        "options": "A. 26   B. 25   C. 20   D. 21   E. 23",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03947.jpg",
+        "question_id": 66,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03959.jpg",
+        "ground_truth": "48",
+        "ground_truth_option": "B",
+        "options_list": [
+            "45",
+            "48",
+            "46",
+            "51",
+            "49"
+        ],
+        "options": "A. 45   B. 48   C. 46   D. 51   E. 49",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03959.jpg",
+        "question_id": 67,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03960.jpg",
+        "ground_truth": "48",
+        "ground_truth_option": "B",
+        "options_list": [
+            "46",
+            "48",
+            "45",
+            "50",
+            "49"
+        ],
+        "options": "A. 46   B. 48   C. 45   D. 50   E. 49",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03960.jpg",
+        "question_id": 68,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03967.jpg",
+        "ground_truth": "28",
+        "ground_truth_option": "E",
+        "options_list": [
+            "27",
+            "29",
+            "30",
+            "26",
+            "28"
+        ],
+        "options": "A. 27   B. 29   C. 30   D. 26   E. 28",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03967.jpg",
+        "question_id": 69,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "03968.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "E",
+        "options_list": [
+            "22",
+            "26",
+            "20",
+            "25",
+            "23"
+        ],
+        "options": "A. 22   B. 26   C. 20   D. 25   E. 23",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "03968.jpg",
+        "question_id": 70,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04685.jpg",
+        "ground_truth": "33",
+        "ground_truth_option": "C",
+        "options_list": [
+            "34",
+            "36",
+            "33",
+            "31",
+            "35"
+        ],
+        "options": "A. 34   B. 36   C. 33   D. 31   E. 35",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "04685.jpg",
+        "question_id": 71,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04686.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "B",
+        "options_list": [
+            "22",
+            "23",
+            "20",
+            "21",
+            "26"
+        ],
+        "options": "A. 22   B. 23   C. 20   D. 21   E. 26",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "04686.jpg",
+        "question_id": 72,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04687.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "D",
+        "options_list": [
+            "24",
+            "20",
+            "21",
+            "23",
+            "25"
+        ],
+        "options": "A. 24   B. 20   C. 21   D. 23   E. 25",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "04687.jpg",
+        "question_id": 73,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04688.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "E",
+        "options_list": [
+            "20",
+            "24",
+            "19",
+            "23",
+            "21"
+        ],
+        "options": "A. 20   B. 24   C. 19   D. 23   E. 21",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "04688.jpg",
+        "question_id": 74,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04854.jpg",
+        "ground_truth": "33",
+        "ground_truth_option": "B",
+        "options_list": [
+            "30",
+            "33",
+            "34",
+            "36",
+            "31"
+        ],
+        "options": "A. 30   B. 33   C. 34   D. 36   E. 31",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "04854.jpg",
+        "question_id": 75,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04855.jpg",
+        "ground_truth": "42",
+        "ground_truth_option": "B",
+        "options_list": [
+            "44",
+            "42",
+            "41",
+            "39",
+            "43"
+        ],
+        "options": "A. 44   B. 42   C. 41   D. 39   E. 43",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "04855.jpg",
+        "question_id": 76,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04856.jpg",
+        "ground_truth": "42",
+        "ground_truth_option": "B",
+        "options_list": [
+            "43",
+            "42",
+            "45",
+            "39",
+            "40"
+        ],
+        "options": "A. 43   B. 42   C. 45   D. 39   E. 40",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "04856.jpg",
+        "question_id": 77,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04857.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "E",
+        "options_list": [
+            "29",
+            "23",
+            "25",
+            "24",
+            "26"
+        ],
+        "options": "A. 29   B. 23   C. 25   D. 24   E. 26",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "04857.jpg",
+        "question_id": 78,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04865.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "B",
+        "options_list": [
+            "19",
+            "21",
+            "22",
+            "18",
+            "23"
+        ],
+        "options": "A. 19   B. 21   C. 22   D. 18   E. 23",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "04865.jpg",
+        "question_id": 79,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04866.jpg",
+        "ground_truth": "133",
+        "ground_truth_option": "A",
+        "options_list": [
+            "133",
+            "135",
+            "136",
+            "130",
+            "134"
+        ],
+        "options": "A. 133   B. 135   C. 136   D. 130   E. 134",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "04866.jpg",
+        "question_id": 80,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04867.jpg",
+        "ground_truth": "133",
+        "ground_truth_option": "A",
+        "options_list": [
+            "133",
+            "131",
+            "134",
+            "135",
+            "130"
+        ],
+        "options": "A. 133   B. 131   C. 134   D. 135   E. 130",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "04867.jpg",
+        "question_id": 81,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04989.jpg",
+        "ground_truth": "33",
+        "ground_truth_option": "C",
+        "options_list": [
+            "32",
+            "35",
+            "33",
+            "36",
+            "31"
+        ],
+        "options": "A. 32   B. 35   C. 33   D. 36   E. 31",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "04989.jpg",
+        "question_id": 82,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04990.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "B",
+        "options_list": [
+            "22",
+            "21",
+            "24",
+            "18",
+            "20"
+        ],
+        "options": "A. 22   B. 21   C. 24   D. 18   E. 20",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "04990.jpg",
+        "question_id": 83,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04991.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "E",
+        "options_list": [
+            "23",
+            "20",
+            "24",
+            "22",
+            "21"
+        ],
+        "options": "A. 23   B. 20   C. 24   D. 22   E. 21",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "04991.jpg",
+        "question_id": 84,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "04999.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "E",
+        "options_list": [
+            "29",
+            "28",
+            "23",
+            "24",
+            "26"
+        ],
+        "options": "A. 29   B. 28   C. 23   D. 24   E. 26",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "04999.jpg",
+        "question_id": 85,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "05000.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "C",
+        "options_list": [
+            "28",
+            "29",
+            "27",
+            "25",
+            "30"
+        ],
+        "options": "A. 28   B. 29   C. 27   D. 25   E. 30",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "05000.jpg",
+        "question_id": 86,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "05985.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "E",
+        "options_list": [
+            "20",
+            "25",
+            "24",
+            "26",
+            "23"
+        ],
+        "options": "A. 20   B. 25   C. 24   D. 26   E. 23",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "05985.jpg",
+        "question_id": 87,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "05986.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "C",
+        "options_list": [
+            "23",
+            "20",
+            "21",
+            "18",
+            "24"
+        ],
+        "options": "A. 23   B. 20   C. 21   D. 18   E. 24",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "05986.jpg",
+        "question_id": 88,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "05989.jpg",
+        "ground_truth": "132",
+        "ground_truth_option": "C",
+        "options_list": [
+            "129",
+            "133",
+            "132",
+            "135",
+            "134"
+        ],
+        "options": "A. 129   B. 133   C. 132   D. 135   E. 134",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "05989.jpg",
+        "question_id": 89,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06000.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "C",
+        "options_list": [
+            "21",
+            "23",
+            "22",
+            "19",
+            "25"
+        ],
+        "options": "A. 21   B. 23   C. 22   D. 19   E. 25",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06000.jpg",
+        "question_id": 90,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06002.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "D",
+        "options_list": [
+            "24",
+            "21",
+            "22",
+            "23",
+            "25"
+        ],
+        "options": "A. 24   B. 21   C. 22   D. 23   E. 25",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06002.jpg",
+        "question_id": 91,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06003.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "E",
+        "options_list": [
+            "30",
+            "28",
+            "25",
+            "26",
+            "27"
+        ],
+        "options": "A. 30   B. 28   C. 25   D. 26   E. 27",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06003.jpg",
+        "question_id": 92,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06004.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "C",
+        "options_list": [
+            "21",
+            "26",
+            "23",
+            "20",
+            "25"
+        ],
+        "options": "A. 21   B. 26   C. 23   D. 20   E. 25",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06004.jpg",
+        "question_id": 93,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06015.jpg",
+        "ground_truth": "25",
+        "ground_truth_option": "C",
+        "options_list": [
+            "23",
+            "26",
+            "25",
+            "27",
+            "22"
+        ],
+        "options": "A. 23   B. 26   C. 25   D. 27   E. 22",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06015.jpg",
+        "question_id": 94,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06056.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "B",
+        "options_list": [
+            "22",
+            "23",
+            "26",
+            "21",
+            "20"
+        ],
+        "options": "A. 22   B. 23   C. 26   D. 21   E. 20",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06056.jpg",
+        "question_id": 95,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06057.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "A",
+        "options_list": [
+            "22",
+            "25",
+            "23",
+            "21",
+            "20"
+        ],
+        "options": "A. 22   B. 25   C. 23   D. 21   E. 20",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06057.jpg",
+        "question_id": 96,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06063.jpg",
+        "ground_truth": "24",
+        "ground_truth_option": "A",
+        "options_list": [
+            "24",
+            "21",
+            "25",
+            "22",
+            "27"
+        ],
+        "options": "A. 24   B. 21   C. 25   D. 22   E. 27",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06063.jpg",
+        "question_id": 97,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06064.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "D",
+        "options_list": [
+            "23",
+            "29",
+            "28",
+            "26",
+            "25"
+        ],
+        "options": "A. 23   B. 29   C. 28   D. 26   E. 25",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06064.jpg",
+        "question_id": 98,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "0615.jpg",
+        "ground_truth": "35",
+        "ground_truth_option": "D",
+        "options_list": [
+            "37",
+            "33",
+            "38",
+            "35",
+            "36"
+        ],
+        "options": "A. 37   B. 33   C. 38   D. 35   E. 36",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "0615.jpg",
+        "question_id": 99,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06490.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "C",
+        "options_list": [
+            "24",
+            "22",
+            "23",
+            "26",
+            "20"
+        ],
+        "options": "A. 24   B. 22   C. 23   D. 26   E. 20",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06490.jpg",
+        "question_id": 100,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06493.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "B",
+        "options_list": [
+            "20",
+            "21",
+            "19",
+            "23",
+            "24"
+        ],
+        "options": "A. 20   B. 21   C. 19   D. 23   E. 24",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06493.jpg",
+        "question_id": 101,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06494.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "B",
+        "options_list": [
+            "22",
+            "21",
+            "23",
+            "18",
+            "19"
+        ],
+        "options": "A. 22   B. 21   C. 23   D. 18   E. 19",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06494.jpg",
+        "question_id": 102,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06535.jpg",
+        "ground_truth": "24",
+        "ground_truth_option": "B",
+        "options_list": [
+            "25",
+            "24",
+            "26",
+            "21",
+            "22"
+        ],
+        "options": "A. 25   B. 24   C. 26   D. 21   E. 22",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06535.jpg",
+        "question_id": 103,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06536.jpg",
+        "ground_truth": "32",
+        "ground_truth_option": "B",
+        "options_list": [
+            "35",
+            "32",
+            "29",
+            "33",
+            "30"
+        ],
+        "options": "A. 35   B. 32   C. 29   D. 33   E. 30",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06536.jpg",
+        "question_id": 104,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06537.jpg",
+        "ground_truth": "44",
+        "ground_truth_option": "D",
+        "options_list": [
+            "46",
+            "47",
+            "45",
+            "44",
+            "41"
+        ],
+        "options": "A. 46   B. 47   C. 45   D. 44   E. 41",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06537.jpg",
+        "question_id": 105,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06538.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "C",
+        "options_list": [
+            "22",
+            "23",
+            "21",
+            "24",
+            "19"
+        ],
+        "options": "A. 22   B. 23   C. 21   D. 24   E. 19",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06538.jpg",
+        "question_id": 106,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06601.jpg",
+        "ground_truth": "24",
+        "ground_truth_option": "D",
+        "options_list": [
+            "23",
+            "27",
+            "22",
+            "24",
+            "21"
+        ],
+        "options": "A. 23   B. 27   C. 22   D. 24   E. 21",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06601.jpg",
+        "question_id": 107,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06602.jpg",
+        "ground_truth": "36",
+        "ground_truth_option": "E",
+        "options_list": [
+            "34",
+            "37",
+            "38",
+            "35",
+            "36"
+        ],
+        "options": "A. 34   B. 37   C. 38   D. 35   E. 36",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06602.jpg",
+        "question_id": 108,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06696.jpg",
+        "ground_truth": "24",
+        "ground_truth_option": "A",
+        "options_list": [
+            "24",
+            "27",
+            "22",
+            "25",
+            "21"
+        ],
+        "options": "A. 24   B. 27   C. 22   D. 25   E. 21",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06696.jpg",
+        "question_id": 109,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06998.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "E",
+        "options_list": [
+            "20",
+            "21",
+            "23",
+            "19",
+            "22"
+        ],
+        "options": "A. 20   B. 21   C. 23   D. 19   E. 22",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06998.jpg",
+        "question_id": 110,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "06999.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "E",
+        "options_list": [
+            "22",
+            "23",
+            "19",
+            "18",
+            "21"
+        ],
+        "options": "A. 22   B. 23   C. 19   D. 18   E. 21",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "06999.jpg",
+        "question_id": 111,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07002.jpg",
+        "ground_truth": "129",
+        "ground_truth_option": "D",
+        "options_list": [
+            "126",
+            "127",
+            "132",
+            "129",
+            "130"
+        ],
+        "options": "A. 126   B. 127   C. 132   D. 129   E. 130",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07002.jpg",
+        "question_id": 112,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07013.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "E",
+        "options_list": [
+            "21",
+            "23",
+            "19",
+            "25",
+            "22"
+        ],
+        "options": "A. 21   B. 23   C. 19   D. 25   E. 22",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07013.jpg",
+        "question_id": 113,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07014.jpg",
+        "ground_truth": "27",
+        "ground_truth_option": "E",
+        "options_list": [
+            "28",
+            "30",
+            "26",
+            "24",
+            "27"
+        ],
+        "options": "A. 28   B. 30   C. 26   D. 24   E. 27",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07014.jpg",
+        "question_id": 114,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07015.jpg",
+        "ground_truth": "22",
+        "ground_truth_option": "D",
+        "options_list": [
+            "25",
+            "20",
+            "24",
+            "22",
+            "23"
+        ],
+        "options": "A. 25   B. 20   C. 24   D. 22   E. 23",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07015.jpg",
+        "question_id": 115,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07024.jpg",
+        "ground_truth": "24",
+        "ground_truth_option": "E",
+        "options_list": [
+            "22",
+            "23",
+            "27",
+            "25",
+            "24"
+        ],
+        "options": "A. 22   B. 23   C. 27   D. 25   E. 24",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07024.jpg",
+        "question_id": 116,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07061.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "A",
+        "options_list": [
+            "23",
+            "24",
+            "22",
+            "26",
+            "21"
+        ],
+        "options": "A. 23   B. 24   C. 22   D. 26   E. 21",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07061.jpg",
+        "question_id": 117,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07062.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "C",
+        "options_list": [
+            "19",
+            "20",
+            "21",
+            "24",
+            "18"
+        ],
+        "options": "A. 19   B. 20   C. 21   D. 24   E. 18",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07062.jpg",
+        "question_id": 118,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07068.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "E",
+        "options_list": [
+            "21",
+            "26",
+            "25",
+            "22",
+            "23"
+        ],
+        "options": "A. 21   B. 26   C. 25   D. 22   E. 23",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07068.jpg",
+        "question_id": 119,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07069.jpg",
+        "ground_truth": "26",
+        "ground_truth_option": "C",
+        "options_list": [
+            "27",
+            "23",
+            "26",
+            "28",
+            "29"
+        ],
+        "options": "A. 27   B. 23   C. 26   D. 28   E. 29",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07069.jpg",
+        "question_id": 120,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07538.jpg",
+        "ground_truth": "25",
+        "ground_truth_option": "D",
+        "options_list": [
+            "23",
+            "22",
+            "26",
+            "25",
+            "28"
+        ],
+        "options": "A. 23   B. 22   C. 26   D. 25   E. 28",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07538.jpg",
+        "question_id": 121,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07540.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "B",
+        "options_list": [
+            "23",
+            "21",
+            "20",
+            "22",
+            "19"
+        ],
+        "options": "A. 23   B. 21   C. 20   D. 22   E. 19",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07540.jpg",
+        "question_id": 122,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07541.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "E",
+        "options_list": [
+            "24",
+            "23",
+            "20",
+            "19",
+            "21"
+        ],
+        "options": "A. 24   B. 23   C. 20   D. 19   E. 21",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07541.jpg",
+        "question_id": 123,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07624.jpg",
+        "ground_truth": "30",
+        "ground_truth_option": "C",
+        "options_list": [
+            "29",
+            "32",
+            "30",
+            "27",
+            "31"
+        ],
+        "options": "A. 29   B. 32   C. 30   D. 27   E. 31",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07624.jpg",
+        "question_id": 124,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07625.jpg",
+        "ground_truth": "31",
+        "ground_truth_option": "B",
+        "options_list": [
+            "30",
+            "31",
+            "28",
+            "29",
+            "33"
+        ],
+        "options": "A. 30   B. 31   C. 28   D. 29   E. 33",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07625.jpg",
+        "question_id": 125,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07626.jpg",
+        "ground_truth": "43",
+        "ground_truth_option": "B",
+        "options_list": [
+            "40",
+            "43",
+            "42",
+            "44",
+            "46"
+        ],
+        "options": "A. 40   B. 43   C. 42   D. 44   E. 46",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07626.jpg",
+        "question_id": 126,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07627.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "E",
+        "options_list": [
+            "24",
+            "18",
+            "19",
+            "23",
+            "21"
+        ],
+        "options": "A. 24   B. 18   C. 19   D. 23   E. 21",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07627.jpg",
+        "question_id": 127,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07712.jpg",
+        "ground_truth": "30",
+        "ground_truth_option": "A",
+        "options_list": [
+            "30",
+            "28",
+            "27",
+            "32",
+            "31"
+        ],
+        "options": "A. 30   B. 28   C. 27   D. 32   E. 31",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07712.jpg",
+        "question_id": 128,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07857.jpg",
+        "ground_truth": "23",
+        "ground_truth_option": "D",
+        "options_list": [
+            "25",
+            "22",
+            "26",
+            "23",
+            "24"
+        ],
+        "options": "A. 25   B. 22   C. 26   D. 23   E. 24",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07857.jpg",
+        "question_id": 129,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "07898.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "D",
+        "options_list": [
+            "19",
+            "20",
+            "18",
+            "21",
+            "24"
+        ],
+        "options": "A. 19   B. 20   C. 18   D. 21   E. 24",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "07898.jpg",
+        "question_id": 130,
+        "cls_description": "High Difficulty"
+    },
+    {
+        "image_path": "08200.jpg",
+        "ground_truth": "21",
+        "ground_truth_option": "E",
+        "options_list": [
+            "22",
+            "18",
+            "23",
+            "19",
+            "21"
+        ],
+        "options": "A. 22   B. 18   C. 23   D. 19   E. 21",
+        "prompts": [
+            "How many oil tanks are visible in this SAR image?",
+            "What is the total count of oil storage tanks in the scene?",
+            "Please count the number of oil tanks shown in this image.",
+            "How many oil storage facilities can you identify in this SAR image?",
+            "What is the exact number of oil tanks present in this satellite image?"
+        ],
+        "task": "Oil Tank Counting",
+        "image_name": "08200.jpg",
+        "question_id": 0,
+        "cls_description": "High Difficulty"
+    }
+]

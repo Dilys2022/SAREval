@@ -1,0 +1,4717 @@
+[
+  {
+    "image_path": "image_0.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "B",
+    "options_list": [
+      "24.1",
+      "28.7",
+      "56.6",
+      "82.8"
+    ],
+    "options": "A. 56.6   B. 24.1   C. 28.7   D. 82.8",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_0.png",
+    "question_id": 0,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_1.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "D",
+    "options_list": [
+      "24.1",
+      "20.5",
+      "56.6",
+      "88.8"
+    ],
+    "options": "A. 88.8   B. 56.6   C. 20.5   D. 24.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_1.png",
+    "question_id": 1,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_2.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "A",
+    "options_list": [
+      "24.1",
+      "28.6",
+      "56.3",
+      "82.4"
+    ],
+    "options": "A. 24.1   B. 56.3   C. 82.4   D. 28.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_2.png",
+    "question_id": 2,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_3.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "A",
+    "options_list": [
+      "24.1",
+      "28.4",
+      "54.4",
+      "81.3"
+    ],
+    "options": "A. 24.1   B. 81.3   C. 28.4   D. 54.4",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_3.png",
+    "question_id": 3,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_4.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "C",
+    "options_list": [
+      "24.1",
+      "27.4",
+      "57.9",
+      "89.4"
+    ],
+    "options": "A. 27.4   B. 89.4   C. 24.1   D. 57.9",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_4.png",
+    "question_id": 4,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_5.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "A",
+    "options_list": [
+      "24.1",
+      "19.9",
+      "56.4",
+      "88.6"
+    ],
+    "options": "A. 24.1   B. 19.9   C. 88.6   D. 56.4",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_5.png",
+    "question_id": 5,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_6.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "D",
+    "options_list": [
+      "24.1",
+      "27.3",
+      "52.6",
+      "88.5"
+    ],
+    "options": "A. 88.5   B. 27.3   C. 52.6   D. 24.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_6.png",
+    "question_id": 6,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_7.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "C",
+    "options_list": [
+      "24.1",
+      "29.0",
+      "56.7",
+      "87.7"
+    ],
+    "options": "A. 29.0   B. 56.7   C. 24.1   D. 87.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_7.png",
+    "question_id": 7,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_8.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "D",
+    "options_list": [
+      "24.1",
+      "20.0",
+      "53.6",
+      "83.5"
+    ],
+    "options": "A. 83.5   B. 20.0   C. 53.6   D. 24.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_8.png",
+    "question_id": 8,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_9.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "A",
+    "options_list": [
+      "24.1",
+      "20.7",
+      "53.6",
+      "82.7"
+    ],
+    "options": "A. 24.1   B. 20.7   C. 82.7   D. 53.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_9.png",
+    "question_id": 9,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_10.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "D",
+    "options_list": [
+      "24.1",
+      "19.3",
+      "56.2",
+      "84.0"
+    ],
+    "options": "A. 84.0   B. 56.2   C. 19.3   D. 24.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_10.png",
+    "question_id": 10,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_11.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "C",
+    "options_list": [
+      "24.1",
+      "27.8",
+      "51.9",
+      "89.8"
+    ],
+    "options": "A. 89.8   B. 51.9   C. 24.1   D. 27.8",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_11.png",
+    "question_id": 11,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_12.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "D",
+    "options_list": [
+      "24.1",
+      "20.3",
+      "57.8",
+      "88.9"
+    ],
+    "options": "A. 20.3   B. 57.8   C. 88.9   D. 24.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_12.png",
+    "question_id": 12,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_13.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "B",
+    "options_list": [
+      "24.1",
+      "19.6",
+      "57.7",
+      "85.8"
+    ],
+    "options": "A. 19.6   B. 24.1   C. 85.8   D. 57.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_13.png",
+    "question_id": 13,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_14.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "A",
+    "options_list": [
+      "24.1",
+      "19.3",
+      "57.8",
+      "88.7"
+    ],
+    "options": "A. 24.1   B. 88.7   C. 57.8   D. 19.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_14.png",
+    "question_id": 14,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_15.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "A",
+    "options_list": [
+      "24.1",
+      "28.1",
+      "53.4",
+      "80.2"
+    ],
+    "options": "A. 24.1   B. 53.4   C. 28.1   D. 80.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_15.png",
+    "question_id": 15,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_16.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "A",
+    "options_list": [
+      "24.1",
+      "27.7",
+      "55.7",
+      "82.3"
+    ],
+    "options": "A. 24.1   B. 27.7   C. 82.3   D. 55.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_16.png",
+    "question_id": 16,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_17.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "B",
+    "options_list": [
+      "24.1",
+      "19.3",
+      "51.0",
+      "80.8"
+    ],
+    "options": "A. 80.8   B. 24.1   C. 51.0   D. 19.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_17.png",
+    "question_id": 17,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_18.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "A",
+    "options_list": [
+      "24.1",
+      "28.7",
+      "54.3",
+      "87.4"
+    ],
+    "options": "A. 24.1   B. 87.4   C. 28.7   D. 54.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_18.png",
+    "question_id": 18,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_19.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "D",
+    "options_list": [
+      "24.1",
+      "20.9",
+      "52.2",
+      "89.8"
+    ],
+    "options": "A. 52.2   B. 89.8   C. 20.9   D. 24.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_19.png",
+    "question_id": 19,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_20.png",
+    "ground_truth": "24.1",
+    "ground_truth_option": "A",
+    "options_list": [
+      "24.1",
+      "19.1",
+      "55.3",
+      "81.7"
+    ],
+    "options": "A. 24.1   B. 19.1   C. 55.3   D. 81.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_20.png",
+    "question_id": 20,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_21.png",
+    "ground_truth": "36.7",
+    "ground_truth_option": "C",
+    "options_list": [
+      "36.7",
+      "32.3",
+      "13.2",
+      "80.1"
+    ],
+    "options": "A. 13.2   B. 32.3   C. 36.7   D. 80.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_21.png",
+    "question_id": 21,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_22.png",
+    "ground_truth": "36.7",
+    "ground_truth_option": "A",
+    "options_list": [
+      "36.7",
+      "32.2",
+      "10.6",
+      "83.4"
+    ],
+    "options": "A. 36.7   B. 10.6   C. 32.2   D. 83.4",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_22.png",
+    "question_id": 22,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_23.png",
+    "ground_truth": "36.7",
+    "ground_truth_option": "A",
+    "options_list": [
+      "36.7",
+      "41.6",
+      "10.7",
+      "81.1"
+    ],
+    "options": "A. 36.7   B. 81.1   C. 41.6   D. 10.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_23.png",
+    "question_id": 23,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_24.png",
+    "ground_truth": "36.7",
+    "ground_truth_option": "A",
+    "options_list": [
+      "36.7",
+      "40.5",
+      "14.7",
+      "88.7"
+    ],
+    "options": "A. 36.7   B. 14.7   C. 88.7   D. 40.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_24.png",
+    "question_id": 24,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_25.png",
+    "ground_truth": "36.7",
+    "ground_truth_option": "A",
+    "options_list": [
+      "36.7",
+      "32.6",
+      "11.3",
+      "82.2"
+    ],
+    "options": "A. 36.7   B. 32.6   C. 82.2   D. 11.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_25.png",
+    "question_id": 25,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_26.png",
+    "ground_truth": "36.7",
+    "ground_truth_option": "D",
+    "options_list": [
+      "36.7",
+      "33.5",
+      "18.0",
+      "87.7"
+    ],
+    "options": "A. 87.7   B. 33.5   C. 18.0   D. 36.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_26.png",
+    "question_id": 26,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_27.png",
+    "ground_truth": "36.7",
+    "ground_truth_option": "A",
+    "options_list": [
+      "36.7",
+      "33.2",
+      "11.6",
+      "81.0"
+    ],
+    "options": "A. 36.7   B. 33.2   C. 11.6   D. 81.0",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_27.png",
+    "question_id": 27,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_28.png",
+    "ground_truth": "36.7",
+    "ground_truth_option": "A",
+    "options_list": [
+      "36.7",
+      "32.5",
+      "16.5",
+      "87.6"
+    ],
+    "options": "A. 36.7   B. 16.5   C. 32.5   D. 87.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_28.png",
+    "question_id": 28,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_29.png",
+    "ground_truth": "36.7",
+    "ground_truth_option": "C",
+    "options_list": [
+      "36.7",
+      "40.1",
+      "14.4",
+      "89.1"
+    ],
+    "options": "A. 89.1   B. 14.4   C. 36.7   D. 40.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_29.png",
+    "question_id": 29,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_30.png",
+    "ground_truth": "36.7",
+    "ground_truth_option": "C",
+    "options_list": [
+      "36.7",
+      "41.7",
+      "10.5",
+      "82.2"
+    ],
+    "options": "A. 10.5   B. 41.7   C. 36.7   D. 82.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_30.png",
+    "question_id": 30,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_31.png",
+    "ground_truth": "36.7",
+    "ground_truth_option": "B",
+    "options_list": [
+      "36.7",
+      "32.4",
+      "15.0",
+      "89.3"
+    ],
+    "options": "A. 89.3   B. 36.7   C. 32.4   D. 15.0",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_31.png",
+    "question_id": 31,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_32.png",
+    "ground_truth": "31.7",
+    "ground_truth_option": "D",
+    "options_list": [
+      "31.7",
+      "27.3",
+      "17.3",
+      "83.9"
+    ],
+    "options": "A. 27.3   B. 17.3   C. 83.9   D. 31.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_32.png",
+    "question_id": 32,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_33.png",
+    "ground_truth": "31.7",
+    "ground_truth_option": "C",
+    "options_list": [
+      "31.7",
+      "35.6",
+      "13.3",
+      "83.8"
+    ],
+    "options": "A. 83.8   B. 35.6   C. 31.7   D. 13.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_33.png",
+    "question_id": 33,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_34.png",
+    "ground_truth": "31.7",
+    "ground_truth_option": "C",
+    "options_list": [
+      "31.7",
+      "27.8",
+      "13.6",
+      "80.9"
+    ],
+    "options": "A. 13.6   B. 80.9   C. 31.7   D. 27.8",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_34.png",
+    "question_id": 34,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_35.png",
+    "ground_truth": "31.7",
+    "ground_truth_option": "D",
+    "options_list": [
+      "31.7",
+      "36.3",
+      "10.8",
+      "83.9"
+    ],
+    "options": "A. 10.8   B. 36.3   C. 83.9   D. 31.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_35.png",
+    "question_id": 35,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_36.png",
+    "ground_truth": "31.7",
+    "ground_truth_option": "A",
+    "options_list": [
+      "31.7",
+      "36.5",
+      "13.1",
+      "87.3"
+    ],
+    "options": "A. 31.7   B. 87.3   C. 13.1   D. 36.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_36.png",
+    "question_id": 36,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_37.png",
+    "ground_truth": "31.7",
+    "ground_truth_option": "A",
+    "options_list": [
+      "31.7",
+      "27.4",
+      "15.0",
+      "86.6"
+    ],
+    "options": "A. 31.7   B. 15.0   C. 27.4   D. 86.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_37.png",
+    "question_id": 37,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_38.png",
+    "ground_truth": "31.7",
+    "ground_truth_option": "C",
+    "options_list": [
+      "31.7",
+      "36.4",
+      "17.4",
+      "81.4"
+    ],
+    "options": "A. 17.4   B. 81.4   C. 31.7   D. 36.4",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_38.png",
+    "question_id": 38,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_39.png",
+    "ground_truth": "31.7",
+    "ground_truth_option": "B",
+    "options_list": [
+      "31.7",
+      "26.9",
+      "13.8",
+      "86.7"
+    ],
+    "options": "A. 13.8   B. 31.7   C. 86.7   D. 26.9",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_39.png",
+    "question_id": 39,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_40.png",
+    "ground_truth": "31.7",
+    "ground_truth_option": "B",
+    "options_list": [
+      "31.7",
+      "28.3",
+      "13.6",
+      "80.4"
+    ],
+    "options": "A. 28.3   B. 31.7   C. 80.4   D. 13.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_40.png",
+    "question_id": 40,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_41.png",
+    "ground_truth": "31.7",
+    "ground_truth_option": "C",
+    "options_list": [
+      "31.7",
+      "28.2",
+      "12.0",
+      "85.5"
+    ],
+    "options": "A. 85.5   B. 28.2   C. 31.7   D. 12.0",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_41.png",
+    "question_id": 41,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_42.png",
+    "ground_truth": "31.7",
+    "ground_truth_option": "C",
+    "options_list": [
+      "31.7",
+      "36.4",
+      "10.8",
+      "87.0"
+    ],
+    "options": "A. 87.0   B. 36.4   C. 31.7   D. 10.8",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_42.png",
+    "question_id": 42,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_43.png",
+    "ground_truth": "31.7",
+    "ground_truth_option": "D",
+    "options_list": [
+      "31.7",
+      "35.5",
+      "17.5",
+      "80.9"
+    ],
+    "options": "A. 35.5   B. 80.9   C. 17.5   D. 31.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_43.png",
+    "question_id": 43,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_44.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "38.6",
+      "11.5",
+      "84.8"
+    ],
+    "options": "A. 84.8   B. 11.5   C. 35.5   D. 38.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_44.png",
+    "question_id": 44,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_45.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "31.5",
+      "16.7",
+      "89.2"
+    ],
+    "options": "A. 31.5   B. 16.7   C. 35.5   D. 89.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_45.png",
+    "question_id": 45,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_46.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "40.4",
+      "14.0",
+      "89.4"
+    ],
+    "options": "A. 40.4   B. 35.5   C. 89.4   D. 14.0",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_46.png",
+    "question_id": 46,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_47.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "30.6",
+      "12.7",
+      "86.4"
+    ],
+    "options": "A. 12.7   B. 35.5   C. 30.6   D. 86.4",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_47.png",
+    "question_id": 47,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_48.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "31.8",
+      "10.6",
+      "81.9"
+    ],
+    "options": "A. 35.5   B. 10.6   C. 31.8   D. 81.9",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_48.png",
+    "question_id": 48,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_49.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "40.2",
+      "11.1",
+      "87.6"
+    ],
+    "options": "A. 40.2   B. 35.5   C. 11.1   D. 87.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_49.png",
+    "question_id": 49,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_50.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "38.9",
+      "14.3",
+      "87.1"
+    ],
+    "options": "A. 14.3   B. 87.1   C. 38.9   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_50.png",
+    "question_id": 50,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_51.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "38.8",
+      "12.5",
+      "86.2"
+    ],
+    "options": "A. 35.5   B. 12.5   C. 38.8   D. 86.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_51.png",
+    "question_id": 51,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_52.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "30.7",
+      "13.0",
+      "82.0"
+    ],
+    "options": "A. 82.0   B. 13.0   C. 30.7   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_52.png",
+    "question_id": 52,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_53.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "40.3",
+      "10.6",
+      "87.7"
+    ],
+    "options": "A. 40.3   B. 87.7   C. 35.5   D. 10.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_53.png",
+    "question_id": 53,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_54.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "38.6",
+      "12.3",
+      "82.5"
+    ],
+    "options": "A. 38.6   B. 82.5   C. 35.5   D. 12.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_54.png",
+    "question_id": 54,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_55.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "38.5",
+      "15.0",
+      "81.0"
+    ],
+    "options": "A. 15.0   B. 38.5   C. 35.5   D. 81.0",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_55.png",
+    "question_id": 55,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_56.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "31.0",
+      "14.6",
+      "80.5"
+    ],
+    "options": "A. 14.6   B. 35.5   C. 31.0   D. 80.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_56.png",
+    "question_id": 56,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_57.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "31.8",
+      "16.1",
+      "84.0"
+    ],
+    "options": "A. 84.0   B. 16.1   C. 31.8   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_57.png",
+    "question_id": 57,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_58.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "38.7",
+      "15.1",
+      "89.4"
+    ],
+    "options": "A. 35.5   B. 38.7   C. 15.1   D. 89.4",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_58.png",
+    "question_id": 58,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_59.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "39.9",
+      "12.6",
+      "82.0"
+    ],
+    "options": "A. 35.5   B. 39.9   C. 82.0   D. 12.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_59.png",
+    "question_id": 59,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_60.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "31.4",
+      "10.1",
+      "86.8"
+    ],
+    "options": "A. 86.8   B. 31.4   C. 10.1   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_60.png",
+    "question_id": 60,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_61.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "39.8",
+      "17.7",
+      "84.1"
+    ],
+    "options": "A. 17.7   B. 84.1   C. 39.8   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_61.png",
+    "question_id": 61,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_62.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "32.1",
+      "16.2",
+      "81.8"
+    ],
+    "options": "A. 35.5   B. 32.1   C. 81.8   D. 16.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_62.png",
+    "question_id": 62,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_63.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "31.7",
+      "15.2",
+      "81.3"
+    ],
+    "options": "A. 31.7   B. 35.5   C. 15.2   D. 81.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_63.png",
+    "question_id": 63,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_64.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "40.0",
+      "14.0",
+      "84.4"
+    ],
+    "options": "A. 14.0   B. 35.5   C. 84.4   D. 40.0",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_64.png",
+    "question_id": 64,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_65.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "31.3",
+      "17.6",
+      "89.2"
+    ],
+    "options": "A. 31.3   B. 35.5   C. 17.6   D. 89.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_65.png",
+    "question_id": 65,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_66.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "31.4",
+      "11.9",
+      "86.4"
+    ],
+    "options": "A. 86.4   B. 31.4   C. 35.5   D. 11.9",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_66.png",
+    "question_id": 66,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_67.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "38.8",
+      "12.7",
+      "87.6"
+    ],
+    "options": "A. 12.7   B. 35.5   C. 38.8   D. 87.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_67.png",
+    "question_id": 67,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_68.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "32.5",
+      "11.0",
+      "83.9"
+    ],
+    "options": "A. 35.5   B. 32.5   C. 83.9   D. 11.0",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_68.png",
+    "question_id": 68,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_69.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "30.7",
+      "17.6",
+      "85.5"
+    ],
+    "options": "A. 30.7   B. 17.6   C. 35.5   D. 85.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_69.png",
+    "question_id": 69,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_70.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "39.6",
+      "10.9",
+      "85.9"
+    ],
+    "options": "A. 39.6   B. 35.5   C. 85.9   D. 10.9",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_70.png",
+    "question_id": 70,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_71.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "39.3",
+      "11.6",
+      "82.6"
+    ],
+    "options": "A. 82.6   B. 11.6   C. 39.3   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_71.png",
+    "question_id": 71,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_72.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "39.3",
+      "10.3",
+      "81.9"
+    ],
+    "options": "A. 39.3   B. 35.5   C. 81.9   D. 10.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_72.png",
+    "question_id": 72,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_73.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "39.9",
+      "13.5",
+      "89.3"
+    ],
+    "options": "A. 13.5   B. 39.9   C. 35.5   D. 89.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_73.png",
+    "question_id": 73,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_74.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "31.3",
+      "12.7",
+      "85.9"
+    ],
+    "options": "A. 85.9   B. 31.3   C. 35.5   D. 12.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_74.png",
+    "question_id": 74,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_75.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "31.1",
+      "11.5",
+      "85.7"
+    ],
+    "options": "A. 35.5   B. 11.5   C. 85.7   D. 31.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_75.png",
+    "question_id": 75,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_76.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "31.8",
+      "14.8",
+      "82.5"
+    ],
+    "options": "A. 82.5   B. 14.8   C. 35.5   D. 31.8",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_76.png",
+    "question_id": 76,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_77.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "39.9",
+      "13.8",
+      "87.9"
+    ],
+    "options": "A. 13.8   B. 39.9   C. 87.9   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_77.png",
+    "question_id": 77,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_78.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "40.3",
+      "10.4",
+      "82.2"
+    ],
+    "options": "A. 35.5   B. 10.4   C. 82.2   D. 40.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_78.png",
+    "question_id": 78,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_79.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "39.7",
+      "15.9",
+      "89.2"
+    ],
+    "options": "A. 15.9   B. 89.2   C. 35.5   D. 39.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_79.png",
+    "question_id": 79,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_80.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "32.0",
+      "11.1",
+      "82.9"
+    ],
+    "options": "A. 82.9   B. 35.5   C. 32.0   D. 11.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_80.png",
+    "question_id": 80,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_81.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "32.0",
+      "17.7",
+      "81.6"
+    ],
+    "options": "A. 32.0   B. 81.6   C. 17.7   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_81.png",
+    "question_id": 81,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_82.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "38.5",
+      "11.3",
+      "82.8"
+    ],
+    "options": "A. 35.5   B. 11.3   C. 82.8   D. 38.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_82.png",
+    "question_id": 82,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_83.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "31.4",
+      "16.1",
+      "82.5"
+    ],
+    "options": "A. 16.1   B. 35.5   C. 31.4   D. 82.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_83.png",
+    "question_id": 83,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_84.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "39.8",
+      "12.9",
+      "83.9"
+    ],
+    "options": "A. 83.9   B. 12.9   C. 39.8   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_84.png",
+    "question_id": 84,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_85.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "40.0",
+      "11.4",
+      "81.2"
+    ],
+    "options": "A. 40.0   B. 81.2   C. 35.5   D. 11.4",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_85.png",
+    "question_id": 85,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_86.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "38.9",
+      "15.4",
+      "89.3"
+    ],
+    "options": "A. 35.5   B. 38.9   C. 15.4   D. 89.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_86.png",
+    "question_id": 86,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_87.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "31.2",
+      "11.8",
+      "87.3"
+    ],
+    "options": "A. 31.2   B. 11.8   C. 87.3   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_87.png",
+    "question_id": 87,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_88.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "31.4",
+      "15.0",
+      "81.9"
+    ],
+    "options": "A. 31.4   B. 15.0   C. 35.5   D. 81.9",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_88.png",
+    "question_id": 88,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_89.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "30.7",
+      "12.1",
+      "84.7"
+    ],
+    "options": "A. 84.7   B. 35.5   C. 30.7   D. 12.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_89.png",
+    "question_id": 89,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_90.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "39.5",
+      "10.3",
+      "86.6"
+    ],
+    "options": "A. 35.5   B. 86.6   C. 39.5   D. 10.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_90.png",
+    "question_id": 90,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_91.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "39.4",
+      "14.9",
+      "88.6"
+    ],
+    "options": "A. 88.6   B. 35.5   C. 14.9   D. 39.4",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_91.png",
+    "question_id": 91,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_92.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "39.6",
+      "13.9",
+      "88.5"
+    ],
+    "options": "A. 88.5   B. 39.6   C. 35.5   D. 13.9",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_92.png",
+    "question_id": 92,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_93.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "31.3",
+      "11.2",
+      "83.8"
+    ],
+    "options": "A. 31.3   B. 83.8   C. 35.5   D. 11.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_93.png",
+    "question_id": 93,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_94.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "38.6",
+      "10.3",
+      "80.7"
+    ],
+    "options": "A. 38.6   B. 80.7   C. 35.5   D. 10.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_94.png",
+    "question_id": 94,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_95.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "30.9",
+      "10.6",
+      "89.7"
+    ],
+    "options": "A. 35.5   B. 10.6   C. 89.7   D. 30.9",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_95.png",
+    "question_id": 95,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_96.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "38.8",
+      "11.2",
+      "81.3"
+    ],
+    "options": "A. 81.3   B. 38.8   C. 11.2   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_96.png",
+    "question_id": 96,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_97.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "30.7",
+      "17.6",
+      "84.6"
+    ],
+    "options": "A. 84.6   B. 35.5   C. 30.7   D. 17.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_97.png",
+    "question_id": 97,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_98.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "39.4",
+      "15.0",
+      "85.0"
+    ],
+    "options": "A. 15.0   B. 85.0   C. 39.4   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_98.png",
+    "question_id": 98,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_99.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "32.2",
+      "10.7",
+      "85.8"
+    ],
+    "options": "A. 35.5   B. 10.7   C. 85.8   D. 32.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_99.png",
+    "question_id": 99,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_100.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "30.6",
+      "12.9",
+      "80.1"
+    ],
+    "options": "A. 35.5   B. 12.9   C. 30.6   D. 80.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_100.png",
+    "question_id": 100,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_101.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "30.8",
+      "14.9",
+      "80.0"
+    ],
+    "options": "A. 30.8   B. 35.5   C. 14.9   D. 80.0",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_101.png",
+    "question_id": 101,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_102.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "38.5",
+      "14.6",
+      "85.4"
+    ],
+    "options": "A. 35.5   B. 85.4   C. 38.5   D. 14.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_102.png",
+    "question_id": 102,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_103.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "32.3",
+      "16.0",
+      "85.3"
+    ],
+    "options": "A. 35.5   B. 16.0   C. 85.3   D. 32.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_103.png",
+    "question_id": 103,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_104.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "31.5",
+      "17.7",
+      "88.3"
+    ],
+    "options": "A. 31.5   B. 35.5   C. 17.7   D. 88.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_104.png",
+    "question_id": 104,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_105.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "32.2",
+      "15.1",
+      "82.8"
+    ],
+    "options": "A. 35.5   B. 82.8   C. 32.2   D. 15.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_105.png",
+    "question_id": 105,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_106.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "39.2",
+      "14.8",
+      "85.5"
+    ],
+    "options": "A. 85.5   B. 35.5   C. 39.2   D. 14.8",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_106.png",
+    "question_id": 106,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_107.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "40.5",
+      "17.7",
+      "84.8"
+    ],
+    "options": "A. 84.8   B. 40.5   C. 17.7   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_107.png",
+    "question_id": 107,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_108.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "39.0",
+      "10.1",
+      "85.8"
+    ],
+    "options": "A. 35.5   B. 39.0   C. 85.8   D. 10.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_108.png",
+    "question_id": 108,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_109.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "30.9",
+      "10.9",
+      "87.2"
+    ],
+    "options": "A. 35.5   B. 87.2   C. 30.9   D. 10.9",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_109.png",
+    "question_id": 109,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_110.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "31.9",
+      "10.1",
+      "86.2"
+    ],
+    "options": "A. 31.9   B. 35.5   C. 10.1   D. 86.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_110.png",
+    "question_id": 110,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_111.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "39.8",
+      "15.5",
+      "81.7"
+    ],
+    "options": "A. 35.5   B. 15.5   C. 81.7   D. 39.8",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_111.png",
+    "question_id": 111,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_112.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "39.8",
+      "15.5",
+      "82.8"
+    ],
+    "options": "A. 15.5   B. 39.8   C. 35.5   D. 82.8",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_112.png",
+    "question_id": 112,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_113.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "39.0",
+      "11.8",
+      "88.9"
+    ],
+    "options": "A. 35.5   B. 11.8   C. 88.9   D. 39.0",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_113.png",
+    "question_id": 113,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_114.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "40.4",
+      "17.8",
+      "90.0"
+    ],
+    "options": "A. 17.8   B. 90.0   C. 35.5   D. 40.4",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_114.png",
+    "question_id": 114,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_115.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "31.8",
+      "11.7",
+      "82.8"
+    ],
+    "options": "A. 31.8   B. 11.7   C. 35.5   D. 82.8",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_115.png",
+    "question_id": 115,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_116.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "38.6",
+      "17.6",
+      "88.8"
+    ],
+    "options": "A. 17.6   B. 38.6   C. 35.5   D. 88.8",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_116.png",
+    "question_id": 116,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_117.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "39.8",
+      "13.2",
+      "81.6"
+    ],
+    "options": "A. 81.6   B. 13.2   C. 35.5   D. 39.8",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_117.png",
+    "question_id": 117,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_118.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "38.6",
+      "17.0",
+      "80.1"
+    ],
+    "options": "A. 38.6   B. 80.1   C. 17.0   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_118.png",
+    "question_id": 118,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_119.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "32.0",
+      "10.7",
+      "85.7"
+    ],
+    "options": "A. 32.0   B. 10.7   C. 35.5   D. 85.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_119.png",
+    "question_id": 119,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_120.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "31.7",
+      "17.0",
+      "89.1"
+    ],
+    "options": "A. 31.7   B. 89.1   C. 35.5   D. 17.0",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_120.png",
+    "question_id": 120,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_121.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "30.6",
+      "10.2",
+      "83.4"
+    ],
+    "options": "A. 83.4   B. 35.5   C. 10.2   D. 30.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_121.png",
+    "question_id": 121,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_122.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "38.8",
+      "17.8",
+      "82.0"
+    ],
+    "options": "A. 38.8   B. 35.5   C. 17.8   D. 82.0",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_122.png",
+    "question_id": 122,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_123.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "39.6",
+      "16.8",
+      "89.3"
+    ],
+    "options": "A. 39.6   B. 16.8   C. 89.3   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_123.png",
+    "question_id": 123,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_124.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "39.6",
+      "17.2",
+      "86.9"
+    ],
+    "options": "A. 35.5   B. 17.2   C. 86.9   D. 39.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_124.png",
+    "question_id": 124,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_125.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "31.7",
+      "10.0",
+      "89.7"
+    ],
+    "options": "A. 35.5   B. 10.0   C. 89.7   D. 31.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_125.png",
+    "question_id": 125,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_126.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "39.3",
+      "14.9",
+      "86.4"
+    ],
+    "options": "A. 14.9   B. 39.3   C. 35.5   D. 86.4",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_126.png",
+    "question_id": 126,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_127.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "39.6",
+      "12.5",
+      "88.6"
+    ],
+    "options": "A. 39.6   B. 12.5   C. 88.6   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_127.png",
+    "question_id": 127,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_128.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "39.5",
+      "15.2",
+      "89.1"
+    ],
+    "options": "A. 39.5   B. 15.2   C. 35.5   D. 89.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_128.png",
+    "question_id": 128,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_129.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "30.6",
+      "16.7",
+      "83.4"
+    ],
+    "options": "A. 16.7   B. 35.5   C. 30.6   D. 83.4",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_129.png",
+    "question_id": 129,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_130.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "39.5",
+      "14.2",
+      "86.0"
+    ],
+    "options": "A. 39.5   B. 86.0   C. 35.5   D. 14.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_130.png",
+    "question_id": 130,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_131.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "39.6",
+      "10.5",
+      "80.8"
+    ],
+    "options": "A. 10.5   B. 80.8   C. 39.6   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_131.png",
+    "question_id": 131,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_132.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "39.2",
+      "11.7",
+      "80.7"
+    ],
+    "options": "A. 39.2   B. 80.7   C. 35.5   D. 11.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_132.png",
+    "question_id": 132,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_133.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "39.4",
+      "12.3",
+      "89.0"
+    ],
+    "options": "A. 39.4   B. 89.0   C. 35.5   D. 12.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_133.png",
+    "question_id": 133,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_134.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "38.8",
+      "16.2",
+      "89.3"
+    ],
+    "options": "A. 38.8   B. 16.2   C. 35.5   D. 89.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_134.png",
+    "question_id": 134,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_135.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "32.2",
+      "10.8",
+      "82.3"
+    ],
+    "options": "A. 32.2   B. 82.3   C. 10.8   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_135.png",
+    "question_id": 135,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_136.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "38.8",
+      "15.2",
+      "88.3"
+    ],
+    "options": "A. 88.3   B. 35.5   C. 38.8   D. 15.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_136.png",
+    "question_id": 136,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_137.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "32.1",
+      "12.0",
+      "84.6"
+    ],
+    "options": "A. 35.5   B. 84.6   C. 32.1   D. 12.0",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_137.png",
+    "question_id": 137,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_138.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "31.8",
+      "12.3",
+      "88.1"
+    ],
+    "options": "A. 31.8   B. 12.3   C. 35.5   D. 88.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_138.png",
+    "question_id": 138,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_139.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "32.1",
+      "14.9",
+      "85.7"
+    ],
+    "options": "A. 14.9   B. 32.1   C. 85.7   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_139.png",
+    "question_id": 139,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_140.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "30.7",
+      "10.2",
+      "87.3"
+    ],
+    "options": "A. 30.7   B. 35.5   C. 10.2   D. 87.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_140.png",
+    "question_id": 140,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_141.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "39.7",
+      "10.0",
+      "83.6"
+    ],
+    "options": "A. 10.0   B. 35.5   C. 83.6   D. 39.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_141.png",
+    "question_id": 141,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_142.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "39.4",
+      "18.0",
+      "87.1"
+    ],
+    "options": "A. 18.0   B. 35.5   C. 39.4   D. 87.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_142.png",
+    "question_id": 142,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_143.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "39.1",
+      "16.1",
+      "89.6"
+    ],
+    "options": "A. 39.1   B. 89.6   C. 35.5   D. 16.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_143.png",
+    "question_id": 143,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_144.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "32.5",
+      "14.3",
+      "88.9"
+    ],
+    "options": "A. 32.5   B. 88.9   C. 14.3   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_144.png",
+    "question_id": 144,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_145.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "30.6",
+      "14.0",
+      "83.5"
+    ],
+    "options": "A. 30.6   B. 14.0   C. 83.5   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_145.png",
+    "question_id": 145,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_146.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "40.5",
+      "15.6",
+      "85.9"
+    ],
+    "options": "A. 40.5   B. 35.5   C. 85.9   D. 15.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_146.png",
+    "question_id": 146,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_147.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "39.5",
+      "12.7",
+      "89.2"
+    ],
+    "options": "A. 35.5   B. 39.5   C. 12.7   D. 89.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_147.png",
+    "question_id": 147,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_148.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "39.1",
+      "13.5",
+      "84.0"
+    ],
+    "options": "A. 84.0   B. 35.5   C. 39.1   D. 13.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_148.png",
+    "question_id": 148,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_149.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "32.1",
+      "14.5",
+      "84.4"
+    ],
+    "options": "A. 35.5   B. 32.1   C. 14.5   D. 84.4",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_149.png",
+    "question_id": 149,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_150.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "39.9",
+      "13.5",
+      "81.5"
+    ],
+    "options": "A. 39.9   B. 35.5   C. 13.5   D. 81.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_150.png",
+    "question_id": 150,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_151.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "39.7",
+      "11.0",
+      "87.0"
+    ],
+    "options": "A. 87.0   B. 11.0   C. 39.7   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_151.png",
+    "question_id": 151,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_152.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "39.9",
+      "14.6",
+      "80.8"
+    ],
+    "options": "A. 39.9   B. 14.6   C. 35.5   D. 80.8",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_152.png",
+    "question_id": 152,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_153.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "31.5",
+      "11.9",
+      "87.7"
+    ],
+    "options": "A. 31.5   B. 11.9   C. 35.5   D. 87.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_153.png",
+    "question_id": 153,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_154.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "30.6",
+      "14.1",
+      "82.7"
+    ],
+    "options": "A. 35.5   B. 14.1   C. 30.6   D. 82.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_154.png",
+    "question_id": 154,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_155.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "32.4",
+      "13.2",
+      "89.5"
+    ],
+    "options": "A. 35.5   B. 32.4   C. 13.2   D. 89.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_155.png",
+    "question_id": 155,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_156.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "40.2",
+      "13.8",
+      "83.0"
+    ],
+    "options": "A. 35.5   B. 13.8   C. 40.2   D. 83.0",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_156.png",
+    "question_id": 156,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_157.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "32.5",
+      "10.2",
+      "87.0"
+    ],
+    "options": "A. 32.5   B. 10.2   C. 35.5   D. 87.0",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_157.png",
+    "question_id": 157,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_158.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "31.2",
+      "15.3",
+      "87.3"
+    ],
+    "options": "A. 35.5   B. 31.2   C. 87.3   D. 15.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_158.png",
+    "question_id": 158,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_159.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "38.8",
+      "13.7",
+      "85.9"
+    ],
+    "options": "A. 35.5   B. 38.8   C. 85.9   D. 13.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_159.png",
+    "question_id": 159,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_160.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "30.6",
+      "15.3",
+      "80.2"
+    ],
+    "options": "A. 15.3   B. 80.2   C. 30.6   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_160.png",
+    "question_id": 160,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_161.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "40.1",
+      "12.2",
+      "80.7"
+    ],
+    "options": "A. 40.1   B. 80.7   C. 35.5   D. 12.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_161.png",
+    "question_id": 161,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_162.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "40.4",
+      "17.1",
+      "86.8"
+    ],
+    "options": "A. 40.4   B. 35.5   C. 86.8   D. 17.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_162.png",
+    "question_id": 162,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_163.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "38.5",
+      "13.5",
+      "83.4"
+    ],
+    "options": "A. 35.5   B. 38.5   C. 83.4   D. 13.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_163.png",
+    "question_id": 163,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_164.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "30.8",
+      "13.1",
+      "87.0"
+    ],
+    "options": "A. 30.8   B. 35.5   C. 87.0   D. 13.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_164.png",
+    "question_id": 164,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_165.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "40.1",
+      "17.8",
+      "84.9"
+    ],
+    "options": "A. 35.5   B. 84.9   C. 17.8   D. 40.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_165.png",
+    "question_id": 165,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_166.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "31.9",
+      "11.2",
+      "87.5"
+    ],
+    "options": "A. 35.5   B. 31.9   C. 11.2   D. 87.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_166.png",
+    "question_id": 166,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_167.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "40.2",
+      "10.3",
+      "88.6"
+    ],
+    "options": "A. 10.3   B. 35.5   C. 40.2   D. 88.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_167.png",
+    "question_id": 167,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_168.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "39.4",
+      "16.8",
+      "88.0"
+    ],
+    "options": "A. 35.5   B. 16.8   C. 39.4   D. 88.0",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_168.png",
+    "question_id": 168,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_169.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "31.1",
+      "14.7",
+      "87.5"
+    ],
+    "options": "A. 87.5   B. 35.5   C. 31.1   D. 14.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_169.png",
+    "question_id": 169,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_170.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "38.9",
+      "12.8",
+      "83.2"
+    ],
+    "options": "A. 35.5   B. 83.2   C. 38.9   D. 12.8",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_170.png",
+    "question_id": 170,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_171.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "39.9",
+      "10.7",
+      "85.3"
+    ],
+    "options": "A. 10.7   B. 39.9   C. 85.3   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_171.png",
+    "question_id": 171,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_172.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "B",
+    "options_list": [
+      "35.5",
+      "32.3",
+      "10.7",
+      "88.9"
+    ],
+    "options": "A. 10.7   B. 35.5   C. 88.9   D. 32.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_172.png",
+    "question_id": 172,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_173.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "C",
+    "options_list": [
+      "35.5",
+      "40.3",
+      "10.6",
+      "87.7"
+    ],
+    "options": "A. 87.7   B. 40.3   C. 35.5   D. 10.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_173.png",
+    "question_id": 173,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_174.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "D",
+    "options_list": [
+      "35.5",
+      "30.8",
+      "15.8",
+      "86.8"
+    ],
+    "options": "A. 86.8   B. 15.8   C. 30.8   D. 35.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_174.png",
+    "question_id": 174,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_175.png",
+    "ground_truth": "35.5",
+    "ground_truth_option": "A",
+    "options_list": [
+      "35.5",
+      "39.6",
+      "16.5",
+      "82.3"
+    ],
+    "options": "A. 35.5   B. 82.3   C. 39.6   D. 16.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_175.png",
+    "question_id": 175,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_176.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "D",
+    "options_list": [
+      "41.2",
+      "37.9",
+      "16.6",
+      "87.8"
+    ],
+    "options": "A. 37.9   B. 87.8   C. 16.6   D. 41.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_176.png",
+    "question_id": 176,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_177.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "B",
+    "options_list": [
+      "41.2",
+      "46.1",
+      "13.3",
+      "80.7"
+    ],
+    "options": "A. 46.1   B. 41.2   C. 13.3   D. 80.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_177.png",
+    "question_id": 177,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_178.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "B",
+    "options_list": [
+      "41.2",
+      "38.2",
+      "13.1",
+      "86.8"
+    ],
+    "options": "A. 86.8   B. 41.2   C. 38.2   D. 13.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_178.png",
+    "question_id": 178,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_179.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "A",
+    "options_list": [
+      "41.2",
+      "44.4",
+      "16.8",
+      "80.7"
+    ],
+    "options": "A. 41.2   B. 80.7   C. 16.8   D. 44.4",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_179.png",
+    "question_id": 179,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_180.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "C",
+    "options_list": [
+      "41.2",
+      "44.6",
+      "10.1",
+      "86.9"
+    ],
+    "options": "A. 86.9   B. 10.1   C. 41.2   D. 44.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_180.png",
+    "question_id": 180,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_181.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "B",
+    "options_list": [
+      "41.2",
+      "38.0",
+      "16.6",
+      "89.9"
+    ],
+    "options": "A. 89.9   B. 41.2   C. 38.0   D. 16.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_181.png",
+    "question_id": 181,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_182.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "B",
+    "options_list": [
+      "41.2",
+      "37.4",
+      "14.8",
+      "80.3"
+    ],
+    "options": "A. 37.4   B. 41.2   C. 14.8   D. 80.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_182.png",
+    "question_id": 182,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_183.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "A",
+    "options_list": [
+      "41.2",
+      "44.6",
+      "10.2",
+      "86.1"
+    ],
+    "options": "A. 41.2   B. 44.6   C. 10.2   D. 86.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_183.png",
+    "question_id": 183,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_184.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "C",
+    "options_list": [
+      "41.2",
+      "36.6",
+      "11.6",
+      "89.1"
+    ],
+    "options": "A. 36.6   B. 11.6   C. 41.2   D. 89.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_184.png",
+    "question_id": 184,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_185.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "C",
+    "options_list": [
+      "41.2",
+      "44.8",
+      "16.4",
+      "86.7"
+    ],
+    "options": "A. 44.8   B. 16.4   C. 41.2   D. 86.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_185.png",
+    "question_id": 185,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_186.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "A",
+    "options_list": [
+      "41.2",
+      "46.0",
+      "15.6",
+      "85.2"
+    ],
+    "options": "A. 41.2   B. 15.6   C. 85.2   D. 46.0",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_186.png",
+    "question_id": 186,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_187.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "D",
+    "options_list": [
+      "41.2",
+      "36.9",
+      "17.6",
+      "87.3"
+    ],
+    "options": "A. 17.6   B. 36.9   C. 87.3   D. 41.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_187.png",
+    "question_id": 187,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_188.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "B",
+    "options_list": [
+      "41.2",
+      "36.6",
+      "16.2",
+      "87.1"
+    ],
+    "options": "A. 16.2   B. 41.2   C. 87.1   D. 36.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_188.png",
+    "question_id": 188,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_189.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "A",
+    "options_list": [
+      "41.2",
+      "37.6",
+      "16.3",
+      "80.1"
+    ],
+    "options": "A. 41.2   B. 37.6   C. 16.3   D. 80.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_189.png",
+    "question_id": 189,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_190.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "D",
+    "options_list": [
+      "41.2",
+      "44.9",
+      "11.3",
+      "88.9"
+    ],
+    "options": "A. 44.9   B. 11.3   C. 88.9   D. 41.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_190.png",
+    "question_id": 190,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_191.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "C",
+    "options_list": [
+      "41.2",
+      "36.7",
+      "13.5",
+      "86.2"
+    ],
+    "options": "A. 13.5   B. 86.2   C. 41.2   D. 36.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_191.png",
+    "question_id": 191,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_192.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "D",
+    "options_list": [
+      "41.2",
+      "37.4",
+      "15.7",
+      "87.5"
+    ],
+    "options": "A. 87.5   B. 37.4   C. 15.7   D. 41.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_192.png",
+    "question_id": 192,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_193.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "C",
+    "options_list": [
+      "41.2",
+      "44.3",
+      "11.7",
+      "83.6"
+    ],
+    "options": "A. 44.3   B. 83.6   C. 41.2   D. 11.7",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_193.png",
+    "question_id": 193,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_194.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "C",
+    "options_list": [
+      "41.2",
+      "44.6",
+      "12.3",
+      "82.8"
+    ],
+    "options": "A. 12.3   B. 44.6   C. 41.2   D. 82.8",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_194.png",
+    "question_id": 194,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_195.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "B",
+    "options_list": [
+      "41.2",
+      "44.8",
+      "15.3",
+      "83.1"
+    ],
+    "options": "A. 83.1   B. 41.2   C. 15.3   D. 44.8",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_195.png",
+    "question_id": 195,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_196.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "C",
+    "options_list": [
+      "41.2",
+      "45.3",
+      "15.7",
+      "81.2"
+    ],
+    "options": "A. 15.7   B. 81.2   C. 41.2   D. 45.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_196.png",
+    "question_id": 196,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_197.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "B",
+    "options_list": [
+      "41.2",
+      "38.0",
+      "14.3",
+      "88.2"
+    ],
+    "options": "A. 38.0   B. 41.2   C. 88.2   D. 14.3",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_197.png",
+    "question_id": 197,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_198.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "C",
+    "options_list": [
+      "41.2",
+      "38.1",
+      "14.8",
+      "86.5"
+    ],
+    "options": "A. 86.5   B. 38.1   C. 41.2   D. 14.8",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_198.png",
+    "question_id": 198,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_199.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "A",
+    "options_list": [
+      "41.2",
+      "36.5",
+      "11.4",
+      "86.3"
+    ],
+    "options": "A. 41.2   B. 86.3   C. 11.4   D. 36.5",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_199.png",
+    "question_id": 199,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_200.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "B",
+    "options_list": [
+      "41.2",
+      "44.4",
+      "15.6",
+      "83.9"
+    ],
+    "options": "A. 44.4   B. 41.2   C. 83.9   D. 15.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_200.png",
+    "question_id": 200,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_201.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "C",
+    "options_list": [
+      "41.2",
+      "45.8",
+      "12.3",
+      "87.6"
+    ],
+    "options": "A. 12.3   B. 45.8   C. 41.2   D. 87.6",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_201.png",
+    "question_id": 201,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_202.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "C",
+    "options_list": [
+      "41.2",
+      "44.6",
+      "11.7",
+      "87.4"
+    ],
+    "options": "A. 44.6   B. 11.7   C. 41.2   D. 87.4",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_202.png",
+    "question_id": 202,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_203.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "C",
+    "options_list": [
+      "41.2",
+      "45.1",
+      "15.4",
+      "89.7"
+    ],
+    "options": "A. 89.7   B. 15.4   C. 41.2   D. 45.1",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_203.png",
+    "question_id": 203,
+    "cls_description": "High Difficulty"
+  },
+  {
+    "image_path": "image_204.png",
+    "ground_truth": "41.2",
+    "ground_truth_option": "A",
+    "options_list": [
+      "41.2",
+      "37.7",
+      "11.2",
+      "82.0"
+    ],
+    "options": "A. 41.2   B. 82.0   C. 37.7   D. 11.2",
+    "prompts": [
+      "What is the incidence angle of this SAR image?",
+      "Estimate the incidence angle of this SAR image. ",
+      "Judging by the extent of radar shadow, classify the incidence angle of this acquisition.",
+      "What was the incidence angle used to acquire this SAR scene?",
+      "Infer the incidence angle based on the visual properties of this SAR image."
+    ],
+    "task": "Incidence Angle Estimation",
+    "image_name": "image_204.png",
+    "question_id": 204,
+    "cls_description": "High Difficulty"
+  }
+]
