@@ -147,7 +147,7 @@ SAREval uses task-specific metrics for comprehensive assessment:
 
 ## 📝 Citation
 If you use SAREval in your research, please cite our paper:
-
+```BibTeX
 @article{wang2026sareval,
   title={SAREval: A Multi-Dimensional and Multi-Task Benchmark for Evaluating Visual Language Models on SAR Image Understanding},
   author={Wang, Z. and Liu, L. and Wan, G. and Lu, Y. and Zheng, F. and Sun, G. and Huang, Y. and Guo, S. and Li, X. and Yuan, L.},
@@ -159,5 +159,8 @@ If you use SAREval in your research, please cite our paper:
   publisher={MDPI},
   doi={10.3390/rs18010082}
 }
+```
+
+
 ## 🎯 Contributing
 We welcome contributions to SAREval! Feel free to submit PRs for bug fixes, new tasks, or improved scripts. For major changes, please open an issue first to discuss your ideas.
