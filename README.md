@@ -145,6 +145,21 @@ SAREval uses task-specific metrics for comprehensive assessment:
 - **Visual Grounding**:  IoU@0.25, IoU@0.5  
 - **Description Tasks (e.g., scene captioning)**: BLEU, ROUGE-L, BERTScore，LLM-as-a-Judge
 
+## 📝 Citation
+If you use SAREval in your research, please cite our paper:
 
+BibTeX
+bibtex
+@article{wang2026sareval,
+  title={SAREval: A Multi-Dimensional and Multi-Task Benchmark for Evaluating Visual Language Models on SAR Image Understanding},
+  author={Wang, Z. and Liu, L. and Wan, G. and Lu, Y. and Zheng, F. and Sun, G. and Huang, Y. and Guo, S. and Li, X. and Yuan, L.},
+  journal={Remote Sensing},
+  volume={18},
+  number={1},
+  pages={82},
+  year={2026},
+  publisher={MDPI},
+  doi={10.3390/rs18010082}
+}
 ## 🎯 Contributing
 We welcome contributions to SAREval! Feel free to submit PRs for bug fixes, new tasks, or improved scripts. For major changes, please open an issue first to discuss your ideas.
